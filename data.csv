@@ -1,0 +1,2201 @@
+﻿Date,Emp_ID,Emp_Name,Model,Line,Stage,Stage_Criticality,Units_Checked,Total_Errors,Defect_Rate,Pass_Ratio,Error_Std_Dev,Critical_Exposure,Suitability_Score
+2026-01-14,1007,Neha,Fortuner,BE-09,Battery,Semi-Critical,1770,2,0.0011,0.999,0.07,92,96.88
+2026-01-15,1006,Shubham,Prado NA,BE-07,Inner VI,Semi-Critical,2269,2,0.0009,0.999,0.74,62,87.69
+2026-01-16,1001,Anuj,Prado EU,BE-09,RF Cable,Critical,1558,1,0.0006,0.999,0.28,66,92.65
+2026-01-11,1007,Neha,Fortuner,BE-07,Battery,Semi-Critical,2004,0,0,1,0.2,43,91.58
+2026-01-16,1002,Kajal,Fortuner,BE-07,Camera,Critical,2276,0,0,1,0.29,64,92.43
+2026-01-11,1008,Saurabh,Fortuner,BE-08,RF Cable,Critical,1705,1,0.0006,0.999,0.51,58,89.68
+2026-01-14,1002,Kajal,Fortuner,BE-07,Camera,Critical,2055,4,0.0019,0.998,0.05,44,93.02
+2026-01-14,1002,Kajal,Innova,BE-07,Inner VI,Semi-Critical,2291,0,0,1,0.65,45,87.25
+2026-01-12,1001,Anuj,Prado NA,BE-09,PCB,Critical,2020,2,0.001,0.998,0.85,39,84.67
+2026-01-12,1005,Puja,Fortuner,BE-08,Camera,Critical,1730,4,0.0023,0.997,0.8,41,85.23
+2026-01-16,1003,Ritesh,Innova,BE-08,PCB,Critical,2238,0,0,1,0.91,94,88.73
+2026-01-16,1007,Neha,Prado NA,BE-07,RF Cable,Critical,1892,1,0.0005,0.999,0.24,100,95.89
+2026-01-14,1004,Rishi,Fortuner,BE-09,Cosmetic,Normal,1984,0,0,1,0.91,40,84.23
+2026-01-11,1003,Ritesh,Innova,BE-07,Cosmetic,Normal,2295,4,0.0017,0.998,1.07,79,85.75
+2026-01-10,1007,Neha,Innova,BE-09,Cosmetic,Normal,1724,0,0,1,0,81,96.75
+2026-01-10,1006,Shubham,Fortuner,BE-07,RF Cable,Critical,2148,2,0.0009,0.999,0.2,36,90.93
+2026-01-10,1001,Anuj,Prado EU,BE-08,Camera,Critical,2063,2,0.001,0.999,1.2,63,83.18
+2026-01-15,1006,Shubham,Fortuner,BE-09,Inner VI,Semi-Critical,2235,1,0.0004,0.999,0.59,36,87.07
+2026-01-16,1004,Rishi,Fortuner,BE-07,RF Cable,Critical,1683,2,0.0012,0.998,0.76,15,83.55
+2026-01-13,1009,Kiran,Innova,BE-08,Battery,Semi-Critical,1686,0,0,1,0.71,63,88.15
+2026-01-10,1003,Ritesh,Innova,BE-07,RF Cable,Critical,1647,1,0.0006,0.999,0.46,86,92.52
+2026-01-10,1009,Kiran,Prado EU,BE-07,Camera,Critical,1650,2,0.0012,0.998,1.18,64,83.44
+2026-01-13,1005,Puja,Fortuner,BE-08,Inner VI,Semi-Critical,1659,1,0.0006,0.999,0.87,7,81.84
+2026-01-15,1008,Saurabh,Innova,BE-08,PCB,Critical,2127,0,0,1,1.08,88,86.53
+2026-01-12,1009,Kiran,Fortuner,BE-07,RF Cable,Critical,1652,0,0,1,0.66,58,88.23
+2026-01-16,1009,Kiran,Innova,BE-07,Battery,Semi-Critical,1660,0,0,1,0.21,12,88.9
+2026-01-12,1001,Anuj,Prado EU,BE-09,Battery,Semi-Critical,1969,0,0,1,1.17,113,87.72
+2026-01-10,1002,Kajal,Fortuner,BE-07,Inner VI,Semi-Critical,2297,3,0.0013,0.998,0.69,68,88.66
+2026-01-10,1005,Puja,Fortuner,BE-09,Cosmetic,Normal,1598,2,0.0013,0.998,0.69,64,88.33
+2026-01-11,1005,Puja,Fortuner,BE-09,PCB,Critical,1755,2,0.0011,0.998,1.12,50,82.87
+2026-01-11,1006,Shubham,Prado NA,BE-07,Camera,Critical,2138,5,0.0023,0.997,0.97,103,88.7
+2026-01-16,1010,Maya,Prado EU,BE-09,PCB,Critical,1535,5,0.0033,0.996,0.11,91,96.23
+2026-01-10,1009,Kiran,Fortuner,BE-07,Camera,Critical,2074,4,0.0019,0.997,0.64,105,92.2
+2026-01-13,1005,Puja,Fortuner,BE-07,Battery,Semi-Critical,2273,0,0,1,0.65,59,88.42
+2026-01-11,1002,Kajal,Innova,BE-08,Battery,Semi-Critical,1605,0,0,1,0.32,96,94.8
+2026-01-11,1005,Puja,Prado EU,BE-07,Camera,Critical,1616,0,0,1,0.83,5,82.12
+2026-01-14,1002,Kajal,Prado EU,BE-07,Cosmetic,Normal,1617,2,0.0012,0.998,0.89,67,86.58
+2026-01-14,1007,Neha,Innova,BE-07,RF Cable,Critical,1575,1,0.0006,0.999,0.41,96,93.85
+2026-01-10,1004,Rishi,Prado EU,BE-08,Inner VI,Semi-Critical,1703,0,0,1,0.97,104,88.97
+2026-01-14,1005,Puja,Fortuner,BE-09,Camera,Critical,2021,3,0.0015,0.998,0.6,73,89.96
+2026-01-13,1002,Kajal,Innova,BE-07,PCB,Critical,1659,3,0.0018,0.997,0.65,105,92.11
+2026-01-11,1001,Anuj,Innova,BE-09,Camera,Critical,1542,1,0.0006,0.999,0.02,119,99.67
+2026-01-14,1001,Anuj,Prado EU,BE-07,Camera,Critical,2275,2,0.0009,0.999,0.6,62,89.1
+2026-01-12,1008,Saurabh,Prado NA,BE-09,Battery,Semi-Critical,2228,1,0.0004,0.999,0.9,68,86.63
+2026-01-15,1004,Rishi,Prado NA,BE-07,Camera,Critical,1595,3,0.0019,0.997,0.91,109,89.83
+2026-01-13,1004,Rishi,Prado NA,BE-09,PCB,Critical,1841,1,0.0005,0.999,1.15,23,80.38
+2026-01-14,1004,Rishi,Innova,BE-07,RF Cable,Critical,2005,2,0.001,0.999,0.81,104,90.49
+2026-01-14,1007,Neha,Innova,BE-09,Inner VI,Semi-Critical,2192,1,0.0005,0.999,0.53,91,92.25
+2026-01-10,1002,Kajal,Prado EU,BE-09,Battery,Semi-Critical,1508,2,0.0013,0.998,0.84,46,85.33
+2026-01-13,1010,Maya,Prado NA,BE-09,Camera,Critical,2016,1,0.0005,0.999,1.04,90,87.06
+2026-01-11,1007,Neha,Prado EU,BE-09,PCB,Critical,1800,2,0.0011,0.998,0.67,95,91.12
+2026-01-13,1007,Neha,Fortuner,BE-07,Cosmetic,Normal,1950,0,0,1,0.69,24,85.1
+2026-01-11,1009,Kiran,Fortuner,BE-07,PCB,Critical,1886,3,0.0016,0.998,0.27,10,88
+2026-01-16,1005,Puja,Prado NA,BE-07,Cosmetic,Normal,1712,1,0.0006,0.999,1.16,22,80.19
+2026-01-15,1001,Anuj,Fortuner,BE-07,Inner VI,Semi-Critical,2065,2,0.001,0.999,1.14,76,84.86
+2026-01-12,1008,Saurabh,Prado EU,BE-09,Camera,Critical,1847,2,0.0011,0.999,0.43,104,94.28
+2026-01-14,1001,Anuj,Innova,BE-07,PCB,Critical,2223,2,0.0009,0.999,1.13,119,88.55
+2026-01-11,1002,Kajal,Fortuner,BE-09,Camera,Critical,2297,1,0.0004,0.999,0.45,69,91.22
+2026-01-16,1001,Anuj,Prado EU,BE-07,RF Cable,Critical,1781,4,0.0022,0.997,0.33,116,96.19
+2026-01-10,1005,Puja,Innova,BE-07,Inner VI,Semi-Critical,2270,3,0.0013,0.998,0.54,114,94
+2026-01-15,1004,Rishi,Prado EU,BE-09,Cosmetic,Normal,1948,2,0.001,0.999,0.81,38,84.99
+2026-01-16,1002,Kajal,Innova,BE-07,Battery,Semi-Critical,1553,1,0.0006,0.999,0.71,51,87.1
+2026-01-16,1005,Puja,Prado EU,BE-07,Cosmetic,Normal,2077,4,0.0019,0.997,0.67,55,87.73
+2026-01-14,1006,Shubham,Prado EU,BE-08,PCB,Critical,1834,4,0.0022,0.997,0.59,88,91.25
+2026-01-16,1005,Puja,Fortuner,BE-09,Camera,Critical,1704,1,0.0006,0.999,0.64,27,85.8
+2026-01-11,1006,Shubham,Prado NA,BE-08,Battery,Semi-Critical,1859,1,0.0005,0.999,0.62,36,86.75
+2026-01-14,1003,Ritesh,Prado NA,BE-08,RF Cable,Critical,2288,1,0.0004,0.999,0.11,5,89.28
+2026-01-16,1002,Kajal,Fortuner,BE-08,PCB,Critical,1577,1,0.0006,0.999,0.58,90,91.65
+2026-01-16,1001,Anuj,Fortuner,BE-08,Camera,Critical,1756,0,0,1,1.18,51,82.45
+2026-01-12,1010,Maya,Innova,BE-09,Battery,Semi-Critical,1577,1,0.0006,0.999,0.3,11,87.87
+2026-01-10,1002,Kajal,Prado NA,BE-09,Camera,Critical,2238,1,0.0004,0.999,0.22,43,91.35
+2026-01-11,1006,Shubham,Innova,BE-07,Camera,Critical,1625,0,0,1,0.71,72,88.9
+2026-01-15,1002,Kajal,Fortuner,BE-08,Battery,Semi-Critical,1610,2,0.0012,0.998,0.45,105,94.15
+2026-01-15,1002,Kajal,Innova,BE-08,RF Cable,Critical,1814,3,0.0017,0.998,0.3,8,87.54
+2026-01-16,1008,Saurabh,Prado EU,BE-08,PCB,Critical,2258,0,0,1,0.84,28,83.93
+2026-01-11,1004,Rishi,Innova,BE-09,Battery,Semi-Critical,1574,2,0.0013,0.998,0.8,61,86.99
+2026-01-16,1008,Saurabh,Prado NA,BE-08,Camera,Critical,1934,3,0.0016,0.998,0.88,16,82.41
+2026-01-14,1006,Shubham,Innova,BE-08,Inner VI,Semi-Critical,1638,1,0.0006,0.999,0.44,14,86.72
+2026-01-16,1002,Kajal,Fortuner,BE-08,Inner VI,Semi-Critical,1667,1,0.0006,0.999,0.91,79,87.43
+2026-01-15,1007,Neha,Prado NA,BE-09,RF Cable,Critical,2105,0,0,1,0.9,54,85.5
+2026-01-15,1009,Kiran,Fortuner,BE-08,Camera,Critical,2087,3,0.0014,0.998,0.99,105,88.73
+2026-01-11,1003,Ritesh,Fortuner,BE-09,Inner VI,Semi-Critical,1664,2,0.0012,0.998,1.05,93,87.16
+2026-01-10,1008,Saurabh,Prado NA,BE-09,Cosmetic,Normal,2299,1,0.0004,0.999,0.6,29,86.38
+2026-01-11,1007,Neha,Fortuner,BE-09,Camera,Critical,2115,1,0.0005,0.999,0.4,55,90.55
+2026-01-10,1001,Anuj,Prado EU,BE-08,Battery,Semi-Critical,1977,2,0.001,0.999,0.3,59,91.84
+2026-01-16,1002,Kajal,Prado NA,BE-07,Camera,Critical,2016,3,0.0015,0.998,0.15,60,93.38
+2026-01-13,1004,Rishi,Innova,BE-08,Battery,Semi-Critical,2184,2,0.0009,0.999,0.3,73,93.01
+2026-01-15,1010,Maya,Prado EU,BE-07,Cosmetic,Normal,1633,1,0.0006,0.999,0.18,17,89.56
+2026-01-10,1001,Anuj,Fortuner,BE-09,Battery,Semi-Critical,2182,2,0.0009,0.999,0.85,110,90.59
+2026-01-16,1010,Maya,Prado NA,BE-07,PCB,Critical,1550,4,0.0026,0.996,1.01,58,84.51
+2026-01-16,1006,Shubham,Fortuner,BE-07,RF Cable,Critical,2160,2,0.0009,0.999,0.72,39,85.97
+2026-01-10,1010,Maya,Innova,BE-08,RF Cable,Critical,1885,3,0.0016,0.998,1.1,58,83.71
+2026-01-13,1005,Puja,Prado NA,BE-07,PCB,Critical,1676,2,0.0012,0.998,0.62,85,90.79
+2026-01-14,1004,Rishi,Prado EU,BE-09,Cosmetic,Normal,1841,0,0,1,0.6,5,84.42
+2026-01-11,1003,Ritesh,Prado NA,BE-08,RF Cable,Critical,2222,2,0.0009,0.999,1,23,81.85
+2026-01-14,1003,Ritesh,Innova,BE-09,Camera,Critical,1693,2,0.0012,0.998,0.12,12,89.7
+2026-01-12,1003,Ritesh,Innova,BE-07,Camera,Critical,1957,6,0.0031,0.996,0.3,91,94.34
+2026-01-12,1008,Saurabh,Fortuner,BE-08,Cosmetic,Normal,2260,1,0.0004,0.999,0.29,38,90.23
+2026-01-16,1008,Saurabh,Prado EU,BE-09,Cosmetic,Normal,1990,2,0.001,0.999,0.39,86,93.19
+2026-01-11,1001,Anuj,Prado NA,BE-09,Inner VI,Semi-Critical,1646,0,0,1,0.77,86,89.47
+2026-01-13,1005,Puja,Prado NA,BE-07,Battery,Semi-Critical,2022,0,0,1,0.71,16,84.23
+2026-01-11,1006,Shubham,Prado EU,BE-09,Cosmetic,Normal,1725,1,0.0006,0.999,0.94,85,87.63
+2026-01-13,1007,Neha,Prado EU,BE-08,PCB,Critical,1614,3,0.0019,0.998,0.77,114,91.66
+2026-01-10,1002,Kajal,Prado EU,BE-08,Inner VI,Semi-Critical,1574,2,0.0013,0.998,0.08,41,92.52
+2026-01-11,1007,Neha,Fortuner,BE-07,Inner VI,Semi-Critical,1841,0,0,1,1.05,44,83.17
+2026-01-13,1009,Kiran,Prado EU,BE-09,Inner VI,Semi-Critical,1954,2,0.001,0.998,0.51,6,85.32
+2026-01-12,1001,Anuj,Innova,BE-09,RF Cable,Critical,2192,2,0.0009,0.999,0.43,117,95.38
+2026-01-13,1006,Shubham,Innova,BE-07,Camera,Critical,1554,3,0.0019,0.998,0.31,103,95.34
+2026-01-11,1002,Kajal,Prado NA,BE-09,PCB,Critical,1653,2,0.0012,0.998,0.85,108,90.4
+2026-01-14,1003,Ritesh,Prado NA,BE-08,RF Cable,Critical,1997,3,0.0015,0.998,0.11,53,93.2
+2026-01-13,1009,Kiran,Innova,BE-09,PCB,Critical,1511,5,0.0033,0.995,0.3,93,94.47
+2026-01-11,1010,Maya,Prado NA,BE-08,PCB,Critical,2037,0,0,1,1.11,27,81.15
+2026-01-14,1010,Maya,Prado EU,BE-09,Cosmetic,Normal,1834,1,0.0005,0.999,1.17,91,85.84
+2026-01-14,1004,Rishi,Innova,BE-08,RF Cable,Critical,1901,3,0.0016,0.998,0.58,7,84.66
+2026-01-14,1007,Neha,Prado EU,BE-07,Battery,Semi-Critical,1538,0,0,1,0.95,29,82.92
+2026-01-14,1010,Maya,Prado EU,BE-09,Battery,Semi-Critical,1949,0,0,1,0.03,17,91.12
+2026-01-13,1007,Neha,Innova,BE-07,Cosmetic,Normal,1528,1,0.0007,0.999,0.75,60,87.45
+2026-01-13,1010,Maya,Prado EU,BE-08,Cosmetic,Normal,1858,2,0.0011,0.999,0.36,118,96.15
+2026-01-10,1005,Puja,Fortuner,BE-09,PCB,Critical,1931,0,0,1,0.51,53,89.32
+2026-01-15,1010,Maya,Fortuner,BE-09,Inner VI,Semi-Critical,1560,0,0,1,1.18,67,83.78
+2026-01-10,1002,Kajal,Prado EU,BE-07,PCB,Critical,2210,4,0.0018,0.997,0.28,102,95.55
+2026-01-14,1001,Anuj,Innova,BE-08,Camera,Critical,1758,3,0.0017,0.998,0.72,117,92.41
+2026-01-10,1003,Ritesh,Fortuner,BE-09,Camera,Critical,1561,5,0.0032,0.995,1.03,15,80.68
+2026-01-12,1009,Kiran,Prado NA,BE-08,RF Cable,Critical,2237,4,0.0018,0.998,0.45,76,91.69
+2026-01-11,1002,Kajal,Fortuner,BE-07,Cosmetic,Normal,1536,0,0,1,0.09,85,96.18
+2026-01-13,1003,Ritesh,Prado NA,BE-09,Camera,Critical,1822,2,0.0011,0.999,1.05,23,81.33
+2026-01-15,1009,Kiran,Fortuner,BE-09,Inner VI,Semi-Critical,1862,0,0,1,0.13,31,91.28
+2026-01-14,1005,Puja,Prado EU,BE-09,RF Cable,Critical,2056,1,0.0005,0.999,0.15,111,97.71
+2026-01-10,1002,Kajal,Prado NA,BE-09,Battery,Semi-Critical,1757,2,0.0011,0.999,0.74,117,92.26
+2026-01-11,1002,Kajal,Innova,BE-09,Battery,Semi-Critical,1947,2,0.001,0.998,0.65,100,91.75
+2026-01-10,1005,Puja,Prado EU,BE-08,Inner VI,Semi-Critical,1777,2,0.0011,0.999,0.85,26,83.58
+2026-01-14,1001,Anuj,Fortuner,BE-09,Cosmetic,Normal,1973,0,0,1,1.19,51,82.35
+2026-01-12,1003,Ritesh,Innova,BE-08,Battery,Semi-Critical,1880,1,0.0005,0.999,0.45,36,88.46
+2026-01-14,1007,Neha,Innova,BE-08,Camera,Critical,1981,2,0.001,0.999,0.2,33,90.67
+2026-01-14,1004,Rishi,Prado NA,BE-09,Cosmetic,Normal,1958,0,0,1,0.18,96,96.2
+2026-01-16,1005,Puja,Prado EU,BE-07,RF Cable,Critical,1583,1,0.0006,0.999,0.49,42,88.55
+2026-01-14,1003,Ritesh,Fortuner,BE-09,PCB,Critical,2292,3,0.0013,0.998,0.24,97,95.58
+2026-01-13,1002,Kajal,Prado EU,BE-09,Battery,Semi-Critical,1698,1,0.0006,0.999,1.11,7,79.44
+2026-01-10,1009,Kiran,Fortuner,BE-09,Cosmetic,Normal,1705,1,0.0006,0.999,0.67,52,87.59
+2026-01-10,1006,Shubham,Fortuner,BE-07,Cosmetic,Normal,2000,0,0,1,0.37,81,93.05
+2026-01-10,1002,Kajal,Fortuner,BE-09,Cosmetic,Normal,1819,2,0.0011,0.998,0.91,106,89.64
+2026-01-15,1006,Shubham,Fortuner,BE-07,RF Cable,Critical,1587,1,0.0006,0.999,0.02,58,94.58
+2026-01-11,1010,Maya,Prado EU,BE-09,Camera,Critical,1501,2,0.0013,0.998,0.43,107,94.51
+2026-01-14,1010,Maya,Innova,BE-09,Cosmetic,Normal,1621,1,0.0006,0.999,0.13,79,95.24
+2026-01-15,1006,Shubham,Fortuner,BE-08,PCB,Critical,2273,2,0.0009,0.999,1.14,96,86.53
+2026-01-12,1007,Neha,Prado EU,BE-08,RF Cable,Critical,1583,3,0.0019,0.998,0.2,18,89.36
+2026-01-14,1007,Neha,Innova,BE-07,Battery,Semi-Critical,2036,1,0.0005,0.999,0.4,12,86.96
+2026-01-10,1007,Neha,Innova,BE-09,RF Cable,Critical,2093,0,0,1,0.4,60,91
+2026-01-15,1010,Maya,Prado NA,BE-09,RF Cable,Critical,1534,1,0.0007,0.999,1.01,53,84.27
+2026-01-11,1010,Maya,Prado NA,BE-09,Inner VI,Semi-Critical,1523,1,0.0007,0.999,1.19,28,80.38
+2026-01-16,1009,Kiran,Prado EU,BE-09,Battery,Semi-Critical,1749,1,0.0006,0.999,1.08,10,79.99
+2026-01-13,1003,Ritesh,Fortuner,BE-08,Camera,Critical,1745,2,0.0011,0.998,0.28,30,89.6
+2026-01-15,1007,Neha,Fortuner,BE-09,Camera,Critical,2025,3,0.0015,0.998,1.04,115,89.07
+2026-01-11,1009,Kiran,Innova,BE-07,Battery,Semi-Critical,1629,0,0,1,0.37,32,88.97
+2026-01-11,1005,Puja,Prado NA,BE-08,PCB,Critical,1923,2,0.001,0.999,1.06,18,80.82
+2026-01-14,1009,Kiran,Innova,BE-07,PCB,Critical,1632,2,0.0012,0.998,0.2,111,97.16
+2026-01-16,1005,Puja,Prado NA,BE-08,PCB,Critical,1996,4,0.002,0.998,1.18,77,84.47
+2026-01-11,1001,Anuj,Fortuner,BE-07,RF Cable,Critical,1697,1,0.0006,0.999,0.7,16,84.29
+2026-01-16,1002,Kajal,Fortuner,BE-08,RF Cable,Critical,1625,4,0.0025,0.997,0.8,88,89.14
+2026-01-15,1004,Rishi,Prado NA,BE-09,Camera,Critical,2245,1,0.0004,0.999,0.88,33,83.92
+2026-01-13,1006,Shubham,Prado NA,BE-07,Camera,Critical,1692,6,0.0035,0.996,1.12,50,82.7
+2026-01-10,1003,Ritesh,Prado NA,BE-07,Cosmetic,Normal,1552,2,0.0013,0.998,0.73,67,88.18
+2026-01-14,1009,Kiran,Prado EU,BE-08,Inner VI,Semi-Critical,2084,0,0,1,0.13,102,97.2
+2026-01-16,1004,Rishi,Prado NA,BE-07,Cosmetic,Normal,1518,3,0.002,0.997,0.14,58,93.27
+2026-01-10,1001,Anuj,Innova,BE-08,Battery,Semi-Critical,2210,1,0.0005,0.999,0.72,100,91.1
+2026-01-14,1010,Maya,Prado NA,BE-08,RF Cable,Critical,2121,3,0.0014,0.998,1.02,32,82.35
+2026-01-16,1009,Kiran,Prado EU,BE-08,Battery,Semi-Critical,1632,1,0.0006,0.999,0.73,52,86.98
+2026-01-14,1002,Kajal,Fortuner,BE-09,Battery,Semi-Critical,1926,0,0,1,0.01,51,94.15
+2026-01-14,1009,Kiran,Fortuner,BE-07,Battery,Semi-Critical,2214,1,0.0005,0.999,0.23,82,94.5
+2026-01-10,1004,Rishi,Prado NA,BE-08,Cosmetic,Normal,2038,2,0.001,0.999,0.86,6,81.83
+2026-01-16,1009,Kiran,Innova,BE-07,Cosmetic,Normal,1958,0,0,1,0.96,35,83.32
+2026-01-11,1010,Maya,Innova,BE-09,Inner VI,Semi-Critical,1797,2,0.0011,0.998,0.45,49,89.49
+2026-01-11,1007,Neha,Prado NA,BE-07,Cosmetic,Normal,1617,1,0.0006,0.999,0.78,92,89.82
+2026-01-11,1010,Maya,Prado NA,BE-08,PCB,Critical,1653,1,0.0006,0.999,1.02,43,83.33
+2026-01-10,1003,Ritesh,Prado EU,BE-07,Battery,Semi-Critical,1938,1,0.0005,0.999,1.04,25,81.64
+2026-01-11,1003,Ritesh,Fortuner,BE-09,Battery,Semi-Critical,1954,1,0.0005,0.999,0.71,29,85.28
+2026-01-13,1007,Neha,Prado EU,BE-09,Inner VI,Semi-Critical,2157,1,0.0005,0.999,0.83,107,90.58
+2026-01-10,1004,Rishi,Fortuner,BE-07,Camera,Critical,1601,2,0.0012,0.998,1.07,7,79.79
+2026-01-11,1006,Shubham,Innova,BE-08,PCB,Critical,2207,3,0.0014,0.998,0.33,76,92.92
+2026-01-14,1010,Maya,Prado NA,BE-07,RF Cable,Critical,1841,5,0.0027,0.997,0.67,40,86.43
+2026-01-15,1009,Kiran,Prado NA,BE-09,Camera,Critical,1945,2,0.001,0.999,1.18,7,78.7
+2026-01-11,1003,Ritesh,Fortuner,BE-09,Cosmetic,Normal,2016,2,0.001,0.999,0.11,26,90.99
+2026-01-11,1001,Anuj,Prado NA,BE-08,Inner VI,Semi-Critical,2283,1,0.0004,0.999,0.14,27,90.82
+2026-01-11,1009,Kiran,Innova,BE-08,Inner VI,Semi-Critical,2269,2,0.0009,0.999,0.54,72,90.53
+2026-01-14,1003,Ritesh,Innova,BE-08,Cosmetic,Normal,1642,2,0.0012,0.998,0.14,86,95.66
+2026-01-14,1008,Saurabh,Innova,BE-08,Camera,Critical,2169,1,0.0005,0.999,0.98,19,81.75
+2026-01-15,1002,Kajal,Prado EU,BE-07,RF Cable,Critical,1965,5,0.0025,0.996,0.17,84,95.09
+2026-01-13,1004,Rishi,Prado NA,BE-09,RF Cable,Critical,1982,1,0.0005,0.999,0.08,102,97.66
+2026-01-16,1004,Rishi,Prado EU,BE-07,Inner VI,Semi-Critical,1511,2,0.0013,0.998,0.53,64,89.93
+2026-01-10,1002,Kajal,Prado EU,BE-08,Battery,Semi-Critical,2162,0,0,1,0.94,14,81.77
+2026-01-10,1002,Kajal,Fortuner,BE-08,Inner VI,Semi-Critical,1555,0,0,1,0.2,25,90.08
+2026-01-16,1003,Ritesh,Prado EU,BE-09,Battery,Semi-Critical,2108,3,0.0014,0.998,0.75,42,85.89
+2026-01-16,1005,Puja,Prado NA,BE-07,Battery,Semi-Critical,2202,1,0.0005,0.999,0.5,18,86.46
+2026-01-16,1006,Shubham,Prado NA,BE-08,Inner VI,Semi-Critical,2009,0,0,1,0.5,106,93.83
+2026-01-13,1007,Neha,Prado NA,BE-09,Camera,Critical,1922,3,0.0016,0.998,0.08,36,92.08
+2026-01-13,1001,Anuj,Prado EU,BE-09,Battery,Semi-Critical,1894,2,0.0011,0.999,0.18,56,92.78
+2026-01-10,1009,Kiran,Fortuner,BE-07,Inner VI,Semi-Critical,1935,1,0.0005,0.999,0.16,68,94.02
+2026-01-14,1009,Kiran,Fortuner,BE-09,PCB,Critical,1629,1,0.0006,0.999,0.05,64,94.78
+2026-01-13,1007,Neha,Prado NA,BE-09,Camera,Critical,2275,3,0.0013,0.998,0.18,36,91.09
+2026-01-12,1005,Puja,Fortuner,BE-07,Inner VI,Semi-Critical,1699,0,0,1,0.09,28,91.43
+2026-01-16,1005,Puja,Innova,BE-09,Battery,Semi-Critical,1776,1,0.0006,0.999,1.16,87,85.6
+2026-01-10,1010,Maya,Innova,BE-07,Inner VI,Semi-Critical,2272,2,0.0009,0.999,0.1,96,96.93
+2026-01-10,1009,Kiran,Prado EU,BE-09,Camera,Critical,1962,1,0.0005,0.999,0.93,45,84.41
+2026-01-14,1002,Kajal,Fortuner,BE-09,Camera,Critical,1648,0,0,1,0.14,17,90.02
+2026-01-11,1002,Kajal,Prado EU,BE-08,RF Cable,Critical,2021,2,0.001,0.999,0.52,93,92.47
+2026-01-11,1004,Rishi,Fortuner,BE-08,Inner VI,Semi-Critical,1671,0,0,1,0.77,103,90.88
+2026-01-16,1007,Neha,Fortuner,BE-09,PCB,Critical,2279,3,0.0013,0.998,0.87,11,82.11
+2026-01-14,1006,Shubham,Prado NA,BE-09,Cosmetic,Normal,1734,0,0,1,0.87,6,81.8
+2026-01-14,1004,Rishi,Prado NA,BE-07,RF Cable,Critical,2061,1,0.0005,0.999,0.88,47,85.08
+2026-01-16,1008,Saurabh,Prado NA,BE-07,RF Cable,Critical,2202,0,0,1,0.11,112,98.23
+2026-01-13,1008,Saurabh,Fortuner,BE-09,Camera,Critical,1685,0,0,1,0.87,69,87.05
+2026-01-13,1010,Maya,Fortuner,BE-08,Camera,Critical,1990,3,0.0015,0.998,0.45,13,86.46
+2026-01-14,1010,Maya,Prado NA,BE-09,Camera,Critical,1813,0,0,1,0.24,38,90.77
+2026-01-15,1003,Ritesh,Innova,BE-08,Cosmetic,Normal,1710,1,0.0006,0.999,0.87,28,83.59
+2026-01-13,1005,Puja,Fortuner,BE-07,Cosmetic,Normal,1968,0,0,1,0.03,50,93.87
+2026-01-11,1004,Rishi,Prado EU,BE-08,PCB,Critical,1618,3,0.0019,0.998,0.84,28,83.79
+2026-01-14,1003,Ritesh,Fortuner,BE-08,Battery,Semi-Critical,1559,0,0,1,0.18,28,90.53
+2026-01-10,1010,Maya,Prado EU,BE-09,Cosmetic,Normal,1616,2,0.0012,0.998,0.39,59,90.92
+2026-01-16,1004,Rishi,Innova,BE-09,PCB,Critical,2262,3,0.0013,0.998,0.77,24,84.2
+2026-01-11,1006,Shubham,Prado EU,BE-09,Cosmetic,Normal,1623,1,0.0006,0.999,0.22,65,93.17
+2026-01-12,1001,Anuj,Prado NA,BE-07,Cosmetic,Normal,1753,3,0.0017,0.998,1.02,30,82.17
+2026-01-11,1005,Puja,Innova,BE-07,Battery,Semi-Critical,1548,2,0.0013,0.998,0.06,43,92.88
+2026-01-13,1008,Saurabh,Fortuner,BE-07,PCB,Critical,2111,1,0.0005,0.999,0.16,35,91.28
+2026-01-16,1004,Rishi,Fortuner,BE-08,Inner VI,Semi-Critical,1907,0,0,1,0.31,39,90.15
+2026-01-11,1008,Saurabh,Prado EU,BE-09,Camera,Critical,1899,3,0.0016,0.998,0.04,88,96.81
+2026-01-11,1009,Kiran,Fortuner,BE-09,Inner VI,Semi-Critical,1695,0,0,1,0.1,19,90.58
+2026-01-11,1004,Rishi,Prado NA,BE-07,Inner VI,Semi-Critical,1925,3,0.0016,0.998,0.17,91,95.75
+2026-01-15,1003,Ritesh,Innova,BE-07,RF Cable,Critical,1883,2,0.0011,0.998,0.5,75,91.16
+2026-01-15,1001,Anuj,Prado EU,BE-08,Inner VI,Semi-Critical,2072,2,0.001,0.999,0.65,74,89.59
+2026-01-16,1001,Anuj,Fortuner,BE-08,Camera,Critical,2016,4,0.002,0.997,0.65,92,91
+2026-01-15,1010,Maya,Fortuner,BE-08,RF Cable,Critical,2203,2,0.0009,0.999,0.65,72,89.42
+2026-01-10,1008,Saurabh,Innova,BE-08,Inner VI,Semi-Critical,1578,2,0.0013,0.998,1.18,30,80.6
+2026-01-12,1009,Kiran,Prado EU,BE-09,Cosmetic,Normal,1543,1,0.0006,0.999,0.79,93,89.8
+2026-01-10,1003,Ritesh,Fortuner,BE-07,Inner VI,Semi-Critical,1806,0,0,1,0.11,96,96.9
+2026-01-16,1005,Puja,Fortuner,BE-09,PCB,Critical,2058,2,0.001,0.999,0.67,6,83.72
+2026-01-14,1003,Ritesh,Fortuner,BE-09,RF Cable,Critical,2125,1,0.0005,0.999,0.04,12,90.56
+2026-01-16,1005,Puja,Fortuner,BE-07,Battery,Semi-Critical,1865,0,0,1,0.96,50,84.57
+2026-01-16,1007,Neha,Fortuner,BE-09,Inner VI,Semi-Critical,2032,1,0.0005,0.999,1.18,63,83.41
+2026-01-10,1005,Puja,Fortuner,BE-08,PCB,Critical,1630,3,0.0018,0.997,0.22,97,95.73
+2026-01-13,1002,Kajal,Prado EU,BE-08,Cosmetic,Normal,1710,4,0.0023,0.997,0.98,80,86.69
+2026-01-10,1005,Puja,Innova,BE-09,Battery,Semi-Critical,2259,0,0,1,0.5,38,88.17
+2026-01-10,1002,Kajal,Fortuner,BE-07,Camera,Critical,1574,3,0.0019,0.997,1.17,39,81.4
+2026-01-16,1002,Kajal,Innova,BE-09,Camera,Critical,1982,1,0.0005,0.999,1.03,5,80.08
+2026-01-15,1003,Ritesh,Fortuner,BE-08,Battery,Semi-Critical,1941,1,0.0005,0.999,0.04,57,94.31
+2026-01-12,1004,Rishi,Innova,BE-08,Battery,Semi-Critical,1900,3,0.0016,0.998,0.8,27,84.12
+2026-01-15,1008,Saurabh,Innova,BE-08,Cosmetic,Normal,2049,0,0,1,0.15,23,90.42
+2026-01-15,1004,Rishi,Innova,BE-09,PCB,Critical,1780,1,0.0006,0.999,0.15,87,95.7
+2026-01-14,1010,Maya,Prado NA,BE-07,RF Cable,Critical,2212,5,0.0023,0.997,0.54,42,87.92
+2026-01-13,1009,Kiran,Innova,BE-08,PCB,Critical,1875,2,0.0011,0.999,0.88,45,84.87
+2026-01-14,1009,Kiran,Prado EU,BE-07,Inner VI,Semi-Critical,2121,0,0,1,0.75,20,84.17
+2026-01-14,1003,Ritesh,Prado NA,BE-09,RF Cable,Critical,2075,3,0.0014,0.998,0.59,77,90.41
+2026-01-13,1001,Anuj,Prado EU,BE-09,Camera,Critical,2227,1,0.0004,0.999,0.1,58,93.8
+2026-01-12,1009,Kiran,Fortuner,BE-09,RF Cable,Critical,1525,1,0.0007,0.999,0.53,33,87.39
+2026-01-11,1007,Neha,Fortuner,BE-08,Battery,Semi-Critical,2039,0,0,1,1.16,112,87.73
+2026-01-13,1007,Neha,Prado EU,BE-08,PCB,Critical,2268,1,0.0004,0.999,0,65,95.38
+2026-01-14,1008,Saurabh,Fortuner,BE-07,RF Cable,Critical,1879,2,0.0011,0.998,0.56,52,88.65
+2026-01-11,1006,Shubham,Innova,BE-07,PCB,Critical,1801,0,0,1,1.01,101,88.32
+2026-01-14,1005,Puja,Innova,BE-09,PCB,Critical,2203,3,0.0014,0.998,0.74,92,90.16
+2026-01-12,1007,Neha,Fortuner,BE-07,PCB,Critical,2050,3,0.0015,0.998,0.47,112,94.52
+2026-01-10,1005,Puja,Innova,BE-08,Inner VI,Semi-Critical,1767,1,0.0006,0.999,1.14,73,84.64
+2026-01-13,1007,Neha,Prado EU,BE-07,Cosmetic,Normal,1930,0,0,1,0.82,70,87.63
+2026-01-13,1004,Rishi,Prado EU,BE-09,Camera,Critical,1984,0,0,1,0.9,101,89.42
+2026-01-13,1009,Kiran,Innova,BE-08,Camera,Critical,2296,3,0.0013,0.998,1.1,43,82.48
+2026-01-10,1005,Puja,Prado EU,BE-09,Camera,Critical,2104,0,0,1,0.17,85,95.38
+2026-01-10,1001,Anuj,Prado EU,BE-07,Inner VI,Semi-Critical,1856,0,0,1,0.41,27,88.15
+2026-01-13,1006,Shubham,Fortuner,BE-08,RF Cable,Critical,2157,1,0.0005,0.999,1.03,34,82.5
+2026-01-15,1003,Ritesh,Fortuner,BE-07,RF Cable,Critical,1655,2,0.0012,0.998,0.01,61,94.88
+2026-01-13,1008,Saurabh,Innova,BE-07,Camera,Critical,1939,1,0.0005,0.999,0.91,51,85.11
+2026-01-10,1010,Maya,Prado EU,BE-07,Battery,Semi-Critical,1918,0,0,1,0.49,53,89.52
+2026-01-15,1008,Saurabh,Fortuner,BE-09,Camera,Critical,2187,2,0.0009,0.999,0.17,73,94.31
+2026-01-12,1003,Ritesh,Prado EU,BE-08,RF Cable,Critical,2056,1,0.0005,0.999,0.47,110,94.43
+2026-01-13,1005,Puja,Prado EU,BE-07,Cosmetic,Normal,1984,1,0.0005,0.999,0.57,10,85.09
+2026-01-13,1001,Anuj,Prado NA,BE-07,Inner VI,Semi-Critical,1576,1,0.0006,0.999,1.16,26,80.52
+2026-01-14,1009,Kiran,Innova,BE-08,PCB,Critical,2173,1,0.0005,0.999,0.43,102,94.16
+2026-01-10,1001,Anuj,Fortuner,BE-09,Inner VI,Semi-Critical,1882,0,0,1,0.67,119,93.22
+2026-01-12,1008,Saurabh,Fortuner,BE-08,Inner VI,Semi-Critical,1982,0,0,1,0.25,21,89.25
+2026-01-10,1008,Saurabh,Prado NA,BE-08,Cosmetic,Normal,2260,1,0.0004,0.999,0.18,9,88.91
+2026-01-13,1003,Ritesh,Prado NA,BE-07,RF Cable,Critical,1616,2,0.0012,0.998,0.9,107,89.82
+2026-01-13,1008,Saurabh,Fortuner,BE-08,Battery,Semi-Critical,2057,0,0,1,1.14,30,81.1
+2026-01-10,1007,Neha,Innova,BE-08,Camera,Critical,1727,1,0.0006,0.999,0.46,79,91.94
+2026-01-10,1001,Anuj,Prado NA,BE-07,RF Cable,Critical,2230,5,0.0022,0.997,1.02,85,86.71
+2026-01-15,1008,Saurabh,Prado NA,BE-08,RF Cable,Critical,2074,3,0.0014,0.998,0.02,100,98.01
+2026-01-12,1003,Ritesh,Fortuner,BE-08,Cosmetic,Normal,1819,0,0,1,0.97,28,82.63
+2026-01-16,1009,Kiran,Innova,BE-07,Cosmetic,Normal,1802,1,0.0006,0.999,0.11,34,91.69
+2026-01-16,1004,Rishi,Prado NA,BE-09,PCB,Critical,2048,1,0.0005,0.999,0.92,77,87.18
+2026-01-13,1002,Kajal,Prado NA,BE-07,PCB,Critical,1883,1,0.0005,0.999,0.66,18,84.86
+2026-01-16,1002,Kajal,Prado EU,BE-08,Inner VI,Semi-Critical,2072,0,0,1,0.82,21,83.55
+2026-01-16,1006,Shubham,Innova,BE-09,Battery,Semi-Critical,1821,0,0,1,0.35,38,89.67
+2026-01-15,1008,Saurabh,Prado NA,BE-07,Cosmetic,Normal,2066,1,0.0005,0.999,0.27,109,96.34
+2026-01-11,1005,Puja,Fortuner,BE-08,RF Cable,Critical,1552,2,0.0013,0.998,1.04,78,85.99
+2026-01-15,1004,Rishi,Prado EU,BE-09,Battery,Semi-Critical,1659,1,0.0006,0.999,0.36,83,93.27
+2026-01-11,1004,Rishi,Innova,BE-09,Inner VI,Semi-Critical,1558,1,0.0006,0.999,0.34,86,93.72
+2026-01-11,1009,Kiran,Fortuner,BE-08,Battery,Semi-Critical,2060,0,0,1,0.61,30,86.4
+2026-01-12,1006,Shubham,Prado NA,BE-07,PCB,Critical,1842,2,0.0011,0.998,0.1,32,91.58
+2026-01-12,1003,Ritesh,Prado NA,BE-07,PCB,Critical,2173,3,0.0014,0.998,0.45,80,92.05
+2026-01-14,1010,Maya,Prado NA,BE-09,Camera,Critical,2228,1,0.0004,0.999,0.86,17,82.78
+2026-01-11,1001,Anuj,Prado NA,BE-07,Battery,Semi-Critical,1930,1,0.0005,0.999,0.76,41,85.78
+2026-01-13,1006,Shubham,Innova,BE-07,Battery,Semi-Critical,2052,1,0.0005,0.999,0.92,109,89.84
+2026-01-15,1002,Kajal,Prado NA,BE-07,Inner VI,Semi-Critical,1896,1,0.0005,0.999,1.04,58,84.39
+2026-01-12,1007,Neha,Fortuner,BE-08,Inner VI,Semi-Critical,2248,0,0,1,0.78,22,84.03
+2026-01-10,1005,Puja,Prado NA,BE-08,Battery,Semi-Critical,1987,1,0.0005,0.999,0.05,17,90.88
+2026-01-10,1006,Shubham,Fortuner,BE-08,Camera,Critical,2064,2,0.001,0.999,0.4,90,93.42
+2026-01-11,1010,Maya,Fortuner,BE-08,RF Cable,Critical,1886,2,0.0011,0.999,0.56,104,92.99
+2026-01-10,1006,Shubham,Prado EU,BE-07,PCB,Critical,1618,4,0.0025,0.997,0.92,98,88.78
+2026-01-14,1006,Shubham,Fortuner,BE-07,Inner VI,Semi-Critical,2164,2,0.0009,0.999,0,47,93.84
+2026-01-15,1007,Neha,Innova,BE-09,Battery,Semi-Critical,2122,2,0.0009,0.999,0.35,49,90.51
+2026-01-11,1009,Kiran,Fortuner,BE-07,Inner VI,Semi-Critical,2109,1,0.0005,0.999,0.81,8,82.53
+2026-01-13,1007,Neha,Innova,BE-08,Inner VI,Semi-Critical,2107,2,0.0009,0.999,0.25,94,95.25
+2026-01-16,1009,Kiran,Fortuner,BE-09,Camera,Critical,1524,2,0.0013,0.998,0.76,115,91.87
+2026-01-11,1001,Anuj,Prado NA,BE-08,PCB,Critical,2186,2,0.0009,0.999,0.85,118,91.26
+2026-01-14,1005,Puja,Prado EU,BE-07,Battery,Semi-Critical,1860,1,0.0005,0.999,0.64,19,85.14
+2026-01-14,1005,Puja,Fortuner,BE-07,Cosmetic,Normal,1793,3,0.0017,0.998,0.67,10,84
+2026-01-12,1001,Anuj,Prado EU,BE-08,PCB,Critical,2251,4,0.0018,0.997,0.6,60,88.86
+2026-01-13,1009,Kiran,Fortuner,BE-09,Battery,Semi-Critical,1638,2,0.0012,0.998,0.02,10,90.54
+2026-01-10,1002,Kajal,Innova,BE-09,PCB,Critical,2118,4,0.0019,0.997,0.37,98,94.31
+2026-01-11,1001,Anuj,Innova,BE-09,RF Cable,Critical,2095,3,0.0014,0.998,0.43,32,88.26
+2026-01-10,1005,Puja,Prado NA,BE-09,Camera,Critical,2263,1,0.0004,0.999,0.3,31,89.55
+2026-01-10,1010,Maya,Prado NA,BE-09,Battery,Semi-Critical,1764,0,0,1,1.15,5,78.92
+2026-01-11,1001,Anuj,Fortuner,BE-07,RF Cable,Critical,1903,5,0.0026,0.997,0.68,95,90.91
+2026-01-11,1002,Kajal,Prado NA,BE-07,PCB,Critical,1557,2,0.0013,0.998,0.9,9,81.64
+2026-01-12,1006,Shubham,Fortuner,BE-08,Camera,Critical,2248,1,0.0004,0.999,0.68,25,85.25
+2026-01-11,1003,Ritesh,Fortuner,BE-07,RF Cable,Critical,1608,4,0.0025,0.996,0.57,19,85.68
+2026-01-12,1008,Saurabh,Prado NA,BE-07,PCB,Critical,1867,2,0.0011,0.999,0.08,19,90.7
+2026-01-11,1003,Ritesh,Fortuner,BE-09,RF Cable,Critical,1539,0,0,1,0.93,28,83.03
+2026-01-10,1002,Kajal,Prado NA,BE-07,PCB,Critical,1932,2,0.001,0.999,0.15,66,93.92
+2026-01-15,1009,Kiran,Prado NA,BE-07,Battery,Semi-Critical,2065,0,0,1,0.24,107,96.52
+2026-01-12,1004,Rishi,Innova,BE-09,RF Cable,Critical,1883,0,0,1,1.16,42,81.9
+2026-01-12,1009,Kiran,Innova,BE-08,Inner VI,Semi-Critical,1842,3,0.0016,0.998,0.15,116,98.04
+2026-01-11,1004,Rishi,Fortuner,BE-09,Cosmetic,Normal,1712,1,0.0006,0.999,0.5,46,88.79
+2026-01-13,1002,Kajal,Fortuner,BE-09,Cosmetic,Normal,2020,0,0,1,0.58,21,85.95
+2026-01-16,1009,Kiran,Fortuner,BE-09,RF Cable,Critical,1601,2,0.0012,0.998,0.54,70,90.33
+2026-01-12,1006,Shubham,Prado NA,BE-07,PCB,Critical,1906,0,0,1,0.41,38,89.07
+2026-01-10,1009,Kiran,Fortuner,BE-09,Inner VI,Semi-Critical,2081,0,0,1,1.03,67,85.28
+2026-01-12,1007,Neha,Fortuner,BE-09,PCB,Critical,1973,1,0.0005,0.999,0.46,87,92.61
+2026-01-10,1008,Saurabh,Prado NA,BE-07,Cosmetic,Normal,1769,1,0.0006,0.999,0.6,10,84.79
+2026-01-13,1008,Saurabh,Fortuner,BE-09,RF Cable,Critical,1692,2,0.0012,0.998,0.86,23,83.22
+2026-01-16,1010,Maya,Prado EU,BE-09,PCB,Critical,2159,2,0.0009,0.999,0.6,76,90.26
+2026-01-12,1003,Ritesh,Prado NA,BE-09,Camera,Critical,2283,3,0.0013,0.998,0.02,57,94.45
+2026-01-10,1001,Anuj,Innova,BE-08,Cosmetic,Normal,1596,2,0.0013,0.998,0.43,54,90.1
+2026-01-16,1005,Puja,Innova,BE-08,RF Cable,Critical,1949,1,0.0005,0.999,0.94,11,81.47
+2026-01-10,1007,Neha,Prado NA,BE-08,RF Cable,Critical,1627,1,0.0006,0.999,0.33,78,93.15
+2026-01-13,1010,Maya,Prado NA,BE-07,PCB,Critical,1821,1,0.0005,0.999,0.89,94,88.89
+2026-01-11,1001,Anuj,Fortuner,BE-08,Battery,Semi-Critical,2082,0,0,1,0.58,84,91.2
+2026-01-10,1006,Shubham,Prado EU,BE-09,Cosmetic,Normal,1653,1,0.0006,0.999,1.14,95,86.47
+2026-01-15,1004,Rishi,Prado NA,BE-09,RF Cable,Critical,1866,3,0.0016,0.998,0.54,100,92.8
+2026-01-11,1004,Rishi,Prado NA,BE-09,RF Cable,Critical,2007,0,0,1,0.14,93,96.35
+2026-01-10,1006,Shubham,Prado NA,BE-07,RF Cable,Critical,2059,0,0,1,0.75,34,85.33
+2026-01-15,1001,Anuj,Fortuner,BE-08,Inner VI,Semi-Critical,1567,3,0.0019,0.997,0.74,36,85.44
+2026-01-14,1001,Anuj,Innova,BE-07,Camera,Critical,1869,3,0.0016,0.998,1.03,8,80.23
+2026-01-16,1010,Maya,Prado NA,BE-07,RF Cable,Critical,1747,1,0.0006,0.999,0.84,113,90.97
+2026-01-11,1007,Neha,Fortuner,BE-09,Battery,Semi-Critical,1546,0,0,1,0.02,47,93.72
+2026-01-13,1002,Kajal,Innova,BE-09,RF Cable,Critical,1813,2,0.0011,0.999,1.06,23,81.23
+2026-01-10,1008,Saurabh,Prado NA,BE-07,Cosmetic,Normal,1886,2,0.0011,0.999,0.08,110,98.28
+2026-01-12,1006,Shubham,Prado NA,BE-08,RF Cable,Critical,1794,1,0.0006,0.999,0.8,60,86.95
+2026-01-11,1010,Maya,Prado EU,BE-09,RF Cable,Critical,1622,2,0.0012,0.998,1.12,96,86.7
+2026-01-12,1006,Shubham,Prado EU,BE-09,RF Cable,Critical,2197,0,0,1,0.6,65,89.42
+2026-01-14,1001,Anuj,Prado EU,BE-09,RF Cable,Critical,2253,2,0.0009,0.999,0.94,96,88.53
+2026-01-12,1003,Ritesh,Fortuner,BE-08,Inner VI,Semi-Critical,1802,1,0.0006,0.999,0.37,64,91.59
+2026-01-16,1007,Neha,Fortuner,BE-07,PCB,Critical,1776,1,0.0006,0.999,0.99,50,84.22
+2026-01-16,1004,Rishi,Prado EU,BE-07,Cosmetic,Normal,1676,3,0.0018,0.998,0.66,39,86.51
+2026-01-10,1006,Shubham,Prado NA,BE-09,Inner VI,Semi-Critical,1925,1,0.0005,0.999,0.5,90,92.46
+2026-01-14,1005,Puja,Prado EU,BE-07,Inner VI,Semi-Critical,2171,1,0.0005,0.999,0.2,108,96.96
+2026-01-11,1006,Shubham,Innova,BE-08,Battery,Semi-Critical,1517,0,0,1,0.41,111,95.15
+2026-01-15,1010,Maya,Innova,BE-09,Camera,Critical,1614,1,0.0006,0.999,0.29,51,91.3
+2026-01-11,1006,Shubham,Fortuner,BE-09,Cosmetic,Normal,1911,2,0.001,0.998,1.05,71,85.33
+2026-01-14,1010,Maya,Prado NA,BE-09,PCB,Critical,1853,3,0.0016,0.998,0.73,68,88.24
+2026-01-16,1008,Saurabh,Prado NA,BE-07,Camera,Critical,1516,1,0.0007,0.999,0.25,53,91.86
+2026-01-13,1001,Anuj,Fortuner,BE-07,Cosmetic,Normal,2028,2,0.001,0.998,0.27,30,89.72
+2026-01-15,1006,Shubham,Prado NA,BE-09,Battery,Semi-Critical,1572,2,0.0013,0.998,0.58,55,88.68
+2026-01-12,1003,Ritesh,Fortuner,BE-08,RF Cable,Critical,1928,1,0.0005,0.999,0.78,22,83.99
+2026-01-10,1008,Saurabh,Prado NA,BE-08,Cosmetic,Normal,2017,1,0.0005,0.999,0.08,61,94.24
+2026-01-12,1002,Kajal,Innova,BE-08,Inner VI,Semi-Critical,2056,1,0.0005,0.999,0.05,71,95.38
+2026-01-12,1008,Saurabh,Prado EU,BE-08,RF Cable,Critical,2073,2,0.001,0.999,1.12,34,81.56
+2026-01-10,1001,Anuj,Prado EU,BE-08,PCB,Critical,1847,1,0.0005,0.999,0.06,40,92.69
+2026-01-12,1005,Puja,Innova,BE-07,Inner VI,Semi-Critical,1979,1,0.0005,0.999,0.74,33,85.31
+2026-01-15,1006,Shubham,Prado EU,BE-08,Inner VI,Semi-Critical,1941,3,0.0015,0.998,0.69,90,90.47
+2026-01-11,1006,Shubham,Innova,BE-08,RF Cable,Critical,1539,5,0.0032,0.995,0.16,119,98.05
+2026-01-15,1001,Anuj,Prado NA,BE-07,Cosmetic,Normal,2004,0,0,1,0.76,5,82.82
+2026-01-16,1010,Maya,Innova,BE-08,Cosmetic,Normal,2280,2,0.0009,0.999,0.99,100,88.36
+2026-01-14,1008,Saurabh,Prado NA,BE-09,Battery,Semi-Critical,1839,1,0.0005,0.999,0.31,74,93.03
+2026-01-16,1005,Puja,Fortuner,BE-07,Battery,Semi-Critical,1619,2,0.0012,0.998,0.62,33,86.45
+2026-01-14,1006,Shubham,Prado NA,BE-07,Camera,Critical,1757,9,0.0051,0.993,0.69,20,84.36
+2026-01-14,1003,Ritesh,Innova,BE-08,Battery,Semi-Critical,1958,0,0,1,0.68,52,87.53
+2026-01-12,1006,Shubham,Innova,BE-07,Cosmetic,Normal,1613,1,0.0006,0.999,0.61,62,89.02
+2026-01-11,1005,Puja,Prado NA,BE-09,Inner VI,Semi-Critical,1637,1,0.0006,0.999,0.88,70,86.98
+2026-01-14,1009,Kiran,Fortuner,BE-08,Battery,Semi-Critical,1547,3,0.0019,0.997,0.25,55,91.93
+2026-01-16,1004,Rishi,Prado EU,BE-08,Cosmetic,Normal,1612,2,0.0012,0.998,1,31,82.48
+2026-01-11,1008,Saurabh,Prado EU,BE-09,RF Cable,Critical,1776,1,0.0006,0.999,1.17,58,83.09
+2026-01-10,1001,Anuj,Prado NA,BE-08,Battery,Semi-Critical,1692,0,0,1,0.55,51,88.75
+2026-01-15,1002,Kajal,Innova,BE-08,Battery,Semi-Critical,1933,2,0.001,0.998,0.96,98,88.48
+2026-01-15,1002,Kajal,Fortuner,BE-07,Inner VI,Semi-Critical,2241,1,0.0004,0.999,0.11,47,92.78
+2026-01-12,1008,Saurabh,Prado NA,BE-09,Camera,Critical,2220,4,0.0018,0.997,1.06,52,83.58
+2026-01-16,1008,Saurabh,Innova,BE-07,PCB,Critical,1678,0,0,1,0.75,61,87.58
+2026-01-12,1004,Rishi,Prado EU,BE-09,Battery,Semi-Critical,2242,1,0.0004,0.999,1.07,33,82.01
+2026-01-13,1002,Kajal,Innova,BE-07,Camera,Critical,1570,1,0.0006,0.999,0.32,14,87.92
+2026-01-15,1004,Rishi,Fortuner,BE-07,RF Cable,Critical,2137,1,0.0005,0.999,0.19,15,89.31
+2026-01-13,1008,Saurabh,Prado NA,BE-08,Battery,Semi-Critical,2149,0,0,1,0.81,100,90.23
+2026-01-11,1006,Shubham,Innova,BE-09,Battery,Semi-Critical,1722,1,0.0006,0.999,0.33,26,88.82
+2026-01-16,1005,Puja,Prado NA,BE-07,Cosmetic,Normal,1765,1,0.0006,0.999,0.33,66,92.15
+2026-01-10,1007,Neha,Fortuner,BE-08,Camera,Critical,1938,0,0,1,0.55,17,85.92
+2026-01-10,1003,Ritesh,Fortuner,BE-07,Battery,Semi-Critical,1898,0,0,1,0.15,17,89.92
+2026-01-13,1008,Saurabh,Fortuner,BE-08,Battery,Semi-Critical,1717,0,0,1,0.89,67,86.68
+2026-01-13,1003,Ritesh,Innova,BE-07,Battery,Semi-Critical,1826,0,0,1,0.15,43,92.08
+2026-01-10,1008,Saurabh,Prado NA,BE-09,Inner VI,Semi-Critical,1728,2,0.0012,0.998,0.48,43,88.69
+2026-01-15,1006,Shubham,Prado EU,BE-08,Cosmetic,Normal,1619,0,0,1,0.26,113,96.82
+2026-01-10,1006,Shubham,Innova,BE-09,Cosmetic,Normal,1684,1,0.0006,0.999,1.07,80,85.92
+2026-01-16,1005,Puja,Prado EU,BE-07,Cosmetic,Normal,1807,1,0.0006,0.999,1.05,107,88.37
+2026-01-10,1010,Maya,Fortuner,BE-08,Camera,Critical,1775,1,0.0006,0.999,0.67,81,90.01
+2026-01-16,1008,Saurabh,Innova,BE-07,Camera,Critical,2230,0,0,1,0.25,94,95.33
+2026-01-16,1007,Neha,Prado NA,BE-08,Inner VI,Semi-Critical,1996,2,0.001,0.998,0.62,34,86.55
+2026-01-12,1002,Kajal,Fortuner,BE-09,Inner VI,Semi-Critical,1670,0,0,1,0.41,44,89.57
+2026-01-13,1009,Kiran,Prado NA,BE-08,Battery,Semi-Critical,2213,1,0.0005,0.999,0.33,61,91.75
+2026-01-15,1001,Anuj,Prado NA,BE-07,Battery,Semi-Critical,2238,1,0.0004,0.999,0.56,113,93.78
+2026-01-10,1008,Saurabh,Prado NA,BE-08,RF Cable,Critical,1689,2,0.0012,0.999,0.68,99,91.36
+2026-01-12,1005,Puja,Prado EU,BE-07,Inner VI,Semi-Critical,1923,1,0.0005,0.999,0.02,68,95.43
+2026-01-16,1001,Anuj,Fortuner,BE-09,RF Cable,Critical,1870,1,0.0005,0.999,0.8,87,89.2
+2026-01-12,1001,Anuj,Fortuner,BE-08,Cosmetic,Normal,1646,0,0,1,0.74,41,86.02
+2026-01-15,1010,Maya,Innova,BE-08,PCB,Critical,1798,2,0.0011,0.998,0.42,64,91.04
+2026-01-13,1003,Ritesh,Fortuner,BE-08,Cosmetic,Normal,2195,1,0.0005,0.999,1,67,85.55
+2026-01-16,1004,Rishi,Prado EU,BE-07,Cosmetic,Normal,1991,0,0,1,0.85,35,84.42
+2026-01-11,1009,Kiran,Innova,BE-09,Camera,Critical,2078,1,0.0005,0.999,0.9,68,86.63
+2026-01-13,1008,Saurabh,Prado EU,BE-09,Inner VI,Semi-Critical,1694,1,0.0006,0.999,0.25,57,92.21
+2026-01-10,1002,Kajal,Fortuner,BE-07,Camera,Critical,1639,3,0.0018,0.998,0.22,25,89.74
+2026-01-16,1004,Rishi,Prado EU,BE-07,Cosmetic,Normal,1968,2,0.001,0.999,0.36,56,90.99
+2026-01-11,1005,Puja,Prado EU,BE-07,PCB,Critical,1569,5,0.0032,0.995,0.79,71,87.76
+2026-01-12,1004,Rishi,Prado NA,BE-08,PCB,Critical,2211,2,0.0009,0.999,0.56,60,89.33
+2026-01-16,1005,Puja,Prado EU,BE-07,PCB,Critical,2070,2,0.001,0.999,0.64,80,90.19
+2026-01-16,1008,Saurabh,Prado EU,BE-09,Inner VI,Semi-Critical,1937,1,0.0005,0.999,0.94,60,85.56
+2026-01-11,1004,Rishi,Prado EU,BE-08,PCB,Critical,2087,1,0.0005,0.999,0.69,67,88.64
+2026-01-14,1005,Puja,Prado NA,BE-08,PCB,Critical,1521,2,0.0013,0.998,0.39,94,93.82
+2026-01-14,1001,Anuj,Innova,BE-07,Cosmetic,Normal,1928,1,0.0005,0.999,0.97,58,85.09
+2026-01-10,1001,Anuj,Prado EU,BE-08,Inner VI,Semi-Critical,2174,0,0,1,0.09,27,91.35
+2026-01-14,1005,Puja,Innova,BE-09,Camera,Critical,2031,2,0.001,0.999,1.11,82,85.66
+2026-01-11,1003,Ritesh,Fortuner,BE-07,RF Cable,Critical,2250,1,0.0004,0.999,0.66,36,86.37
+2026-01-15,1001,Anuj,Prado NA,BE-09,RF Cable,Critical,1549,0,0,1,0.5,62,90.17
+2026-01-11,1004,Rishi,Innova,BE-09,RF Cable,Critical,2219,1,0.0005,0.999,0.2,113,97.38
+2026-01-15,1006,Shubham,Prado EU,BE-08,RF Cable,Critical,1658,5,0.003,0.996,0.48,78,91.45
+2026-01-15,1005,Puja,Fortuner,BE-08,Inner VI,Semi-Critical,2232,1,0.0004,0.999,0.79,98,90.23
+2026-01-10,1004,Rishi,Prado NA,BE-08,Inner VI,Semi-Critical,1505,0,0,1,0.58,100,92.53
+2026-01-10,1004,Rishi,Innova,BE-07,Cosmetic,Normal,2123,3,0.0014,0.998,0.39,85,93.07
+2026-01-10,1006,Shubham,Fortuner,BE-09,Cosmetic,Normal,1790,2,0.0011,0.999,1.19,7,78.6
+2026-01-16,1001,Anuj,Fortuner,BE-09,Camera,Critical,1612,1,0.0006,0.999,1.06,73,85.44
+2026-01-11,1009,Kiran,Prado EU,BE-09,Battery,Semi-Critical,1736,1,0.0006,0.999,0.87,114,90.75
+2026-01-14,1009,Kiran,Prado EU,BE-07,PCB,Critical,1833,1,0.0005,0.999,0.28,89,94.58
+2026-01-10,1007,Neha,Innova,BE-08,PCB,Critical,1947,1,0.0005,0.999,1.11,79,85.44
+2026-01-11,1003,Ritesh,Fortuner,BE-07,Inner VI,Semi-Critical,1686,1,0.0006,0.999,0.37,52,90.58
+2026-01-16,1004,Rishi,Innova,BE-09,Cosmetic,Normal,2141,0,0,1,0.68,76,89.53
+2026-01-16,1007,Neha,Prado NA,BE-07,Cosmetic,Normal,2074,0,0,1,1,21,81.75
+2026-01-14,1008,Saurabh,Prado EU,BE-09,Battery,Semi-Critical,2019,1,0.0005,0.999,0.4,80,92.63
+2026-01-13,1010,Maya,Innova,BE-07,Inner VI,Semi-Critical,1679,1,0.0006,0.999,0.47,50,89.42
+2026-01-15,1010,Maya,Innova,BE-08,Inner VI,Semi-Critical,1563,0,0,1,0.66,29,85.82
+2026-01-13,1006,Shubham,Fortuner,BE-09,Camera,Critical,1529,2,0.0013,0.998,0.31,26,88.96
+2026-01-10,1004,Rishi,Fortuner,BE-07,PCB,Critical,2242,0,0,1,1.05,83,86.42
+2026-01-13,1004,Rishi,Prado EU,BE-07,Camera,Critical,2016,1,0.0005,0.999,0.81,97,89.94
+2026-01-10,1010,Maya,Prado NA,BE-07,PCB,Critical,2117,1,0.0005,0.999,0.42,39,89.01
+2026-01-15,1003,Ritesh,Innova,BE-07,Inner VI,Semi-Critical,1787,1,0.0006,0.999,0.4,21,87.71
+2026-01-12,1008,Saurabh,Fortuner,BE-07,PCB,Critical,1840,1,0.0005,0.999,0.05,101,97.87
+2026-01-12,1005,Puja,Prado NA,BE-09,Camera,Critical,2210,2,0.0009,0.999,1.17,47,82.15
+2026-01-13,1003,Ritesh,Prado EU,BE-07,Camera,Critical,2294,4,0.0017,0.998,0.92,14,81.83
+2026-01-11,1008,Saurabh,Innova,BE-09,PCB,Critical,1873,1,0.0005,0.999,0.73,88,89.99
+2026-01-13,1009,Kiran,Innova,BE-08,Camera,Critical,1659,3,0.0018,0.998,0.1,102,97.36
+2026-01-14,1001,Anuj,Innova,BE-07,RF Cable,Critical,2135,4,0.0019,0.997,0.71,88,90.08
+2026-01-15,1010,Maya,Fortuner,BE-07,Cosmetic,Normal,2157,0,0,1,1.04,26,81.77
+2026-01-12,1004,Rishi,Innova,BE-07,Cosmetic,Normal,1705,3,0.0018,0.997,0.74,42,85.95
+2026-01-16,1005,Puja,Prado EU,BE-07,Battery,Semi-Critical,2160,2,0.0009,0.999,0.39,113,95.44
+2026-01-13,1007,Neha,Innova,BE-09,Cosmetic,Normal,2299,2,0.0009,0.999,0.38,31,88.71
+2026-01-16,1001,Anuj,Fortuner,BE-07,Inner VI,Semi-Critical,1786,0,0,1,0.18,66,93.7
+2026-01-14,1004,Rishi,Fortuner,BE-09,RF Cable,Critical,2144,1,0.0005,0.999,0.46,49,89.45
+2026-01-14,1009,Kiran,Prado EU,BE-08,PCB,Critical,2223,1,0.0004,0.999,1.17,79,84.85
+2026-01-14,1003,Ritesh,Fortuner,BE-08,Battery,Semi-Critical,2057,1,0.0005,0.999,0.38,70,91.99
+2026-01-13,1008,Saurabh,Fortuner,BE-07,Inner VI,Semi-Critical,1611,0,0,1,0.15,95,96.42
+2026-01-16,1004,Rishi,Prado NA,BE-07,PCB,Critical,2178,4,0.0018,0.998,0.34,56,91.13
+2026-01-12,1006,Shubham,Prado NA,BE-07,RF Cable,Critical,1710,1,0.0006,0.999,0.34,27,88.8
+2026-01-12,1004,Rishi,Prado EU,BE-08,RF Cable,Critical,2251,0,0,1,0.65,82,90.33
+2026-01-10,1006,Shubham,Innova,BE-09,Camera,Critical,1926,1,0.0005,0.999,0.78,96,90.16
+2026-01-11,1004,Rishi,Prado EU,BE-08,Cosmetic,Normal,1875,0,0,1,1.2,16,79.33
+2026-01-14,1003,Ritesh,Prado EU,BE-08,Inner VI,Semi-Critical,1920,0,0,1,0.07,93,97.05
+2026-01-16,1009,Kiran,Prado EU,BE-09,Battery,Semi-Critical,2129,3,0.0014,0.998,0.66,49,87.37
+2026-01-10,1009,Kiran,Innova,BE-08,Camera,Critical,1553,1,0.0006,0.999,0.07,96,97.25
+2026-01-12,1004,Rishi,Innova,BE-07,Inner VI,Semi-Critical,2184,0,0,1,0.5,110,94.17
+2026-01-10,1006,Shubham,Prado EU,BE-07,Battery,Semi-Critical,2005,0,0,1,1.13,26,80.87
+2026-01-14,1009,Kiran,Fortuner,BE-08,Camera,Critical,2149,2,0.0009,0.999,0.36,112,95.66
+2026-01-14,1004,Rishi,Innova,BE-07,PCB,Critical,2143,1,0.0005,0.999,0.71,77,89.28
+2026-01-13,1008,Saurabh,Fortuner,BE-07,RF Cable,Critical,1791,1,0.0006,0.999,1.09,22,80.89
+2026-01-13,1003,Ritesh,Prado EU,BE-08,RF Cable,Critical,1686,2,0.0012,0.998,0.56,109,93.39
+2026-01-11,1006,Shubham,Innova,BE-08,RF Cable,Critical,1565,3,0.0019,0.997,0.15,62,93.5
+2026-01-15,1006,Shubham,Prado NA,BE-08,Cosmetic,Normal,1543,0,0,1,0.62,99,92.05
+2026-01-13,1009,Kiran,Innova,BE-07,Camera,Critical,1532,1,0.0007,0.999,0.41,25,87.93
+2026-01-12,1001,Anuj,Prado EU,BE-08,RF Cable,Critical,2201,2,0.0009,0.999,0.15,11,89.35
+2026-01-13,1005,Puja,Prado NA,BE-08,Camera,Critical,1863,0,0,1,0.99,86,87.27
+2026-01-16,1008,Saurabh,Fortuner,BE-09,Cosmetic,Normal,1949,3,0.0015,0.998,1.15,18,79.88
+2026-01-11,1007,Neha,Prado NA,BE-09,PCB,Critical,1764,0,0,1,0.99,73,86.18
+2026-01-16,1010,Maya,Innova,BE-08,RF Cable,Critical,2282,1,0.0004,0.999,0.89,33,83.82
+2026-01-12,1006,Shubham,Prado NA,BE-09,Inner VI,Semi-Critical,1848,1,0.0005,0.999,0.17,8,88.92
+2026-01-15,1008,Saurabh,Fortuner,BE-07,Inner VI,Semi-Critical,1694,3,0.0018,0.998,0.05,45,93.12
+2026-01-10,1005,Puja,Prado EU,BE-07,Battery,Semi-Critical,1500,0,0,1,0.55,117,94.25
+2026-01-12,1001,Anuj,Prado NA,BE-08,Battery,Semi-Critical,2165,2,0.0009,0.999,0.83,73,87.71
+2026-01-13,1002,Kajal,Fortuner,BE-07,RF Cable,Critical,1943,1,0.0005,0.999,0.92,13,81.84
+2026-01-16,1004,Rishi,Prado EU,BE-07,Cosmetic,Normal,1748,0,0,1,0.72,84,89.8
+2026-01-13,1005,Puja,Innova,BE-07,PCB,Critical,1647,2,0.0012,0.998,0.57,67,89.79
+2026-01-16,1002,Kajal,Fortuner,BE-08,PCB,Critical,1938,5,0.0026,0.996,0.49,90,92.4
+2026-01-12,1003,Ritesh,Prado EU,BE-09,Camera,Critical,1575,4,0.0025,0.996,0.07,30,91.59
+2026-01-13,1003,Ritesh,Innova,BE-09,Cosmetic,Normal,2137,2,0.0009,0.999,0.48,50,89.29
+2026-01-12,1006,Shubham,Innova,BE-08,Inner VI,Semi-Critical,2293,2,0.0009,0.999,0.8,47,85.85
+2026-01-12,1002,Kajal,Prado EU,BE-09,PCB,Critical,1812,1,0.0006,0.999,0.08,51,93.41
+2026-01-14,1002,Kajal,Prado EU,BE-07,Battery,Semi-Critical,1846,0,0,1,0.68,35,86.12
+2026-01-11,1001,Anuj,Prado NA,BE-08,Battery,Semi-Critical,1600,1,0.0006,0.999,0.22,62,92.92
+2026-01-16,1009,Kiran,Prado NA,BE-09,Inner VI,Semi-Critical,2049,0,0,1,0.13,7,89.28
+2026-01-14,1001,Anuj,Prado NA,BE-08,RF Cable,Critical,1645,2,0.0012,0.998,0.77,29,84.62
+2026-01-11,1002,Kajal,Fortuner,BE-09,PCB,Critical,2237,3,0.0013,0.998,0.39,101,94.41
+2026-01-11,1002,Kajal,Prado EU,BE-07,Camera,Critical,1844,3,0.0016,0.998,0.11,110,97.94
+2026-01-11,1004,Rishi,Fortuner,BE-07,Camera,Critical,2099,2,0.001,0.999,0.8,13,83.01
+2026-01-14,1003,Ritesh,Innova,BE-07,PCB,Critical,1568,3,0.0019,0.997,1.2,78,84.34
+2026-01-14,1008,Saurabh,Prado EU,BE-07,RF Cable,Critical,1995,1,0.0005,0.999,0,105,98.71
+2026-01-11,1004,Rishi,Prado EU,BE-09,Inner VI,Semi-Critical,1767,0,0,1,0.05,75,95.75
+2026-01-11,1007,Neha,Fortuner,BE-09,Inner VI,Semi-Critical,1650,1,0.0006,0.999,0.18,35,91.07
+2026-01-11,1001,Anuj,Innova,BE-08,Inner VI,Semi-Critical,1629,2,0.0012,0.998,0.44,103,94.08
+2026-01-10,1004,Rishi,Fortuner,BE-09,Inner VI,Semi-Critical,2225,1,0.0004,0.999,0.94,92,88.23
+2026-01-10,1009,Kiran,Prado NA,BE-09,Battery,Semi-Critical,2046,1,0.0005,0.999,0.45,87,92.71
+2026-01-16,1006,Shubham,Prado NA,BE-07,RF Cable,Critical,2083,0,0,1,0.58,21,85.95
+2026-01-15,1007,Neha,Prado NA,BE-09,RF Cable,Critical,2021,1,0.0005,0.999,1.13,33,81.41
+2026-01-12,1001,Anuj,Innova,BE-08,Cosmetic,Normal,1651,0,0,1,0.37,32,88.97
+2026-01-16,1003,Ritesh,Prado NA,BE-07,Camera,Critical,2187,3,0.0014,0.998,0.38,63,91.33
+2026-01-15,1001,Anuj,Prado NA,BE-09,Inner VI,Semi-Critical,1690,0,0,1,0.75,7,83.08
+2026-01-16,1001,Anuj,Fortuner,BE-07,RF Cable,Critical,1963,2,0.001,0.998,0.66,54,87.82
+2026-01-16,1009,Kiran,Innova,BE-07,RF Cable,Critical,1882,5,0.0027,0.996,0.85,65,86.7
+2026-01-16,1008,Saurabh,Prado EU,BE-09,Battery,Semi-Critical,2162,1,0.0005,0.999,0.09,31,91.65
+2026-01-14,1008,Saurabh,Prado NA,BE-08,RF Cable,Critical,2201,3,0.0014,0.998,0.01,117,99.55
+2026-01-14,1009,Kiran,Prado NA,BE-08,Inner VI,Semi-Critical,1597,0,0,1,0.04,68,95.27
+2026-01-12,1008,Saurabh,Prado NA,BE-08,RF Cable,Critical,1809,3,0.0017,0.998,0.49,26,87.13
+2026-01-15,1010,Maya,Prado NA,BE-09,PCB,Critical,1772,1,0.0006,0.999,0.79,98,90.22
+2026-01-11,1009,Kiran,Prado NA,BE-08,Inner VI,Semi-Critical,1568,1,0.0006,0.999,0.25,73,93.54
+2026-01-11,1009,Kiran,Innova,BE-07,RF Cable,Critical,2111,2,0.0009,0.999,0.88,101,89.54
+2026-01-13,1001,Anuj,Prado EU,BE-07,PCB,Critical,1715,1,0.0006,0.999,0.89,37,84.14
+2026-01-10,1007,Neha,Prado NA,BE-08,Battery,Semi-Critical,2199,1,0.0005,0.999,0.23,60,92.67
+2026-01-15,1006,Shubham,Innova,BE-08,Inner VI,Semi-Critical,1612,1,0.0006,0.999,1.03,27,81.9
+2026-01-11,1010,Maya,Innova,BE-07,Camera,Critical,2207,4,0.0018,0.997,1.19,56,82.62
+2026-01-15,1005,Puja,Fortuner,BE-09,Camera,Critical,2020,0,0,1,0.28,55,91.78
+2026-01-10,1006,Shubham,Innova,BE-09,PCB,Critical,2193,1,0.0005,0.999,0.22,67,93.35
+2026-01-15,1006,Shubham,Innova,BE-07,RF Cable,Critical,1711,4,0.0023,0.997,1.19,42,81.41
+2026-01-14,1008,Saurabh,Prado NA,BE-07,Cosmetic,Normal,2067,0,0,1,0.02,118,99.63
+2026-01-15,1006,Shubham,Fortuner,BE-08,Inner VI,Semi-Critical,1820,1,0.0005,0.999,0.2,65,93.37
+2026-01-16,1001,Anuj,Fortuner,BE-09,Battery,Semi-Critical,2085,1,0.0005,0.999,1.18,57,82.91
+2026-01-14,1002,Kajal,Prado NA,BE-07,Cosmetic,Normal,1951,1,0.0005,0.999,0.84,54,86.06
+2026-01-11,1006,Shubham,Prado EU,BE-07,Cosmetic,Normal,2299,1,0.0004,0.999,0.48,87,92.42
+2026-01-14,1001,Anuj,Prado NA,BE-08,Camera,Critical,1960,3,0.0015,0.998,0.47,61,90.27
+2026-01-11,1007,Neha,Prado NA,BE-07,Camera,Critical,2108,3,0.0014,0.998,0.75,33,85.13
+2026-01-15,1009,Kiran,Innova,BE-08,RF Cable,Critical,1813,2,0.0011,0.999,0.38,100,94.45
+2026-01-11,1007,Neha,Innova,BE-07,Camera,Critical,1725,2,0.0012,0.998,1.16,115,87.89
+2026-01-10,1001,Anuj,Innova,BE-08,Cosmetic,Normal,1686,1,0.0006,0.999,1.06,19,80.94
+2026-01-10,1010,Maya,Prado NA,BE-08,PCB,Critical,2214,0,0,1,0.29,42,90.6
+2026-01-10,1008,Saurabh,Prado NA,BE-07,PCB,Critical,2156,2,0.0009,0.999,0.97,72,86.23
+2026-01-14,1002,Kajal,Prado NA,BE-08,Cosmetic,Normal,1667,1,0.0006,0.999,0.34,78,93.05
+2026-01-11,1010,Maya,Innova,BE-09,Battery,Semi-Critical,1600,1,0.0006,0.999,0.14,8,89.21
+2026-01-10,1009,Kiran,Prado EU,BE-08,Inner VI,Semi-Critical,1578,1,0.0006,0.999,0.1,30,91.45
+2026-01-12,1001,Anuj,Innova,BE-07,Camera,Critical,1979,3,0.0015,0.998,0.97,67,85.76
+2026-01-10,1007,Neha,Prado NA,BE-08,Camera,Critical,1854,4,0.0022,0.997,0.89,5,81.35
+2026-01-15,1006,Shubham,Innova,BE-07,Camera,Critical,1699,3,0.0018,0.997,0.65,94,91.19
+2026-01-15,1010,Maya,Fortuner,BE-08,PCB,Critical,1800,1,0.0006,0.999,0.47,6,85.76
+2026-01-13,1001,Anuj,Fortuner,BE-08,Battery,Semi-Critical,2229,2,0.0009,0.999,0.15,32,91.1
+2026-01-15,1010,Maya,Innova,BE-09,PCB,Critical,1586,2,0.0013,0.998,0.18,63,93.35
+2026-01-11,1008,Saurabh,Fortuner,BE-09,Camera,Critical,2011,3,0.0015,0.998,1.08,26,81.25
+2026-01-14,1006,Shubham,Innova,BE-07,Cosmetic,Normal,1872,1,0.0005,0.999,0.41,31,88.44
+2026-01-10,1007,Neha,Innova,BE-09,RF Cable,Critical,1568,1,0.0006,0.999,0.85,41,84.87
+2026-01-11,1006,Shubham,Fortuner,BE-07,PCB,Critical,1653,0,0,1,0.67,76,89.63
+2026-01-10,1003,Ritesh,Innova,BE-08,Cosmetic,Normal,2002,2,0.001,0.999,0.06,21,91.07
+2026-01-15,1003,Ritesh,Prado NA,BE-08,PCB,Critical,2279,0,0,1,0.85,89,88.92
+2026-01-12,1005,Puja,Innova,BE-07,RF Cable,Critical,2141,0,0,1,0.22,55,92.38
+2026-01-13,1009,Kiran,Prado NA,BE-08,Camera,Critical,2019,1,0.0005,0.999,0.98,116,89.83
+2026-01-10,1006,Shubham,Prado EU,BE-08,Camera,Critical,2160,1,0.0005,0.999,0.47,13,86.34
+2026-01-12,1006,Shubham,Prado EU,BE-08,Cosmetic,Normal,2200,1,0.0005,0.999,0.01,21,91.61
+2026-01-12,1008,Saurabh,Prado EU,BE-07,RF Cable,Critical,1765,2,0.0011,0.999,0.55,37,87.5
+2026-01-11,1004,Rishi,Prado EU,BE-07,Battery,Semi-Critical,1797,0,0,1,0.92,36,83.8
+2026-01-16,1007,Neha,Fortuner,BE-07,Camera,Critical,1556,0,0,1,0.14,68,94.27
+2026-01-11,1005,Puja,Prado NA,BE-08,Camera,Critical,2029,0,0,1,0.74,55,87.18
+2026-01-16,1002,Kajal,Fortuner,BE-07,Cosmetic,Normal,2265,0,0,1,0.44,14,86.77
+2026-01-11,1002,Kajal,Innova,BE-09,Camera,Critical,1717,3,0.0017,0.997,0.55,23,86.27
+2026-01-11,1006,Shubham,Prado EU,BE-08,PCB,Critical,1639,1,0.0006,0.999,1.1,9,79.7
+2026-01-11,1003,Ritesh,Prado NA,BE-07,Inner VI,Semi-Critical,1758,2,0.0011,0.999,0.02,32,92.38
+2026-01-16,1006,Shubham,Fortuner,BE-08,Battery,Semi-Critical,1757,0,0,1,1.02,80,86.47
+2026-01-16,1009,Kiran,Innova,BE-09,Inner VI,Semi-Critical,1896,2,0.0011,0.999,0.37,110,95.39
+2026-01-14,1004,Rishi,Fortuner,BE-07,Inner VI,Semi-Critical,2209,1,0.0005,0.999,0.05,97,97.55
+2026-01-16,1001,Anuj,Prado NA,BE-08,RF Cable,Critical,1986,1,0.0005,0.999,0.92,72,86.76
+2026-01-13,1009,Kiran,Fortuner,BE-09,Battery,Semi-Critical,2101,2,0.001,0.999,1.1,58,83.76
+2026-01-14,1005,Puja,Fortuner,BE-09,Camera,Critical,1725,5,0.0029,0.996,0.84,76,87.71
+2026-01-13,1010,Maya,Prado EU,BE-09,RF Cable,Critical,1876,1,0.0005,0.999,0.29,14,88.22
+2026-01-11,1002,Kajal,Innova,BE-09,Battery,Semi-Critical,1780,1,0.0006,0.999,0.77,57,87
+2026-01-13,1009,Kiran,Fortuner,BE-07,Camera,Critical,1604,2,0.0012,0.998,0.35,84,93.4
+2026-01-15,1002,Kajal,Prado EU,BE-08,Camera,Critical,2012,1,0.0005,0.999,0.07,39,92.51
+2026-01-11,1007,Neha,Prado NA,BE-09,Camera,Critical,2060,2,0.001,0.999,0.7,91,90.51
+2026-01-15,1008,Saurabh,Fortuner,BE-08,RF Cable,Critical,2109,3,0.0014,0.998,0.53,84,91.58
+2026-01-16,1004,Rishi,Prado EU,BE-09,RF Cable,Critical,1713,4,0.0023,0.997,0.87,48,85.12
+2026-01-10,1006,Shubham,Prado EU,BE-07,Inner VI,Semi-Critical,1583,0,0,1,0.62,83,90.72
+2026-01-12,1003,Ritesh,Prado NA,BE-09,Cosmetic,Normal,1544,0,0,1,0.36,56,91.07
+2026-01-11,1009,Kiran,Prado NA,BE-07,Battery,Semi-Critical,1616,0,0,1,0.41,14,87.07
+2026-01-10,1007,Neha,Fortuner,BE-07,Inner VI,Semi-Critical,1893,0,0,1,0.85,25,83.58
+2026-01-16,1007,Neha,Fortuner,BE-07,Cosmetic,Normal,1584,1,0.0006,0.999,0.02,66,95.25
+2026-01-10,1008,Saurabh,Prado EU,BE-07,Cosmetic,Normal,1670,0,0,1,0.01,82,96.73
+2026-01-11,1001,Anuj,Innova,BE-07,Battery,Semi-Critical,1877,0,0,1,1.09,75,85.35
+2026-01-16,1008,Saurabh,Prado EU,BE-07,Cosmetic,Normal,1871,1,0.0005,0.999,0.17,22,90.09
+2026-01-16,1003,Ritesh,Fortuner,BE-07,PCB,Critical,1692,3,0.0018,0.997,0.43,113,94.97
+2026-01-14,1002,Kajal,Prado EU,BE-09,Inner VI,Semi-Critical,1683,2,0.0012,0.998,1.09,85,86.09
+2026-01-10,1003,Ritesh,Prado NA,BE-09,Cosmetic,Normal,2202,3,0.0014,0.998,0.83,23,83.51
+2026-01-10,1002,Kajal,Prado NA,BE-08,Inner VI,Semi-Critical,2257,1,0.0004,0.999,0.2,106,96.8
+2026-01-15,1004,Rishi,Fortuner,BE-09,Inner VI,Semi-Critical,1695,2,0.0012,0.998,0.73,21,84.35
+2026-01-12,1003,Ritesh,Innova,BE-07,PCB,Critical,2140,2,0.0009,0.999,0.95,90,87.93
+2026-01-16,1004,Rishi,Fortuner,BE-08,PCB,Critical,2224,1,0.0004,0.999,0.01,66,95.37
+2026-01-16,1002,Kajal,Fortuner,BE-08,Cosmetic,Normal,1526,3,0.002,0.997,1.11,38,81.91
+2026-01-13,1006,Shubham,Prado EU,BE-09,RF Cable,Critical,2010,2,0.001,0.999,0.66,18,84.82
+2026-01-16,1004,Rishi,Fortuner,BE-09,PCB,Critical,1911,2,0.001,0.999,0.88,42,84.62
+2026-01-15,1008,Saurabh,Fortuner,BE-09,PCB,Critical,1500,1,0.0007,0.999,0.85,46,85.28
+2026-01-16,1002,Kajal,Prado EU,BE-08,Camera,Critical,2085,3,0.0014,0.998,1.02,107,88.61
+2026-01-14,1002,Kajal,Prado EU,BE-09,Cosmetic,Normal,1544,1,0.0006,0.999,0.04,54,94.05
+2026-01-16,1003,Ritesh,Prado NA,BE-08,Cosmetic,Normal,1573,0,0,1,0.58,21,85.95
+2026-01-15,1004,Rishi,Fortuner,BE-09,Camera,Critical,1730,3,0.0017,0.998,0.61,25,85.85
+2026-01-10,1003,Ritesh,Fortuner,BE-07,RF Cable,Critical,1823,1,0.0005,0.999,0.32,112,96.09
+2026-01-10,1004,Rishi,Prado NA,BE-08,Cosmetic,Normal,1640,0,0,1,0.38,103,94.78
+2026-01-16,1009,Kiran,Innova,BE-09,Inner VI,Semi-Critical,1679,0,0,1,1.04,26,81.77
+2026-01-10,1003,Ritesh,Prado NA,BE-08,RF Cable,Critical,1943,4,0.0021,0.997,0.73,78,89.03
+2026-01-16,1003,Ritesh,Innova,BE-07,RF Cable,Critical,2016,2,0.001,0.999,0.86,71,87.24
+2026-01-10,1007,Neha,Fortuner,BE-09,Inner VI,Semi-Critical,1565,1,0.0006,0.999,0.06,84,96.35
+2026-01-13,1007,Neha,Prado NA,BE-09,PCB,Critical,2056,2,0.001,0.999,0.97,90,87.72
+2026-01-15,1001,Anuj,Prado NA,BE-07,Inner VI,Semi-Critical,2083,2,0.001,0.999,0.04,42,93.02
+2026-01-15,1003,Ritesh,Prado EU,BE-09,Camera,Critical,2090,0,0,1,0.95,101,88.92
+2026-01-16,1002,Kajal,Prado NA,BE-07,Battery,Semi-Critical,2013,1,0.0005,0.999,0.78,57,86.91
+2026-01-16,1010,Maya,Fortuner,BE-08,Inner VI,Semi-Critical,1627,2,0.0012,0.998,0.99,57,84.75
+2026-01-14,1003,Ritesh,Fortuner,BE-09,PCB,Critical,2075,2,0.001,0.998,0.32,68,92.38
+2026-01-15,1001,Anuj,Prado EU,BE-09,Cosmetic,Normal,1941,0,0,1,0.49,106,93.93
+2026-01-12,1004,Rishi,Prado EU,BE-09,RF Cable,Critical,1610,2,0.0012,0.998,1.18,29,80.52
+2026-01-11,1003,Ritesh,Prado EU,BE-08,Camera,Critical,1709,0,0,1,0.99,13,81.18
+2026-01-15,1010,Maya,Prado EU,BE-07,Camera,Critical,1575,2,0.0013,0.998,1.18,9,78.84
+2026-01-10,1005,Puja,Fortuner,BE-07,Inner VI,Semi-Critical,1845,1,0.0005,0.999,0.15,20,90.12
+2026-01-11,1003,Ritesh,Prado EU,BE-08,Battery,Semi-Critical,1546,2,0.0013,0.998,0.8,42,85.4
+2026-01-12,1006,Shubham,Prado EU,BE-09,Cosmetic,Normal,1716,1,0.0006,0.999,0.23,25,89.74
+2026-01-11,1005,Puja,Prado NA,BE-08,Battery,Semi-Critical,1763,2,0.0011,0.998,0.11,30,91.31
+2026-01-14,1004,Rishi,Fortuner,BE-08,Battery,Semi-Critical,1864,0,0,1,0.71,108,91.9
+2026-01-14,1006,Shubham,Prado EU,BE-07,Cosmetic,Normal,1872,0,0,1,0.72,92,90.47
+2026-01-14,1003,Ritesh,Innova,BE-07,PCB,Critical,1719,4,0.0023,0.997,0.37,77,92.53
+2026-01-14,1007,Neha,Prado EU,BE-08,Camera,Critical,1925,1,0.0005,0.999,0.69,74,89.22
+2026-01-15,1010,Maya,Prado NA,BE-09,Camera,Critical,2098,4,0.0019,0.998,0.52,113,94.07
+2026-01-10,1003,Ritesh,Fortuner,BE-09,Cosmetic,Normal,1830,0,0,1,0.06,81,96.15
+2026-01-16,1010,Maya,Prado NA,BE-08,RF Cable,Critical,2035,2,0.001,0.999,0.28,20,88.79
+2026-01-16,1001,Anuj,Innova,BE-09,Camera,Critical,1614,3,0.0019,0.997,1.09,54,83.44
+2026-01-13,1007,Neha,Fortuner,BE-08,RF Cable,Critical,2215,2,0.0009,0.999,1.09,75,85.28
+2026-01-13,1005,Puja,Prado NA,BE-09,Battery,Semi-Critical,2299,1,0.0004,0.999,0.36,58,91.2
+2026-01-14,1009,Kiran,Fortuner,BE-07,Camera,Critical,2094,1,0.0005,0.999,0.77,105,91.01
+2026-01-10,1002,Kajal,Fortuner,BE-09,Camera,Critical,1963,4,0.002,0.997,0.05,89,96.76
+2026-01-11,1003,Ritesh,Innova,BE-08,PCB,Critical,1978,2,0.001,0.999,1.18,103,86.7
+2026-01-13,1003,Ritesh,Fortuner,BE-07,Battery,Semi-Critical,2013,0,0,1,1.09,20,80.77
+2026-01-11,1007,Neha,Innova,BE-07,Cosmetic,Normal,2258,0,0,1,0.12,36,91.8
+2026-01-14,1005,Puja,Prado NA,BE-08,Inner VI,Semi-Critical,1861,1,0.0005,0.999,0.32,61,91.84
+2026-01-12,1009,Kiran,Prado EU,BE-09,Cosmetic,Normal,2131,2,0.0009,0.999,0.11,107,97.74
+2026-01-11,1003,Ritesh,Fortuner,BE-07,Camera,Critical,1561,1,0.0006,0.999,1.1,24,80.95
+2026-01-13,1009,Kiran,Prado EU,BE-07,Cosmetic,Normal,1960,0,0,1,1.16,41,81.82
+2026-01-14,1006,Shubham,Innova,BE-08,Inner VI,Semi-Critical,2056,1,0.0005,0.999,0.12,80,95.43
+2026-01-10,1009,Kiran,Innova,BE-07,Inner VI,Semi-Critical,2297,0,0,1,0.5,72,91
+2026-01-16,1007,Neha,Fortuner,BE-09,Battery,Semi-Critical,2174,1,0.0005,0.999,0.07,68,94.93
+2026-01-11,1002,Kajal,Prado NA,BE-08,Camera,Critical,2121,1,0.0005,0.999,1.18,93,85.91
+2026-01-14,1007,Neha,Prado EU,BE-09,Cosmetic,Normal,2066,0,0,1,0.76,28,84.73
+2026-01-13,1010,Maya,Prado EU,BE-07,PCB,Critical,2215,3,0.0014,0.998,0.11,50,92.96
+2026-01-13,1002,Kajal,Fortuner,BE-07,RF Cable,Critical,1754,1,0.0006,0.999,1.15,119,88.37
+2026-01-11,1003,Ritesh,Innova,BE-08,Inner VI,Semi-Critical,2218,0,0,1,1.13,100,87.03
+2026-01-16,1003,Ritesh,Innova,BE-08,Camera,Critical,2181,2,0.0009,0.999,0.32,20,88.39
+2026-01-12,1008,Saurabh,Innova,BE-07,Inner VI,Semi-Critical,1605,2,0.0012,0.998,1.04,37,82.59
+2026-01-15,1002,Kajal,Prado EU,BE-08,Camera,Critical,1616,3,0.0019,0.997,0.68,117,92.8
+2026-01-15,1006,Shubham,Prado EU,BE-08,Camera,Critical,1715,3,0.0017,0.998,0.3,82,93.7
+2026-01-10,1010,Maya,Prado EU,BE-07,Battery,Semi-Critical,1598,2,0.0013,0.998,1.12,89,86.12
+2026-01-12,1007,Neha,Prado EU,BE-09,RF Cable,Critical,2020,1,0.0005,0.999,0.85,38,84.62
+2026-01-12,1010,Maya,Innova,BE-07,RF Cable,Critical,2258,2,0.0009,0.999,0.21,9,88.58
+2026-01-12,1004,Rishi,Prado EU,BE-09,Inner VI,Semi-Critical,1628,3,0.0018,0.998,0.3,52,91.19
+2026-01-11,1007,Neha,Prado NA,BE-09,Camera,Critical,1673,2,0.0012,0.998,1.11,84,85.81
+2026-01-10,1002,Kajal,Prado EU,BE-09,Camera,Critical,1665,5,0.003,0.996,0.76,22,84
+2026-01-14,1005,Puja,Prado NA,BE-09,PCB,Critical,1904,1,0.0005,0.999,0.04,32,92.22
+2026-01-10,1008,Saurabh,Prado NA,BE-09,Camera,Critical,2255,2,0.0009,0.999,1.16,73,84.41
+2026-01-12,1005,Puja,Fortuner,BE-09,RF Cable,Critical,1846,1,0.0005,0.999,0.77,41,85.67
+2026-01-14,1007,Neha,Fortuner,BE-07,PCB,Critical,1629,1,0.0006,0.999,0.72,62,87.92
+2026-01-11,1005,Puja,Prado EU,BE-07,Inner VI,Semi-Critical,1519,1,0.0007,0.999,0.6,36,86.95
+2026-01-13,1009,Kiran,Prado EU,BE-07,RF Cable,Critical,2236,2,0.0009,0.999,0.1,39,92.18
+2026-01-16,1002,Kajal,Prado NA,BE-08,Cosmetic,Normal,1704,0,0,1,0.75,88,89.83
+2026-01-10,1001,Anuj,Prado EU,BE-08,Camera,Critical,1711,1,0.0006,0.999,1.02,43,83.34
+2026-01-12,1008,Saurabh,Fortuner,BE-08,Battery,Semi-Critical,2148,0,0,1,0.74,64,87.93
+2026-01-16,1004,Rishi,Fortuner,BE-09,PCB,Critical,1824,3,0.0016,0.997,0.71,64,88.1
+2026-01-16,1010,Maya,Prado NA,BE-09,Camera,Critical,2040,1,0.0005,0.999,0.98,21,81.91
+2026-01-16,1001,Anuj,Fortuner,BE-08,Camera,Critical,1897,3,0.0016,0.998,0.41,37,88.85
+2026-01-12,1009,Kiran,Fortuner,BE-08,PCB,Critical,2200,5,0.0023,0.996,0.93,15,81.76
+2026-01-10,1001,Anuj,Prado EU,BE-09,RF Cable,Critical,1515,2,0.0013,0.998,0.45,21,87.14
+2026-01-15,1004,Rishi,Innova,BE-07,PCB,Critical,1565,0,0,1,0.29,88,94.43
+2026-01-16,1007,Neha,Prado EU,BE-09,PCB,Critical,1600,2,0.0013,0.998,0.24,58,92.33
+2026-01-14,1010,Maya,Innova,BE-08,RF Cable,Critical,2296,0,0,1,0.59,62,89.27
+2026-01-13,1009,Kiran,Innova,BE-08,RF Cable,Critical,1787,0,0,1,1.1,13,80.08
+2026-01-16,1010,Maya,Prado NA,BE-09,Cosmetic,Normal,1966,0,0,1,0.46,15,86.65
+2026-01-16,1004,Rishi,Prado NA,BE-08,Cosmetic,Normal,2098,0,0,1,0.8,41,85.42
+2026-01-12,1010,Maya,Fortuner,BE-08,Battery,Semi-Critical,1629,2,0.0012,0.998,1.02,119,89.62
+2026-01-10,1008,Saurabh,Innova,BE-09,Inner VI,Semi-Critical,1638,1,0.0006,0.999,0.58,103,92.73
+2026-01-12,1003,Ritesh,Fortuner,BE-08,Inner VI,Semi-Critical,1577,1,0.0006,0.999,0.89,19,82.63
+2026-01-13,1005,Puja,Prado EU,BE-07,Battery,Semi-Critical,1871,0,0,1,0.45,8,86.17
+2026-01-10,1009,Kiran,Fortuner,BE-07,RF Cable,Critical,1918,0,0,1,0.06,119,99.32
+2026-01-11,1002,Kajal,Innova,BE-09,Cosmetic,Normal,1713,0,0,1,0.69,70,88.93
+2026-01-15,1001,Anuj,Innova,BE-08,Cosmetic,Normal,1655,1,0.0006,0.999,0.43,92,93.32
+2026-01-15,1008,Saurabh,Fortuner,BE-07,Inner VI,Semi-Critical,1779,0,0,1,0,90,97.5
+2026-01-12,1002,Kajal,Fortuner,BE-07,Battery,Semi-Critical,1812,2,0.0011,0.998,0.63,110,92.77
+2026-01-15,1010,Maya,Prado NA,BE-07,Battery,Semi-Critical,1878,0,0,1,0.06,110,98.57
+2026-01-16,1008,Saurabh,Prado EU,BE-07,Battery,Semi-Critical,1974,1,0.0005,0.999,0.62,67,89.34
+2026-01-14,1005,Puja,Prado EU,BE-08,Camera,Critical,1506,1,0.0007,0.999,0.13,82,95.48
+2026-01-12,1004,Rishi,Fortuner,BE-09,Camera,Critical,1863,3,0.0016,0.998,0.45,24,87.38
+2026-01-12,1008,Saurabh,Prado EU,BE-07,RF Cable,Critical,1970,2,0.001,0.999,0.89,52,85.35
+2026-01-12,1010,Maya,Fortuner,BE-08,PCB,Critical,2089,0,0,1,0.21,84,94.9
+2026-01-14,1004,Rishi,Prado NA,BE-08,RF Cable,Critical,1646,3,0.0018,0.998,1.02,7,80.24
+2026-01-11,1002,Kajal,Prado NA,BE-09,Battery,Semi-Critical,2273,0,0,1,0.77,98,90.47
+2026-01-12,1002,Kajal,Fortuner,BE-09,Inner VI,Semi-Critical,1724,4,0.0023,0.996,0.65,113,92.72
+2026-01-11,1001,Anuj,Prado EU,BE-07,RF Cable,Critical,1999,1,0.0005,0.999,0.52,61,89.84
+2026-01-15,1008,Saurabh,Innova,BE-09,RF Cable,Critical,2253,4,0.0018,0.998,0.87,50,85.33
+2026-01-16,1003,Ritesh,Prado NA,BE-07,PCB,Critical,1801,2,0.0011,0.999,0.63,112,92.95
+2026-01-11,1004,Rishi,Prado NA,BE-07,Cosmetic,Normal,2232,0,0,1,0.87,25,83.38
+2026-01-11,1010,Maya,Prado NA,BE-07,Cosmetic,Normal,2259,1,0.0004,0.999,0.51,12,85.87
+2026-01-16,1009,Kiran,Fortuner,BE-07,RF Cable,Critical,1511,3,0.002,0.997,0.51,82,91.58
+2026-01-15,1008,Saurabh,Innova,BE-09,Cosmetic,Normal,1752,0,0,1,0.77,35,85.22
+2026-01-12,1004,Rishi,Innova,BE-09,Battery,Semi-Critical,1579,1,0.0006,0.999,0.32,68,92.41
+2026-01-16,1007,Neha,Prado NA,BE-08,Camera,Critical,2073,5,0.0024,0.997,0.29,17,88.32
+2026-01-14,1008,Saurabh,Innova,BE-07,PCB,Critical,1775,2,0.0011,0.998,0.81,29,84.23
+2026-01-12,1005,Puja,Innova,BE-09,Camera,Critical,1862,0,0,1,0.83,119,91.62
+2026-01-13,1007,Neha,Innova,BE-07,Cosmetic,Normal,1979,2,0.001,0.999,0.11,85,95.9
+2026-01-12,1001,Anuj,Prado EU,BE-07,Camera,Critical,1703,2,0.0012,0.998,1.03,117,89.36
+2026-01-15,1002,Kajal,Prado NA,BE-07,Battery,Semi-Critical,2027,0,0,1,0.39,42,89.6
+2026-01-10,1009,Kiran,Innova,BE-08,Battery,Semi-Critical,2101,0,0,1,0.23,83,94.62
+2026-01-14,1009,Kiran,Prado EU,BE-07,Camera,Critical,1723,2,0.0012,0.998,0.7,66,88.41
+2026-01-12,1010,Maya,Fortuner,BE-07,Battery,Semi-Critical,1585,1,0.0006,0.999,0.09,74,95.22
+2026-01-12,1007,Neha,Fortuner,BE-09,PCB,Critical,1813,0,0,1,0.32,68,92.47
+2026-01-16,1007,Neha,Prado EU,BE-07,Inner VI,Semi-Critical,2189,2,0.0009,0.999,0.72,118,92.56
+2026-01-13,1006,Shubham,Prado EU,BE-07,Cosmetic,Normal,1522,1,0.0007,0.999,0.49,42,88.55
+2026-01-16,1001,Anuj,Fortuner,BE-08,RF Cable,Critical,1893,3,0.0016,0.998,1.14,67,84.06
+2026-01-15,1006,Shubham,Fortuner,BE-07,Cosmetic,Normal,1878,1,0.0005,0.999,0.75,108,91.46
+2026-01-13,1008,Saurabh,Fortuner,BE-09,RF Cable,Critical,1822,2,0.0011,0.999,0.59,22,85.85
+2026-01-13,1007,Neha,Prado NA,BE-07,PCB,Critical,1895,0,0,1,0.29,53,91.52
+2026-01-10,1004,Rishi,Prado NA,BE-09,PCB,Critical,2138,5,0.0023,0.997,0.34,96,94.41
+2026-01-12,1003,Ritesh,Innova,BE-07,Camera,Critical,1728,0,0,1,1.01,75,86.15
+2026-01-15,1002,Kajal,Fortuner,BE-07,PCB,Critical,1574,5,0.0032,0.995,0.88,75,87.19
+2026-01-12,1005,Puja,Prado NA,BE-09,Camera,Critical,1796,2,0.0011,0.999,0.3,74,93.08
+2026-01-16,1007,Neha,Prado NA,BE-09,Camera,Critical,2286,3,0.0013,0.998,1.18,101,86.51
+2026-01-10,1006,Shubham,Prado EU,BE-09,Camera,Critical,1509,2,0.0013,0.998,0.01,86,96.96
+2026-01-11,1001,Anuj,Innova,BE-08,Cosmetic,Normal,2104,0,0,1,0.71,29,85.32
+2026-01-16,1005,Puja,Innova,BE-07,Battery,Semi-Critical,2175,1,0.0005,0.999,0.41,30,88.36
+2026-01-10,1008,Saurabh,Innova,BE-07,Battery,Semi-Critical,1648,2,0.0012,0.998,1.11,7,79.39
+2026-01-11,1002,Kajal,Prado NA,BE-09,Cosmetic,Normal,2135,1,0.0005,0.999,0.86,9,82.11
+2026-01-13,1009,Kiran,Fortuner,BE-07,Cosmetic,Normal,1651,2,0.0012,0.998,1.09,16,80.34
+2026-01-13,1001,Anuj,Fortuner,BE-09,PCB,Critical,1840,3,0.0016,0.998,0.15,74,94.54
+2026-01-10,1007,Neha,Prado NA,BE-09,RF Cable,Critical,1685,1,0.0006,0.999,0.64,109,92.63
+2026-01-10,1010,Maya,Fortuner,BE-08,RF Cable,Critical,2227,0,0,1,0.58,110,93.37
+2026-01-12,1004,Rishi,Fortuner,BE-09,Camera,Critical,2215,0,0,1,0.89,75,87.35
+2026-01-11,1001,Anuj,Fortuner,BE-08,Inner VI,Semi-Critical,1645,1,0.0006,0.999,0.73,109,91.73
+2026-01-11,1006,Shubham,Prado EU,BE-09,RF Cable,Critical,1914,1,0.0005,0.999,0.32,96,94.76
+2026-01-11,1009,Kiran,Innova,BE-08,Camera,Critical,1570,1,0.0006,0.999,0.51,88,92.18
+2026-01-12,1007,Neha,Prado EU,BE-07,Cosmetic,Normal,2105,0,0,1,0.69,5,83.52
+2026-01-11,1004,Rishi,Prado NA,BE-08,Inner VI,Semi-Critical,1970,0,0,1,1.12,24,80.8
+2026-01-14,1001,Anuj,Fortuner,BE-08,Cosmetic,Normal,1791,0,0,1,0.16,81,95.15
+2026-01-16,1010,Maya,Prado EU,BE-07,Camera,Critical,1835,3,0.0016,0.998,0.64,58,88.3
+2026-01-11,1003,Ritesh,Fortuner,BE-08,Battery,Semi-Critical,1637,1,0.0006,0.999,0.96,36,83.35
+2026-01-10,1003,Ritesh,Prado EU,BE-08,PCB,Critical,1555,2,0.0013,0.998,0,95,97.82
+2026-01-10,1001,Anuj,Fortuner,BE-08,PCB,Critical,2084,1,0.0005,0.999,0.41,13,86.95
+2026-01-16,1002,Kajal,Fortuner,BE-07,Battery,Semi-Critical,1798,0,0,1,0.85,115,91.08
+2026-01-14,1001,Anuj,Prado NA,BE-07,RF Cable,Critical,2048,2,0.001,0.999,0.94,76,86.85
+2026-01-14,1002,Kajal,Fortuner,BE-07,Cosmetic,Normal,1738,1,0.0006,0.999,0.41,8,86.52
+2026-01-10,1009,Kiran,Innova,BE-07,Inner VI,Semi-Critical,1901,2,0.0011,0.998,0.95,39,83.66
+2026-01-11,1010,Maya,Prado EU,BE-07,PCB,Critical,1541,1,0.0006,0.999,0.49,109,94.13
+2026-01-13,1007,Neha,Prado NA,BE-07,Battery,Semi-Critical,1780,0,0,1,1.1,13,80.08
+2026-01-13,1001,Anuj,Fortuner,BE-07,RF Cable,Critical,2199,1,0.0005,0.999,1.09,18,80.56
+2026-01-13,1008,Saurabh,Fortuner,BE-09,Camera,Critical,2047,0,0,1,0.76,90,89.9
+2026-01-11,1008,Saurabh,Prado NA,BE-09,Cosmetic,Normal,1925,0,0,1,0.71,43,86.48
+2026-01-13,1005,Puja,Prado NA,BE-07,PCB,Critical,2282,5,0.0022,0.997,0.99,58,84.76
+2026-01-12,1001,Anuj,Prado NA,BE-07,Inner VI,Semi-Critical,2091,0,0,1,1.2,113,87.42
+2026-01-16,1002,Kajal,Prado NA,BE-08,Inner VI,Semi-Critical,2150,1,0.0005,0.999,0.95,85,87.55
+2026-01-12,1008,Saurabh,Fortuner,BE-07,Inner VI,Semi-Critical,2216,0,0,1,0.06,21,91.15
+2026-01-12,1002,Kajal,Prado EU,BE-08,Inner VI,Semi-Critical,1631,2,0.0012,0.998,0.96,38,83.46
+2026-01-11,1006,Shubham,Prado NA,BE-09,Cosmetic,Normal,2253,1,0.0004,0.999,0.81,76,88.2
+2026-01-14,1005,Puja,Innova,BE-07,Battery,Semi-Critical,2019,1,0.0005,0.999,0.13,15,89.91
+2026-01-16,1002,Kajal,Prado EU,BE-09,PCB,Critical,1677,0,0,1,1.09,119,89.02
+2026-01-14,1004,Rishi,Innova,BE-07,Inner VI,Semi-Critical,1944,1,0.0005,0.999,0.46,23,87.28
+2026-01-11,1006,Shubham,Prado EU,BE-07,Inner VI,Semi-Critical,1913,2,0.001,0.999,1.05,35,82.34
+2026-01-10,1004,Rishi,Prado NA,BE-09,Inner VI,Semi-Critical,2228,0,0,1,1.15,39,81.75
+2026-01-14,1005,Puja,Prado NA,BE-07,Cosmetic,Normal,1981,2,0.001,0.999,0.92,32,83.39
+2026-01-12,1009,Kiran,Prado EU,BE-09,Camera,Critical,1938,2,0.001,0.998,0.13,21,90.36
+2026-01-10,1009,Kiran,Innova,BE-07,RF Cable,Critical,1784,4,0.0022,0.997,0.38,34,88.87
+2026-01-15,1003,Ritesh,Innova,BE-07,Battery,Semi-Critical,1635,1,0.0006,0.999,0.28,21,88.9
+2026-01-12,1005,Puja,Fortuner,BE-09,Battery,Semi-Critical,2176,0,0,1,0.78,114,91.7
+2026-01-14,1008,Saurabh,Prado NA,BE-07,Cosmetic,Normal,1546,2,0.0013,0.998,1.05,15,80.64
+2026-01-14,1004,Rishi,Prado NA,BE-08,Battery,Semi-Critical,1576,3,0.0019,0.998,0.06,117,99
+2026-01-10,1005,Puja,Fortuner,BE-08,Camera,Critical,2277,3,0.0013,0.998,0.09,37,92.08
+2026-01-12,1002,Kajal,Prado NA,BE-07,PCB,Critical,1723,1,0.0006,0.999,1.07,82,86.09
+2026-01-14,1001,Anuj,Prado EU,BE-09,RF Cable,Critical,1745,3,0.0017,0.998,1.01,101,88.19
+2026-01-14,1007,Neha,Innova,BE-08,Battery,Semi-Critical,2245,1,0.0004,0.999,0.66,79,89.95
+2026-01-10,1009,Kiran,Prado EU,BE-07,Battery,Semi-Critical,1587,0,0,1,0.64,76,89.93
+2026-01-13,1002,Kajal,Prado NA,BE-09,PCB,Critical,1842,1,0.0005,0.999,0.44,113,94.97
+2026-01-11,1001,Anuj,Innova,BE-08,Cosmetic,Normal,1630,0,0,1,0.7,109,92.08
+2026-01-12,1001,Anuj,Innova,BE-07,PCB,Critical,2230,2,0.0009,0.999,0.46,19,86.91
+2026-01-11,1007,Neha,Prado EU,BE-09,Battery,Semi-Critical,1657,0,0,1,0.97,43,83.88
+2026-01-13,1007,Neha,Prado NA,BE-08,RF Cable,Critical,1968,0,0,1,0.09,68,94.77
+2026-01-12,1004,Rishi,Fortuner,BE-07,PCB,Critical,1901,4,0.0021,0.997,0.46,40,88.55
+2026-01-13,1010,Maya,Fortuner,BE-07,Battery,Semi-Critical,1647,1,0.0006,0.999,1.1,98,87.12
+2026-01-13,1004,Rishi,Fortuner,BE-07,PCB,Critical,1767,2,0.0011,0.998,0.09,103,97.59
+2026-01-11,1001,Anuj,Fortuner,BE-07,PCB,Critical,1780,2,0.0011,0.998,0.33,98,94.78
+2026-01-15,1002,Kajal,Prado NA,BE-09,Cosmetic,Normal,1756,1,0.0006,0.999,0.34,84,93.56
+2026-01-16,1007,Neha,Fortuner,BE-08,RF Cable,Critical,1571,1,0.0006,0.999,0.44,96,93.55
+2026-01-16,1005,Puja,Innova,BE-09,Camera,Critical,1592,1,0.0006,0.999,0.67,85,90.33
+2026-01-11,1002,Kajal,Prado NA,BE-09,Battery,Semi-Critical,1902,0,0,1,0.74,19,84.18
+2026-01-11,1009,Kiran,Innova,BE-08,Battery,Semi-Critical,2139,1,0.0005,0.999,0.71,97,90.95
+2026-01-15,1007,Neha,Fortuner,BE-09,PCB,Critical,2081,0,0,1,1.15,78,85
+2026-01-12,1007,Neha,Innova,BE-07,Camera,Critical,1604,2,0.0012,0.998,1.1,118,88.73
+2026-01-16,1004,Rishi,Innova,BE-07,Inner VI,Semi-Critical,1555,0,0,1,0.01,96,97.9
+2026-01-11,1008,Saurabh,Innova,BE-08,Battery,Semi-Critical,1934,1,0.0005,0.999,0.33,66,92.16
+2026-01-16,1007,Neha,Prado NA,BE-07,Camera,Critical,2101,3,0.0014,0.998,0.24,35,90.4
+2026-01-13,1010,Maya,Innova,BE-07,RF Cable,Critical,2288,4,0.0017,0.998,0.53,101,92.98
+2026-01-15,1005,Puja,Fortuner,BE-07,Cosmetic,Normal,1981,0,0,1,0.62,19,85.38
+2026-01-15,1005,Puja,Prado EU,BE-08,Battery,Semi-Critical,2037,2,0.001,0.999,0.75,63,87.67
+2026-01-11,1008,Saurabh,Prado NA,BE-08,Inner VI,Semi-Critical,1512,1,0.0007,0.999,0.43,28,87.98
+2026-01-13,1008,Saurabh,Prado EU,BE-07,Camera,Critical,1991,1,0.0005,0.999,0.16,97,96.44
+2026-01-12,1003,Ritesh,Innova,BE-07,Camera,Critical,1588,3,0.0019,0.997,0.21,107,96.67
+2026-01-12,1005,Puja,Prado EU,BE-07,RF Cable,Critical,1770,3,0.0017,0.998,0.14,45,92.21
+2026-01-12,1007,Neha,Prado NA,BE-07,RF Cable,Critical,1786,4,0.0022,0.997,0.94,31,83
+2026-01-13,1001,Anuj,Fortuner,BE-07,Battery,Semi-Critical,1826,2,0.0011,0.999,0.36,90,93.82
+2026-01-10,1009,Kiran,Innova,BE-09,Camera,Critical,2271,2,0.0009,0.999,0.92,14,81.9
+2026-01-15,1009,Kiran,Innova,BE-09,RF Cable,Critical,2281,4,0.0018,0.998,0.34,106,95.29
+2026-01-11,1010,Maya,Fortuner,BE-07,PCB,Critical,2015,4,0.002,0.997,0.06,115,98.82
+2026-01-14,1009,Kiran,Innova,BE-09,RF Cable,Critical,1958,1,0.0005,0.999,0.97,90,87.76
+2026-01-16,1002,Kajal,Prado EU,BE-08,Battery,Semi-Critical,2139,0,0,1,1.16,102,86.9
+2026-01-16,1002,Kajal,Prado NA,BE-08,PCB,Critical,1559,3,0.0019,0.998,1.06,105,88
+2026-01-11,1009,Kiran,Prado EU,BE-09,PCB,Critical,1547,4,0.0026,0.997,0.59,36,86.9
+2026-01-13,1001,Anuj,Prado EU,BE-09,RF Cable,Critical,1815,4,0.0022,0.997,0.8,64,87.16
+2026-01-15,1009,Kiran,Fortuner,BE-07,Camera,Critical,1677,1,0.0006,0.999,0.32,24,88.75
+2026-01-16,1006,Shubham,Prado EU,BE-09,Cosmetic,Normal,2237,2,0.0009,0.999,0.58,65,89.54
+2026-01-12,1006,Shubham,Prado NA,BE-07,Camera,Critical,1560,2,0.0013,0.998,1.03,113,89.02
+2026-01-12,1005,Puja,Fortuner,BE-08,Camera,Critical,1579,0,0,1,0.79,35,85.02
+2026-01-12,1006,Shubham,Innova,BE-07,PCB,Critical,1992,0,0,1,0.74,47,86.52
+2026-01-15,1001,Anuj,Innova,BE-08,RF Cable,Critical,2143,2,0.0009,0.999,0.21,30,90.32
+2026-01-14,1008,Saurabh,Prado NA,BE-07,Battery,Semi-Critical,1948,1,0.0005,0.999,0.88,89,88.58
+2026-01-12,1002,Kajal,Prado EU,BE-07,Camera,Critical,1863,1,0.0005,0.999,0.32,92,94.42
+2026-01-15,1003,Ritesh,Fortuner,BE-09,PCB,Critical,2065,2,0.001,0.999,0.39,37,89.1
+2026-01-13,1001,Anuj,Prado NA,BE-09,Cosmetic,Normal,1883,1,0.0005,0.999,0.71,82,89.69
+2026-01-16,1003,Ritesh,Fortuner,BE-09,PCB,Critical,1622,0,0,1,0.36,85,93.48
+2026-01-16,1006,Shubham,Prado NA,BE-07,Cosmetic,Normal,2265,0,0,1,0.8,62,87.17
+2026-01-14,1007,Neha,Prado NA,BE-08,Camera,Critical,1810,2,0.0011,0.998,1.04,71,85.43
+2026-01-13,1008,Saurabh,Innova,BE-08,Inner VI,Semi-Critical,1567,1,0.0006,0.999,0.44,21,87.3
+2026-01-12,1010,Maya,Prado NA,BE-09,Camera,Critical,1628,1,0.0006,0.999,0.03,7,90.24
+2026-01-11,1009,Kiran,Innova,BE-07,PCB,Critical,1599,0,0,1,0.09,18,90.6
+2026-01-11,1006,Shubham,Innova,BE-08,RF Cable,Critical,1970,2,0.001,0.999,0.64,45,87.27
+2026-01-10,1008,Saurabh,Prado NA,BE-09,RF Cable,Critical,2040,3,0.0015,0.998,0.58,82,90.92
+2026-01-10,1001,Anuj,Fortuner,BE-08,Inner VI,Semi-Critical,1996,3,0.0015,0.998,0.37,35,89.1
+2026-01-13,1001,Anuj,Prado EU,BE-07,Inner VI,Semi-Critical,2063,1,0.0005,0.999,0.54,118,94.39
+2026-01-14,1003,Ritesh,Innova,BE-07,Inner VI,Semi-Critical,2236,6,0.0027,0.997,0.33,100,94.83
+2026-01-10,1005,Puja,Fortuner,BE-09,PCB,Critical,2136,3,0.0014,0.998,0.67,30,85.69
+2026-01-16,1006,Shubham,Fortuner,BE-08,Camera,Critical,1660,3,0.0018,0.998,0.73,66,88.06
+2026-01-14,1001,Anuj,Prado EU,BE-09,Camera,Critical,2142,5,0.0023,0.997,0.33,77,92.92
+2026-01-13,1005,Puja,Fortuner,BE-08,RF Cable,Critical,2100,1,0.0005,0.999,0.84,43,85.14
+2026-01-14,1005,Puja,Prado EU,BE-07,PCB,Critical,2292,1,0.0004,0.999,1.19,110,87.23
+2026-01-14,1009,Kiran,Prado NA,BE-07,Cosmetic,Normal,2207,3,0.0014,0.998,0.56,99,92.54
+2026-01-16,1001,Anuj,Prado NA,BE-09,RF Cable,Critical,1672,1,0.0006,0.999,0.03,41,93.07
+2026-01-15,1007,Neha,Prado EU,BE-09,Inner VI,Semi-Critical,1767,0,0,1,0.33,64,92.03
+2026-01-13,1004,Rishi,Innova,BE-07,Battery,Semi-Critical,1683,0,0,1,0.01,66,95.4
+2026-01-11,1004,Rishi,Prado NA,BE-09,PCB,Critical,1995,3,0.0015,0.998,0.46,84,92.28
+2026-01-15,1001,Anuj,Prado NA,BE-09,PCB,Critical,1703,2,0.0012,0.998,0.14,87,95.75
+2026-01-14,1010,Maya,Prado NA,BE-09,PCB,Critical,2005,2,0.001,0.999,1.08,22,80.95
+2026-01-13,1006,Shubham,Prado NA,BE-07,PCB,Critical,2146,3,0.0014,0.998,0.05,33,92.14
+2026-01-13,1009,Kiran,Prado NA,BE-07,Inner VI,Semi-Critical,2195,1,0.0005,0.999,0.62,54,88.26
+2026-01-16,1002,Kajal,Prado EU,BE-08,Camera,Critical,1528,3,0.002,0.997,0.8,27,84.08
+2026-01-10,1007,Neha,Innova,BE-08,RF Cable,Critical,2065,2,0.001,0.999,0.26,90,94.82
+2026-01-12,1004,Rishi,Prado NA,BE-07,PCB,Critical,1700,2,0.0012,0.998,0.68,12,84.1
+2026-01-14,1004,Rishi,Prado NA,BE-08,Inner VI,Semi-Critical,1594,1,0.0006,0.999,0.75,73,88.54
+2026-01-16,1009,Kiran,Prado NA,BE-07,Cosmetic,Normal,1588,0,0,1,1,41,83.42
+2026-01-13,1008,Saurabh,Innova,BE-09,RF Cable,Critical,1709,4,0.0023,0.997,1.13,75,84.77
+2026-01-12,1008,Saurabh,Innova,BE-09,RF Cable,Critical,2041,3,0.0015,0.998,0.09,99,97.23
+2026-01-15,1001,Anuj,Innova,BE-09,PCB,Critical,2246,2,0.0009,0.999,1.2,105,86.68
+2026-01-16,1008,Saurabh,Innova,BE-07,Battery,Semi-Critical,1986,0,0,1,0.91,87,88.15
+2026-01-12,1005,Puja,Prado EU,BE-08,Inner VI,Semi-Critical,2217,1,0.0005,0.999,0.07,27,91.51
+2026-01-15,1002,Kajal,Fortuner,BE-09,Inner VI,Semi-Critical,2200,3,0.0014,0.998,1.08,44,82.75
+2026-01-11,1001,Anuj,Innova,BE-09,RF Cable,Critical,1606,3,0.0019,0.998,1.05,89,86.77
+2026-01-11,1008,Saurabh,Prado NA,BE-08,Cosmetic,Normal,1523,1,0.0007,0.999,0.36,36,89.35
+2026-01-10,1009,Kiran,Fortuner,BE-07,Battery,Semi-Critical,1991,0,0,1,0.15,80,95.17
+2026-01-13,1006,Shubham,Prado NA,BE-07,PCB,Critical,1669,4,0.0024,0.997,0.11,47,92.62
+2026-01-15,1007,Neha,Prado NA,BE-08,PCB,Critical,1933,1,0.0005,0.999,0.86,66,86.86
+2026-01-12,1001,Anuj,Prado NA,BE-07,Inner VI,Semi-Critical,2059,1,0.0005,0.999,0.76,50,86.53
+2026-01-16,1010,Maya,Prado EU,BE-09,Camera,Critical,2209,0,0,1,0.02,44,93.47
+2026-01-13,1003,Ritesh,Prado EU,BE-09,Cosmetic,Normal,1585,1,0.0006,0.999,0.32,37,89.83
+2026-01-16,1004,Rishi,Fortuner,BE-07,PCB,Critical,2238,1,0.0004,0.999,0.22,101,96.18
+2026-01-11,1009,Kiran,Fortuner,BE-09,Camera,Critical,1674,0,0,1,0.86,34,84.23
+2026-01-13,1003,Ritesh,Prado EU,BE-07,Camera,Critical,1876,2,0.0011,0.999,0.44,63,90.77
+2026-01-15,1007,Neha,Prado NA,BE-09,Inner VI,Semi-Critical,1734,1,0.0006,0.999,0.49,110,94.22
+2026-01-14,1003,Ritesh,Innova,BE-09,RF Cable,Critical,1816,2,0.0011,0.999,0.98,42,83.62
+2026-01-16,1001,Anuj,Prado NA,BE-09,RF Cable,Critical,2240,4,0.0018,0.997,0.16,60,93.25
+2026-01-12,1006,Shubham,Innova,BE-07,Camera,Critical,1890,1,0.0005,0.999,0.3,64,92.29
+2026-01-13,1002,Kajal,Prado NA,BE-08,Camera,Critical,1867,3,0.0016,0.998,0.02,60,94.67
+2026-01-15,1010,Maya,Prado NA,BE-08,Camera,Critical,1645,4,0.0024,0.997,0.73,83,89.43
+2026-01-13,1004,Rishi,Innova,BE-09,Cosmetic,Normal,1503,1,0.0007,0.999,0.11,92,96.51
+2026-01-13,1006,Shubham,Prado NA,BE-08,RF Cable,Critical,1899,3,0.0016,0.998,0.33,39,89.82
+2026-01-10,1003,Ritesh,Innova,BE-09,Battery,Semi-Critical,1858,1,0.0005,0.999,1.06,110,88.52
+2026-01-16,1007,Neha,Innova,BE-09,Inner VI,Semi-Critical,1626,0,0,1,0.16,29,90.82
+2026-01-11,1008,Saurabh,Innova,BE-07,Cosmetic,Normal,1638,1,0.0006,0.999,0.29,33,89.8
+2026-01-10,1004,Rishi,Prado EU,BE-09,Cosmetic,Normal,1980,2,0.001,0.999,0.38,71,92.04
+2026-01-14,1005,Puja,Prado NA,BE-08,PCB,Critical,1967,3,0.0015,0.998,0.15,81,95.13
+2026-01-11,1008,Saurabh,Innova,BE-09,Camera,Critical,2193,2,0.0009,0.999,0.75,114,91.93
+2026-01-15,1002,Kajal,Innova,BE-08,Battery,Semi-Critical,2158,0,0,1,0.07,7,89.88
+2026-01-13,1007,Neha,Fortuner,BE-07,Cosmetic,Normal,2182,0,0,1,0.38,43,89.78
+2026-01-15,1005,Puja,Innova,BE-07,Inner VI,Semi-Critical,2009,0,0,1,1.07,95,87.22
+2026-01-14,1003,Ritesh,Innova,BE-08,RF Cable,Critical,1621,1,0.0006,0.999,0.91,110,90.01
+2026-01-12,1005,Puja,Prado NA,BE-08,Inner VI,Semi-Critical,1590,1,0.0006,0.999,0.39,97,94.13
+2026-01-11,1008,Saurabh,Prado EU,BE-09,Inner VI,Semi-Critical,1594,1,0.0006,0.999,0.38,45,89.9
+2026-01-13,1003,Ritesh,Fortuner,BE-07,Battery,Semi-Critical,1748,2,0.0011,0.998,1.19,27,80.26
+2026-01-15,1002,Kajal,Innova,BE-08,RF Cable,Critical,2141,3,0.0014,0.998,0.93,70,86.42
+2026-01-14,1010,Maya,Prado NA,BE-09,Battery,Semi-Critical,1520,0,0,1,0.4,78,92.5
+2026-01-10,1002,Kajal,Innova,BE-07,Inner VI,Semi-Critical,1560,2,0.0013,0.998,0.45,97,93.48
+2026-01-16,1003,Ritesh,Innova,BE-07,Camera,Critical,2021,1,0.0005,0.999,1.13,30,81.16
+2026-01-16,1005,Puja,Fortuner,BE-09,RF Cable,Critical,2204,1,0.0005,0.999,0.21,36,90.87
+2026-01-13,1001,Anuj,Prado EU,BE-09,RF Cable,Critical,1635,1,0.0006,0.999,0.76,56,87.02
+2026-01-11,1005,Puja,Innova,BE-08,Inner VI,Semi-Critical,1604,0,0,1,0.98,88,87.53
+2026-01-11,1002,Kajal,Fortuner,BE-09,PCB,Critical,2293,0,0,1,0.34,62,91.77
+2026-01-11,1010,Maya,Fortuner,BE-08,Camera,Critical,1592,5,0.0031,0.996,0.5,74,90.91
+2026-01-14,1006,Shubham,Innova,BE-08,Inner VI,Semi-Critical,1707,0,0,1,0.16,92,96.07
+2026-01-12,1001,Anuj,Prado NA,BE-08,Battery,Semi-Critical,2246,2,0.0009,0.999,1.09,14,80.19
+2026-01-15,1004,Rishi,Fortuner,BE-09,Camera,Critical,1744,1,0.0006,0.999,0.02,114,99.25
+2026-01-16,1002,Kajal,Prado NA,BE-07,PCB,Critical,1902,1,0.0005,0.999,0.75,15,83.71
+2026-01-14,1010,Maya,Prado EU,BE-07,PCB,Critical,1560,0,0,1,0.68,106,92.03
+2026-01-11,1004,Rishi,Fortuner,BE-08,Cosmetic,Normal,1632,0,0,1,0.83,31,84.28
+2026-01-16,1010,Maya,Innova,BE-09,Inner VI,Semi-Critical,1806,0,0,1,0.85,74,87.67
+2026-01-12,1009,Kiran,Prado EU,BE-08,RF Cable,Critical,1631,0,0,1,0.95,56,85.17
+2026-01-16,1004,Rishi,Prado EU,BE-09,Cosmetic,Normal,1670,2,0.0012,0.998,0.87,85,88.29
+2026-01-12,1006,Shubham,Innova,BE-09,RF Cable,Critical,1817,1,0.0006,0.999,0.96,108,89.35
+2026-01-16,1009,Kiran,Innova,BE-07,Cosmetic,Normal,2140,0,0,1,0.05,29,91.92
+2026-01-11,1003,Ritesh,Fortuner,BE-08,Inner VI,Semi-Critical,1893,0,0,1,0.29,65,92.52
+2026-01-14,1006,Shubham,Prado NA,BE-09,PCB,Critical,1805,1,0.0006,0.999,0.38,92,93.82
+2026-01-10,1006,Shubham,Innova,BE-07,RF Cable,Critical,2046,1,0.0005,0.999,0.93,85,87.74
+2026-01-13,1002,Kajal,Prado EU,BE-09,Camera,Critical,2139,1,0.0005,0.999,0.67,21,85.01
+2026-01-12,1010,Maya,Prado NA,BE-08,Battery,Semi-Critical,1797,2,0.0011,0.999,0.41,94,93.65
+2026-01-15,1006,Shubham,Fortuner,BE-07,RF Cable,Critical,1889,0,0,1,0.63,97,91.78
+2026-01-11,1005,Puja,Prado NA,BE-08,Cosmetic,Normal,1887,0,0,1,0.39,60,91.1
+2026-01-13,1006,Shubham,Prado EU,BE-08,Inner VI,Semi-Critical,1792,1,0.0006,0.999,0.95,32,83.12
+2026-01-14,1010,Maya,Fortuner,BE-08,Battery,Semi-Critical,1919,1,0.0005,0.999,1.18,61,83.24
+2026-01-13,1010,Maya,Prado NA,BE-07,Battery,Semi-Critical,1675,0,0,1,0.72,80,89.47
+2026-01-12,1007,Neha,Fortuner,BE-09,Battery,Semi-Critical,1681,2,0.0012,0.998,0.78,78,88.6
+2026-01-12,1001,Anuj,Innova,BE-08,PCB,Critical,2248,0,0,1,1.17,20,79.97
+2026-01-16,1002,Kajal,Prado NA,BE-08,RF Cable,Critical,1638,0,0,1,0.81,16,83.23
+2026-01-11,1004,Rishi,Innova,BE-07,Camera,Critical,2175,0,0,1,0.93,16,82.03
+2026-01-10,1008,Saurabh,Fortuner,BE-08,Cosmetic,Normal,1677,2,0.0012,0.998,0.26,80,93.97
+2026-01-12,1006,Shubham,Fortuner,BE-09,RF Cable,Critical,2286,8,0.0035,0.996,0.21,67,93.22
+2026-01-14,1009,Kiran,Fortuner,BE-07,Cosmetic,Normal,1779,0,0,1,0.08,87,96.45
+2026-01-12,1004,Rishi,Prado NA,BE-08,Cosmetic,Normal,1753,2,0.0011,0.998,0.55,76,90.74
+2026-01-16,1005,Puja,Prado EU,BE-09,PCB,Critical,1717,2,0.0012,0.998,1.16,35,81.22
+2026-01-14,1002,Kajal,Prado NA,BE-08,Battery,Semi-Critical,1897,3,0.0016,0.998,0.42,45,89.42
+2026-01-15,1009,Kiran,Prado NA,BE-07,PCB,Critical,2203,2,0.0009,0.999,0.84,96,89.53
+2026-01-11,1007,Neha,Innova,BE-08,Cosmetic,Normal,1934,0,0,1,0.48,83,92.12
+2026-01-12,1002,Kajal,Innova,BE-07,Camera,Critical,2150,1,0.0005,0.999,0.62,49,87.85
+2026-01-14,1006,Shubham,Prado EU,BE-09,Battery,Semi-Critical,2103,0,0,1,0.11,11,89.82
+2026-01-14,1003,Ritesh,Prado NA,BE-08,Battery,Semi-Critical,1870,2,0.0011,0.999,1.03,67,85.2
+2026-01-11,1010,Maya,Innova,BE-08,Inner VI,Semi-Critical,1880,1,0.0005,0.999,0,57,94.71
+2026-01-14,1001,Anuj,Fortuner,BE-08,Battery,Semi-Critical,2254,5,0.0022,0.997,0.9,100,89.16
+2026-01-10,1010,Maya,Prado NA,BE-09,Cosmetic,Normal,2134,1,0.0005,0.999,0,84,96.96
+2026-01-16,1006,Shubham,Innova,BE-09,RF Cable,Critical,1507,1,0.0007,0.999,0.23,104,96.31
+2026-01-15,1005,Puja,Prado NA,BE-08,Inner VI,Semi-Critical,2116,1,0.0005,0.999,0.31,18,88.36
+2026-01-16,1007,Neha,Prado NA,BE-09,PCB,Critical,1882,4,0.0021,0.997,0.24,97,95.51
+2026-01-16,1008,Saurabh,Prado NA,BE-08,PCB,Critical,2193,3,0.0014,0.998,0.35,10,87.22
+2026-01-14,1004,Rishi,Prado EU,BE-07,Inner VI,Semi-Critical,2203,2,0.0009,0.999,0.78,51,86.38
+2026-01-15,1009,Kiran,Prado EU,BE-07,Battery,Semi-Critical,2024,0,0,1,0.92,109,89.88
+2026-01-10,1008,Saurabh,Innova,BE-09,PCB,Critical,1923,3,0.0016,0.998,0.17,69,93.93
+2026-01-14,1006,Shubham,Prado NA,BE-07,Camera,Critical,1745,1,0.0006,0.999,0.72,26,84.92
+2026-01-16,1003,Ritesh,Prado NA,BE-07,Camera,Critical,2150,3,0.0014,0.998,1.11,24,80.78
+2026-01-13,1003,Ritesh,Prado NA,BE-09,Battery,Semi-Critical,2073,2,0.001,0.999,0.84,95,89.44
+2026-01-11,1005,Puja,Innova,BE-07,PCB,Critical,2154,0,0,1,0.94,61,85.68
+2026-01-15,1004,Rishi,Fortuner,BE-09,Inner VI,Semi-Critical,2095,3,0.0014,0.998,0.71,40,86.11
+2026-01-14,1007,Neha,Innova,BE-08,Battery,Semi-Critical,1720,0,0,1,0.11,53,93.32
+2026-01-10,1010,Maya,Prado NA,BE-09,Battery,Semi-Critical,1963,0,0,1,0.93,97,88.78
+2026-01-16,1009,Kiran,Prado NA,BE-07,Inner VI,Semi-Critical,2068,2,0.001,0.998,1.08,79,85.7
+2026-01-14,1006,Shubham,Prado EU,BE-07,Cosmetic,Normal,1754,0,0,1,0.08,47,93.12
+2026-01-10,1009,Kiran,Prado NA,BE-09,Battery,Semi-Critical,2167,0,0,1,1.06,99,87.65
+2026-01-16,1007,Neha,Prado NA,BE-09,Camera,Critical,1604,2,0.0012,0.998,0.88,92,88.77
+2026-01-11,1005,Puja,Fortuner,BE-07,PCB,Critical,2020,2,0.001,0.999,0.9,34,83.75
+2026-01-10,1006,Shubham,Prado EU,BE-08,RF Cable,Critical,1604,1,0.0006,0.999,0.4,57,90.7
+2026-01-13,1003,Ritesh,Innova,BE-07,Cosmetic,Normal,1961,2,0.001,0.999,0.19,5,88.44
+2026-01-11,1003,Ritesh,Innova,BE-09,RF Cable,Critical,2157,0,0,1,0.33,64,92.03
+2026-01-14,1006,Shubham,Fortuner,BE-07,Camera,Critical,1777,6,0.0034,0.995,0.43,28,87.75
+2026-01-11,1004,Rishi,Fortuner,BE-07,Inner VI,Semi-Critical,1956,1,0.0005,0.999,0.11,64,94.19
+2026-01-11,1003,Ritesh,Prado NA,BE-08,Camera,Critical,2119,1,0.0005,0.999,0.57,94,92.1
+2026-01-12,1003,Ritesh,Prado EU,BE-07,RF Cable,Critical,1774,0,0,1,0.67,14,84.47
+2026-01-11,1007,Neha,Innova,BE-09,Camera,Critical,1545,0,0,1,0.61,59,88.82
+2026-01-16,1007,Neha,Prado NA,BE-08,Camera,Critical,2030,2,0.001,0.999,0.97,15,81.48
+2026-01-10,1002,Kajal,Fortuner,BE-08,Battery,Semi-Critical,1966,0,0,1,0.27,38,90.47
+2026-01-16,1008,Saurabh,Fortuner,BE-09,PCB,Critical,1629,0,0,1,0.73,71,88.62
+2026-01-14,1001,Anuj,Innova,BE-09,Battery,Semi-Critical,1732,1,0.0006,0.999,0.32,41,90.17
+2026-01-11,1006,Shubham,Innova,BE-09,Cosmetic,Normal,1923,1,0.0005,0.999,1,103,88.54
+2026-01-14,1001,Anuj,Prado EU,BE-09,Battery,Semi-Critical,2008,0,0,1,0.99,92,87.77
+2026-01-14,1001,Anuj,Innova,BE-08,Cosmetic,Normal,1703,2,0.0012,0.998,0.79,15,83.26
+2026-01-13,1008,Saurabh,Innova,BE-09,Battery,Semi-Critical,1570,1,0.0006,0.999,0.51,115,94.43
+2026-01-12,1002,Kajal,Prado NA,BE-09,Inner VI,Semi-Critical,1614,0,0,1,0.91,73,86.98
+2026-01-12,1003,Ritesh,Fortuner,BE-08,Camera,Critical,1671,1,0.0006,0.999,1.15,78,84.95
+2026-01-12,1008,Saurabh,Prado EU,BE-07,PCB,Critical,1803,1,0.0006,0.999,0.3,30,89.45
+2026-01-16,1001,Anuj,Innova,BE-08,Inner VI,Semi-Critical,2088,0,0,1,1.09,99,87.35
+2026-01-15,1006,Shubham,Fortuner,BE-09,Battery,Semi-Critical,2203,1,0.0005,0.999,0.28,108,96.16
+2026-01-16,1010,Maya,Prado NA,BE-08,Cosmetic,Normal,1551,0,0,1,0.52,51,89.05
+2026-01-13,1003,Ritesh,Fortuner,BE-08,Inner VI,Semi-Critical,2238,2,0.0009,0.999,0.86,56,86
+2026-01-11,1004,Rishi,Prado EU,BE-08,Camera,Critical,2012,1,0.0005,0.999,0.41,107,94.78
+2026-01-16,1008,Saurabh,Innova,BE-08,Battery,Semi-Critical,1513,1,0.0007,0.999,0.24,84,94.55
+2026-01-15,1001,Anuj,Fortuner,BE-09,PCB,Critical,2287,2,0.0009,0.999,0.1,90,96.43
+2026-01-12,1006,Shubham,Fortuner,BE-09,Cosmetic,Normal,1829,1,0.0005,0.999,1.01,57,84.61
+2026-01-14,1006,Shubham,Prado NA,BE-07,Cosmetic,Normal,1773,1,0.0006,0.999,0.7,34,85.79
+2026-01-12,1004,Rishi,Prado EU,BE-08,Inner VI,Semi-Critical,1917,1,0.0005,0.999,0.15,9,89.21
+2026-01-16,1009,Kiran,Prado NA,BE-09,Inner VI,Semi-Critical,2277,2,0.0009,0.999,0.58,50,88.29
+2026-01-13,1009,Kiran,Prado NA,BE-07,Cosmetic,Normal,2262,3,0.0013,0.998,0.5,7,85.47
+2026-01-11,1007,Neha,Innova,BE-09,Camera,Critical,2010,0,0,1,0.01,79,96.48
+2026-01-13,1010,Maya,Prado EU,BE-08,Inner VI,Semi-Critical,1833,1,0.0005,0.999,0.38,20,87.83
+2026-01-12,1006,Shubham,Innova,BE-09,Battery,Semi-Critical,1716,0,0,1,0.33,38,89.87
+2026-01-15,1004,Rishi,Innova,BE-08,PCB,Critical,2202,2,0.0009,0.999,0.44,17,86.94
+2026-01-15,1003,Ritesh,Innova,BE-07,RF Cable,Critical,1577,5,0.0032,0.995,0.26,108,96.13
+2026-01-10,1009,Kiran,Prado EU,BE-09,Inner VI,Semi-Critical,1979,2,0.001,0.998,1.01,29,82.23
+2026-01-16,1001,Anuj,Prado EU,BE-08,Camera,Critical,1586,3,0.0019,0.997,0.87,10,81.98
+2026-01-15,1004,Rishi,Prado EU,BE-09,Inner VI,Semi-Critical,2019,1,0.0005,0.999,0.47,103,93.84
+2026-01-10,1008,Saurabh,Fortuner,BE-08,Inner VI,Semi-Critical,1938,0,0,1,1.18,88,85.53
+2026-01-16,1007,Neha,Prado EU,BE-09,Camera,Critical,1762,2,0.0011,0.998,0.26,110,96.48
+2026-01-14,1009,Kiran,Innova,BE-07,RF Cable,Critical,1749,4,0.0023,0.997,0.66,72,89.22
+2026-01-16,1006,Shubham,Fortuner,BE-07,Cosmetic,Normal,2031,0,0,1,0.77,81,89.05
+2026-01-11,1009,Kiran,Prado NA,BE-07,PCB,Critical,1875,2,0.0011,0.998,0.45,48,89.41
+2026-01-14,1003,Ritesh,Fortuner,BE-08,PCB,Critical,2190,3,0.0014,0.998,0.95,44,84.05
+2026-01-12,1005,Puja,Prado NA,BE-09,Camera,Critical,2090,3,0.0014,0.998,0.48,77,91.5
+2026-01-12,1001,Anuj,Prado EU,BE-07,Cosmetic,Normal,2217,1,0.0005,0.999,0.11,74,95.03
+2026-01-10,1003,Ritesh,Prado EU,BE-08,Camera,Critical,1550,1,0.0006,0.999,0.12,95,96.66
+2026-01-14,1007,Neha,Fortuner,BE-08,Inner VI,Semi-Critical,2210,0,0,1,0.44,13,86.68
+2026-01-13,1002,Kajal,Prado NA,BE-09,Cosmetic,Normal,1580,3,0.0019,0.997,0.51,52,89.08
+2026-01-10,1006,Shubham,Prado NA,BE-08,Camera,Critical,1968,4,0.002,0.998,0.38,19,87.63
+2026-01-16,1006,Shubham,Fortuner,BE-09,Cosmetic,Normal,1545,0,0,1,1.02,68,85.47
+2026-01-14,1006,Shubham,Prado NA,BE-09,Camera,Critical,2001,1,0.0005,0.999,1.06,95,87.28
+2026-01-12,1006,Shubham,Prado NA,BE-09,RF Cable,Critical,2163,4,0.0018,0.998,0.56,118,94.09
+2026-01-15,1010,Maya,Prado EU,BE-09,Inner VI,Semi-Critical,1888,3,0.0016,0.998,0.04,25,91.56
+2026-01-13,1005,Puja,Innova,BE-09,PCB,Critical,2127,1,0.0005,0.999,0.45,74,91.63
+2026-01-10,1007,Neha,Prado NA,BE-09,Camera,Critical,2162,1,0.0005,0.999,0.97,73,86.35
+2026-01-13,1002,Kajal,Innova,BE-09,Inner VI,Semi-Critical,1767,1,0.0006,0.999,0.57,66,89.76
+2026-01-12,1008,Saurabh,Prado EU,BE-09,Battery,Semi-Critical,1802,2,0.0011,0.998,0.47,81,91.96
+2026-01-11,1010,Maya,Prado EU,BE-07,Battery,Semi-Critical,2220,0,0,1,0.62,56,88.47
+2026-01-14,1010,Maya,Fortuner,BE-08,Camera,Critical,1803,2,0.0011,0.999,1.15,118,88.25
+2026-01-13,1003,Ritesh,Prado NA,BE-07,Cosmetic,Normal,1728,1,0.0006,0.999,0.6,46,87.79
+2026-01-15,1010,Maya,Fortuner,BE-07,Inner VI,Semi-Critical,1716,1,0.0006,0.999,0.77,23,84.17
+2026-01-15,1003,Ritesh,Prado NA,BE-08,Inner VI,Semi-Critical,1541,1,0.0006,0.999,0.34,11,87.47
+2026-01-14,1001,Anuj,Fortuner,BE-09,Inner VI,Semi-Critical,1519,0,0,1,0.96,12,81.4
+2026-01-14,1001,Anuj,Prado NA,BE-07,PCB,Critical,1914,1,0.0005,0.999,0.55,119,94.37
+2026-01-12,1001,Anuj,Fortuner,BE-08,PCB,Critical,2011,1,0.0005,0.999,0.97,10,81.09
+2026-01-12,1004,Rishi,Prado EU,BE-08,RF Cable,Critical,2185,4,0.0018,0.997,0.09,118,98.78
+2026-01-12,1003,Ritesh,Fortuner,BE-08,RF Cable,Critical,1959,1,0.0005,0.999,0,55,94.54
+2026-01-12,1008,Saurabh,Innova,BE-09,RF Cable,Critical,1667,3,0.0018,0.998,0.99,111,89.21
+2026-01-12,1006,Shubham,Prado EU,BE-09,Battery,Semi-Critical,2230,1,0.0004,0.999,1.11,52,83.2
+2026-01-11,1008,Saurabh,Prado NA,BE-08,Cosmetic,Normal,2287,0,0,1,0.83,116,91.37
+2026-01-12,1003,Ritesh,Fortuner,BE-09,Cosmetic,Normal,1911,2,0.001,0.999,0.24,93,95.27
+2026-01-12,1003,Ritesh,Prado EU,BE-09,Camera,Critical,1711,2,0.0012,0.998,0.93,63,85.86
+2026-01-16,1008,Saurabh,Prado EU,BE-07,PCB,Critical,1627,4,0.0025,0.996,0.91,20,82.37
+2026-01-14,1008,Saurabh,Fortuner,BE-08,PCB,Critical,1631,2,0.0012,0.998,0.5,42,88.41
+2026-01-10,1009,Kiran,Prado NA,BE-09,Camera,Critical,1732,4,0.0023,0.997,0.66,86,90.38
+2026-01-12,1006,Shubham,Fortuner,BE-07,PCB,Critical,1568,3,0.0019,0.998,0.59,31,86.53
+2026-01-10,1010,Maya,Prado EU,BE-07,Camera,Critical,1895,2,0.0011,0.999,0.86,5,81.73
+2026-01-12,1008,Saurabh,Innova,BE-08,PCB,Critical,1507,2,0.0013,0.998,0.74,86,89.66
+2026-01-16,1001,Anuj,Fortuner,BE-07,Cosmetic,Normal,1614,0,0,1,0.97,115,89.88
+2026-01-12,1009,Kiran,Prado NA,BE-07,Inner VI,Semi-Critical,1720,2,0.0012,0.998,0.81,97,89.89
+2026-01-12,1008,Saurabh,Prado EU,BE-09,RF Cable,Critical,1717,2,0.0012,0.998,0.48,55,89.69
+2026-01-12,1007,Neha,Prado NA,BE-08,PCB,Critical,1655,3,0.0018,0.997,0.23,43,91.13
+2026-01-13,1005,Puja,Fortuner,BE-09,Battery,Semi-Critical,1559,1,0.0006,0.999,0.95,100,88.78
+2026-01-12,1008,Saurabh,Prado EU,BE-07,Camera,Critical,1603,1,0.0006,0.999,0.83,114,91.15
+2026-01-12,1004,Rishi,Prado NA,BE-08,PCB,Critical,1614,2,0.0012,0.998,1.05,76,85.73
+2026-01-15,1002,Kajal,Prado NA,BE-09,Inner VI,Semi-Critical,1680,2,0.0012,0.998,0.34,31,89.09
+2026-01-14,1003,Ritesh,Fortuner,BE-07,Camera,Critical,2270,2,0.0009,0.999,0.49,117,94.78
+2026-01-16,1007,Neha,Prado NA,BE-07,Cosmetic,Normal,1959,0,0,1,0.9,110,90.17
+2026-01-16,1003,Ritesh,Fortuner,BE-07,Camera,Critical,1515,1,0.0007,0.999,0.26,102,95.85
+2026-01-14,1009,Kiran,Prado EU,BE-09,Inner VI,Semi-Critical,1815,0,0,1,0.52,38,87.97
+2026-01-15,1009,Kiran,Prado EU,BE-08,PCB,Critical,2065,1,0.0005,0.999,0.28,58,91.99
+2026-01-15,1007,Neha,Fortuner,BE-07,Cosmetic,Normal,1512,0,0,1,0.86,57,86.15
+2026-01-14,1004,Rishi,Innova,BE-07,Cosmetic,Normal,1649,1,0.0006,0.999,0.81,35,84.77
+2026-01-12,1001,Anuj,Prado NA,BE-07,Camera,Critical,2245,2,0.0009,0.999,0.31,34,89.66
+2026-01-14,1007,Neha,Fortuner,BE-09,Cosmetic,Normal,2083,0,0,1,0.38,111,95.45
+2026-01-16,1003,Ritesh,Innova,BE-07,PCB,Critical,1764,3,0.0017,0.998,0.9,58,85.71
+2026-01-15,1007,Neha,Fortuner,BE-09,Battery,Semi-Critical,1515,1,0.0007,0.999,0.85,49,85.53
+2026-01-15,1005,Puja,Fortuner,BE-08,PCB,Critical,1885,0,0,1,0.74,86,89.77
+2026-01-14,1001,Anuj,Fortuner,BE-09,Inner VI,Semi-Critical,1793,0,0,1,0.05,71,95.42
+2026-01-13,1002,Kajal,Prado EU,BE-07,PCB,Critical,1708,1,0.0006,0.999,0.33,66,92.15
+2026-01-15,1007,Neha,Fortuner,BE-07,RF Cable,Critical,1552,3,0.0019,0.997,0.88,62,86.21
+2026-01-16,1003,Ritesh,Innova,BE-08,RF Cable,Critical,1788,3,0.0017,0.998,0.22,100,96
+2026-01-16,1002,Kajal,Prado NA,BE-09,Battery,Semi-Critical,1690,1,0.0006,0.999,0.99,23,81.97
+2026-01-16,1002,Kajal,Fortuner,BE-07,Camera,Critical,2297,3,0.0013,0.998,0.94,62,85.66
+2026-01-10,1005,Puja,Innova,BE-09,Cosmetic,Normal,2102,0,0,1,1.07,44,82.97
+2026-01-11,1002,Kajal,Innova,BE-07,PCB,Critical,2022,1,0.0005,0.999,0.42,110,94.93
+2026-01-15,1010,Maya,Fortuner,BE-09,RF Cable,Critical,1685,2,0.0012,0.999,0.18,62,93.28
+2026-01-14,1006,Shubham,Innova,BE-08,Battery,Semi-Critical,2289,2,0.0009,0.999,0.87,106,90.07
+2026-01-14,1010,Maya,Prado EU,BE-08,Inner VI,Semi-Critical,1875,0,0,1,0.62,28,86.13
+2026-01-10,1007,Neha,Prado NA,BE-07,Inner VI,Semi-Critical,1888,1,0.0005,0.999,0.18,12,89.16
+2026-01-10,1007,Neha,Prado NA,BE-07,RF Cable,Critical,1526,5,0.0033,0.995,0.09,52,93.17
+2026-01-11,1003,Ritesh,Innova,BE-08,RF Cable,Critical,2286,2,0.0009,0.999,0.19,105,96.78
+2026-01-15,1007,Neha,Prado EU,BE-07,Camera,Critical,2078,5,0.0024,0.996,0.11,27,90.95
+2026-01-14,1007,Neha,Fortuner,BE-08,RF Cable,Critical,1868,3,0.0016,0.997,0.57,83,91.08
+2026-01-10,1010,Maya,Fortuner,BE-08,Inner VI,Semi-Critical,2263,2,0.0009,0.999,1.04,7,80.11
+2026-01-12,1001,Anuj,Innova,BE-08,Cosmetic,Normal,1925,0,0,1,0.85,97,89.58
+2026-01-13,1003,Ritesh,Prado EU,BE-09,Inner VI,Semi-Critical,2006,0,0,1,0.7,51,87.25
+2026-01-13,1007,Neha,Fortuner,BE-07,Battery,Semi-Critical,2061,0,0,1,0.09,18,90.6
+2026-01-12,1003,Ritesh,Prado NA,BE-09,Camera,Critical,1723,1,0.0006,0.999,1.16,18,79.85
+2026-01-12,1002,Kajal,Prado NA,BE-09,Cosmetic,Normal,2224,0,0,1,0.63,55,88.28
+2026-01-15,1001,Anuj,Prado EU,BE-07,Inner VI,Semi-Critical,2127,2,0.0009,0.999,0,117,99.68
+2026-01-14,1002,Kajal,Innova,BE-09,Cosmetic,Normal,2148,1,0.0005,0.999,0.57,10,85.1
+2026-01-15,1004,Rishi,Prado NA,BE-08,PCB,Critical,1894,1,0.0005,0.999,0.93,76,86.99
+2026-01-15,1008,Saurabh,Prado NA,BE-08,PCB,Critical,2037,1,0.0005,0.999,0.9,112,90.3
+2026-01-15,1003,Ritesh,Fortuner,BE-09,Camera,Critical,2091,1,0.0005,0.999,0.77,76,88.6
+2026-01-16,1009,Kiran,Fortuner,BE-07,Inner VI,Semi-Critical,1835,1,0.0005,0.999,0.77,109,91.34
+2026-01-10,1002,Kajal,Fortuner,BE-07,Battery,Semi-Critical,2141,2,0.0009,0.999,0.29,5,87.44
+2026-01-11,1009,Kiran,Innova,BE-09,Inner VI,Semi-Critical,1700,0,0,1,0.79,19,83.68
+2026-01-14,1008,Saurabh,Innova,BE-09,Cosmetic,Normal,2192,1,0.0005,0.999,0.41,61,90.95
+2026-01-13,1007,Neha,Prado NA,BE-08,Camera,Critical,1795,1,0.0006,0.999,0.13,41,92.07
+2026-01-10,1004,Rishi,Prado NA,BE-07,Inner VI,Semi-Critical,1847,0,0,1,0.78,76,88.53
+2026-01-10,1009,Kiran,Fortuner,BE-07,Battery,Semi-Critical,1800,1,0.0006,0.999,0.85,64,86.79
+2026-01-16,1005,Puja,Innova,BE-08,RF Cable,Critical,2175,3,0.0014,0.998,0.52,103,93.28
+2026-01-16,1004,Rishi,Innova,BE-07,Camera,Critical,2054,2,0.001,0.999,0.35,41,89.84
+2026-01-12,1003,Ritesh,Prado NA,BE-09,Camera,Critical,2271,2,0.0009,0.999,0.57,115,93.81
+2026-01-11,1002,Kajal,Prado EU,BE-07,Camera,Critical,1671,2,0.0012,0.998,0.86,9,82.06
+2026-01-16,1004,Rishi,Prado EU,BE-08,Cosmetic,Normal,1768,1,0.0006,0.999,0.97,55,84.84
+2026-01-16,1004,Rishi,Prado NA,BE-08,Camera,Critical,2000,3,0.0015,0.998,0.01,96,97.78
+2026-01-16,1010,Maya,Prado EU,BE-07,Inner VI,Semi-Critical,2151,2,0.0009,0.999,0.67,113,92.65
+2026-01-14,1005,Puja,Fortuner,BE-09,PCB,Critical,2273,2,0.0009,0.999,0.24,81,94.28
+2026-01-11,1010,Maya,Innova,BE-07,Camera,Critical,1582,1,0.0006,0.999,0.6,96,91.95
+2026-01-14,1008,Saurabh,Prado EU,BE-09,Camera,Critical,1657,2,0.0012,0.998,0.07,84,96.2
+2026-01-13,1004,Rishi,Fortuner,BE-07,Inner VI,Semi-Critical,1895,0,0,1,0.86,84,88.4
+2026-01-13,1010,Maya,Prado NA,BE-08,Inner VI,Semi-Critical,2293,1,0.0004,0.999,0.45,55,90.05
+2026-01-15,1009,Kiran,Fortuner,BE-09,Cosmetic,Normal,2261,2,0.0009,0.999,0.02,84,96.73
+2026-01-14,1009,Kiran,Prado NA,BE-07,Camera,Critical,1577,0,0,1,0.04,118,99.43
+2026-01-16,1008,Saurabh,Fortuner,BE-07,PCB,Critical,1752,2,0.0011,0.998,0.82,52,86.04
+2026-01-14,1001,Anuj,Fortuner,BE-07,Camera,Critical,1650,4,0.0024,0.996,0.81,16,83.03
+2026-01-15,1008,Saurabh,Prado EU,BE-09,Battery,Semi-Critical,1834,1,0.0005,0.999,0.56,115,93.94
+2026-01-13,1010,Maya,Innova,BE-07,Battery,Semi-Critical,2103,1,0.0005,0.999,0.96,45,84.11
+2026-01-16,1002,Kajal,Prado EU,BE-07,PCB,Critical,2145,1,0.0005,0.999,0.89,118,90.9
+2026-01-12,1005,Puja,Fortuner,BE-09,Camera,Critical,1574,5,0.0032,0.996,0.47,91,92.63
+2026-01-15,1006,Shubham,Innova,BE-07,PCB,Critical,1646,1,0.0006,0.999,0.81,68,87.52
+2026-01-10,1003,Ritesh,Prado NA,BE-07,Cosmetic,Normal,2156,2,0.0009,0.999,1.08,54,83.62
+2026-01-10,1008,Saurabh,Innova,BE-08,Battery,Semi-Critical,1536,3,0.002,0.997,0.44,72,91.44
+2026-01-15,1004,Rishi,Prado NA,BE-07,PCB,Critical,1955,1,0.0005,0.999,0.5,60,89.96
+2026-01-16,1010,Maya,Fortuner,BE-09,Camera,Critical,2147,2,0.0009,0.999,0.84,17,82.95
+2026-01-15,1006,Shubham,Prado NA,BE-07,PCB,Critical,2252,4,0.0018,0.998,0.92,113,90.08
+2026-01-10,1001,Anuj,Fortuner,BE-07,RF Cable,Critical,2185,3,0.0014,0.998,0.91,8,81.46
+2026-01-11,1004,Rishi,Innova,BE-07,RF Cable,Critical,2144,2,0.0009,0.999,0.23,58,92.46
+2026-01-14,1005,Puja,Prado NA,BE-08,PCB,Critical,2157,0,0,1,0.28,83,94.12
+2026-01-12,1004,Rishi,Innova,BE-09,Inner VI,Semi-Critical,1519,3,0.002,0.997,0.36,90,93.74
+2026-01-15,1004,Rishi,Prado EU,BE-08,Camera,Critical,2294,3,0.0013,0.998,0.86,99,89.55
+2026-01-13,1006,Shubham,Fortuner,BE-07,Cosmetic,Normal,1580,1,0.0006,0.999,0.27,56,91.92
+2026-01-14,1004,Rishi,Innova,BE-07,PCB,Critical,1690,2,0.0012,0.999,1.17,102,86.71
+2026-01-10,1006,Shubham,Prado EU,BE-07,Battery,Semi-Critical,1841,0,0,1,0.81,38,85.07
+2026-01-12,1003,Ritesh,Fortuner,BE-07,Cosmetic,Normal,1514,1,0.0007,0.999,0.12,74,94.92
+2026-01-15,1008,Saurabh,Fortuner,BE-08,Battery,Semi-Critical,1526,3,0.002,0.997,0.17,70,93.97
+2026-01-13,1009,Kiran,Fortuner,BE-07,Battery,Semi-Critical,2082,0,0,1,0.53,45,88.45
+2026-01-14,1008,Saurabh,Fortuner,BE-07,Battery,Semi-Critical,1545,1,0.0006,0.999,0.56,59,89.27
+2026-01-13,1004,Rishi,Fortuner,BE-07,Cosmetic,Normal,2189,2,0.0009,0.999,0.29,42,90.52
+2026-01-13,1006,Shubham,Innova,BE-08,RF Cable,Critical,1900,0,0,1,0.97,86,87.47
+2026-01-15,1008,Saurabh,Prado EU,BE-09,PCB,Critical,1551,3,0.0019,0.998,0.27,81,93.9
+2026-01-16,1003,Ritesh,Prado EU,BE-07,Inner VI,Semi-Critical,2026,1,0.0005,0.999,0.87,119,91.18
+2026-01-16,1007,Neha,Prado NA,BE-07,Cosmetic,Normal,1731,0,0,1,0.12,68,94.47
+2026-01-14,1002,Kajal,Prado NA,BE-09,Inner VI,Semi-Critical,1867,1,0.0005,0.999,0.55,57,89.21
+2026-01-12,1003,Ritesh,Fortuner,BE-09,RF Cable,Critical,1934,1,0.0005,0.999,0.51,45,88.61
+2026-01-15,1008,Saurabh,Innova,BE-07,Inner VI,Semi-Critical,1935,1,0.0005,0.999,0.68,81,89.91
+2026-01-12,1006,Shubham,Prado NA,BE-07,Inner VI,Semi-Critical,2240,0,0,1,0.35,110,95.67
+2026-01-13,1008,Saurabh,Prado NA,BE-07,Cosmetic,Normal,2296,1,0.0004,0.999,0.5,24,86.96
+2026-01-11,1008,Saurabh,Prado NA,BE-09,RF Cable,Critical,1674,4,0.0024,0.996,0.33,48,90.5
+2026-01-11,1004,Rishi,Prado EU,BE-07,RF Cable,Critical,1761,1,0.0006,0.999,0.12,45,92.5
+2026-01-16,1001,Anuj,Innova,BE-07,Inner VI,Semi-Critical,1799,2,0.0011,0.998,0.6,79,90.49
+2026-01-15,1004,Rishi,Prado EU,BE-09,Inner VI,Semi-Critical,1515,3,0.002,0.997,0.48,16,86.38
+2026-01-11,1010,Maya,Prado NA,BE-07,RF Cable,Critical,1941,0,0,1,0.58,53,88.62
+2026-01-10,1006,Shubham,Prado NA,BE-07,Battery,Semi-Critical,1739,1,0.0006,0.999,0.99,81,86.8
+2026-01-15,1006,Shubham,Prado EU,BE-07,Battery,Semi-Critical,2169,1,0.0005,0.999,1.06,16,80.7
+2026-01-12,1003,Ritesh,Fortuner,BE-09,Battery,Semi-Critical,1900,0,0,1,1.01,100,88.23
+2026-01-13,1003,Ritesh,Innova,BE-09,Cosmetic,Normal,1953,0,0,1,0,55,94.58
+2026-01-12,1010,Maya,Fortuner,BE-08,Battery,Semi-Critical,2093,0,0,1,0.06,60,94.4
+2026-01-10,1008,Saurabh,Prado EU,BE-08,Battery,Semi-Critical,1744,1,0.0006,0.999,0.3,82,93.79
+2026-01-15,1007,Neha,Prado EU,BE-09,Camera,Critical,1845,2,0.0011,0.999,0.74,17,83.93
+2026-01-10,1009,Kiran,Prado EU,BE-07,Camera,Critical,1513,2,0.0013,0.998,0.68,98,91.27
+2026-01-16,1002,Kajal,Fortuner,BE-09,Cosmetic,Normal,1845,0,0,1,0.64,69,89.35
+2026-01-15,1008,Saurabh,Prado EU,BE-09,PCB,Critical,2007,2,0.001,0.998,0.19,11,88.93
+2026-01-15,1007,Neha,Fortuner,BE-07,RF Cable,Critical,1987,1,0.0005,0.999,0.42,104,94.43
+2026-01-15,1001,Anuj,Prado EU,BE-07,Cosmetic,Normal,2180,0,0,1,0.71,103,91.48
+2026-01-15,1004,Rishi,Prado NA,BE-07,Camera,Critical,1614,3,0.0019,0.997,1.07,39,82.39
+2026-01-12,1005,Puja,Prado NA,BE-07,Battery,Semi-Critical,2183,3,0.0014,0.998,0.06,78,95.79
+2026-01-11,1008,Saurabh,Innova,BE-08,PCB,Critical,2049,1,0.0005,0.999,1.17,99,86.51
+2026-01-11,1002,Kajal,Fortuner,BE-08,PCB,Critical,1674,2,0.0012,0.998,0.23,49,91.69
+2026-01-10,1007,Neha,Prado EU,BE-08,Battery,Semi-Critical,1590,1,0.0006,0.999,0.89,57,85.8
+2026-01-12,1004,Rishi,Prado NA,BE-08,RF Cable,Critical,1542,2,0.0013,0.998,1.2,82,84.72
+2026-01-14,1006,Shubham,Fortuner,BE-08,Cosmetic,Normal,1875,0,0,1,0.55,43,88.08
+2026-01-15,1006,Shubham,Prado NA,BE-09,RF Cable,Critical,1595,1,0.0006,0.999,0.31,93,94.6
+2026-01-11,1009,Kiran,Prado EU,BE-07,Cosmetic,Normal,1645,1,0.0006,0.999,0.39,78,92.55
+2026-01-14,1006,Shubham,Prado NA,BE-09,Inner VI,Semi-Critical,2113,0,0,1,0.61,18,85.4
+2026-01-15,1008,Saurabh,Prado EU,BE-08,Cosmetic,Normal,1758,1,0.0006,0.999,0.96,38,83.52
+2026-01-12,1008,Saurabh,Fortuner,BE-07,PCB,Critical,1838,1,0.0005,0.999,0.39,23,87.97
+2026-01-11,1003,Ritesh,Fortuner,BE-08,PCB,Critical,1934,1,0.0005,0.999,0.73,62,87.83
+2026-01-15,1010,Maya,Innova,BE-09,Camera,Critical,1797,0,0,1,0.72,7,83.38
+2026-01-13,1010,Maya,Prado NA,BE-07,Camera,Critical,2184,3,0.0014,0.998,0.64,115,93.08
+2026-01-16,1009,Kiran,Prado NA,BE-07,Cosmetic,Normal,2066,1,0.0005,0.999,0.97,53,84.68
+2026-01-15,1007,Neha,Fortuner,BE-09,PCB,Critical,2076,3,0.0014,0.998,0.72,31,85.26
+2026-01-15,1005,Puja,Fortuner,BE-09,Cosmetic,Normal,1965,2,0.001,0.998,0.05,64,94.75
+2026-01-16,1002,Kajal,Prado NA,BE-08,Battery,Semi-Critical,2296,1,0.0004,0.999,0.11,61,93.95
+2026-01-15,1004,Rishi,Innova,BE-07,PCB,Critical,1967,1,0.0005,0.999,0.75,13,83.54
+2026-01-15,1007,Neha,Prado EU,BE-07,Cosmetic,Normal,1871,1,0.0005,0.999,0.09,31,91.64
+2026-01-13,1002,Kajal,Prado NA,BE-09,Battery,Semi-Critical,1923,1,0.0005,0.999,0.06,13,90.44
+2026-01-15,1006,Shubham,Fortuner,BE-08,Camera,Critical,1973,2,0.001,0.998,1.08,96,87.11
+2026-01-16,1004,Rishi,Prado EU,BE-08,PCB,Critical,1927,4,0.0021,0.997,1.07,115,88.73
+2026-01-15,1004,Rishi,Fortuner,BE-08,RF Cable,Critical,1856,1,0.0005,0.999,0.84,96,89.55
+2026-01-11,1010,Maya,Innova,BE-07,Battery,Semi-Critical,1989,0,0,1,1.09,83,86.02
+2026-01-13,1006,Shubham,Prado NA,BE-08,Cosmetic,Normal,1912,1,0.0005,0.999,0.71,96,90.86
+2026-01-16,1009,Kiran,Innova,BE-08,RF Cable,Critical,1695,0,0,1,0.69,88,90.43
+2026-01-16,1001,Anuj,Prado NA,BE-07,Cosmetic,Normal,2225,0,0,1,0.69,51,87.35
+2026-01-10,1002,Kajal,Fortuner,BE-08,Battery,Semi-Critical,1847,3,0.0016,0.998,0.5,5,85.29
+2026-01-11,1006,Shubham,Prado NA,BE-08,Camera,Critical,2289,8,0.0035,0.994,0.52,110,93.67
+2026-01-15,1010,Maya,Innova,BE-09,Camera,Critical,2021,3,0.0015,0.998,0.31,13,87.86
+2026-01-13,1009,Kiran,Innova,BE-09,RF Cable,Critical,1580,1,0.0006,0.999,1.05,88,86.78
+2026-01-15,1006,Shubham,Fortuner,BE-07,PCB,Critical,1558,1,0.0006,0.999,0.12,102,97.25
+2026-01-13,1002,Kajal,Innova,BE-08,Battery,Semi-Critical,2269,1,0.0004,0.999,0.97,16,81.6
+2026-01-15,1009,Kiran,Prado NA,BE-09,Battery,Semi-Critical,1973,0,0,1,0.32,66,92.3
+2026-01-15,1007,Neha,Prado EU,BE-08,Cosmetic,Normal,1661,1,0.0006,0.999,0.38,109,95.23
+2026-01-16,1009,Kiran,Fortuner,BE-08,Camera,Critical,2067,0,0,1,0.23,115,97.28
+2026-01-13,1010,Maya,Innova,BE-07,PCB,Critical,2117,3,0.0014,0.998,0.55,37,87.47
+2026-01-10,1005,Puja,Prado NA,BE-07,Camera,Critical,1906,2,0.001,0.998,0.58,119,94.03
+2026-01-16,1004,Rishi,Fortuner,BE-07,PCB,Critical,2275,0,0,1,0.02,64,95.13
+2026-01-14,1005,Puja,Prado EU,BE-09,PCB,Critical,2267,3,0.0013,0.998,0.78,57,86.85
+2026-01-14,1005,Puja,Prado NA,BE-09,Inner VI,Semi-Critical,1772,0,0,1,1.17,68,83.97
+2026-01-10,1007,Neha,Fortuner,BE-08,PCB,Critical,2204,0,0,1,0.27,100,95.63
+2026-01-14,1005,Puja,Fortuner,BE-07,Inner VI,Semi-Critical,2298,0,0,1,0.01,19,91.48
+2026-01-10,1010,Maya,Prado EU,BE-08,Cosmetic,Normal,1594,0,0,1,0.38,79,92.78
+2026-01-10,1010,Maya,Prado NA,BE-07,Cosmetic,Normal,1572,0,0,1,0.41,67,91.48
+2026-01-14,1008,Saurabh,Prado NA,BE-08,RF Cable,Critical,2140,1,0.0005,0.999,0.42,50,89.93
+2026-01-13,1010,Maya,Fortuner,BE-08,Inner VI,Semi-Critical,1569,2,0.0013,0.998,0.08,119,99.01
+2026-01-12,1003,Ritesh,Innova,BE-07,Camera,Critical,1807,2,0.0011,0.998,0.85,79,87.99
+2026-01-11,1005,Puja,Prado EU,BE-07,Battery,Semi-Critical,2117,1,0.0005,0.999,0.15,84,95.46
+2026-01-12,1004,Rishi,Prado NA,BE-07,PCB,Critical,1558,1,0.0006,0.999,0.24,19,89.13
+2026-01-11,1002,Kajal,Prado NA,BE-09,Cosmetic,Normal,2027,3,0.0015,0.998,1.03,5,80
+2026-01-12,1005,Puja,Fortuner,BE-07,Cosmetic,Normal,1713,4,0.0023,0.997,0.45,9,86.06
+2026-01-12,1005,Puja,Prado EU,BE-07,PCB,Critical,1535,4,0.0026,0.996,0.1,86,95.96
+2026-01-13,1008,Saurabh,Prado NA,BE-09,Camera,Critical,1557,5,0.0032,0.995,0.49,18,86.33
+2026-01-10,1002,Kajal,Prado EU,BE-07,Inner VI,Semi-Critical,1793,1,0.0006,0.999,0.07,72,95.25
+2026-01-11,1010,Maya,Innova,BE-09,Inner VI,Semi-Critical,1657,2,0.0012,0.998,0.36,78,92.8
+2026-01-14,1009,Kiran,Innova,BE-09,RF Cable,Critical,2227,4,0.0018,0.998,0.78,105,90.81
+2026-01-15,1008,Saurabh,Innova,BE-08,PCB,Critical,2010,2,0.001,0.999,0.1,48,92.92
+2026-01-12,1002,Kajal,Fortuner,BE-07,Battery,Semi-Critical,1832,1,0.0005,0.999,0.97,103,88.84
+2026-01-14,1004,Rishi,Prado EU,BE-07,RF Cable,Critical,2019,3,0.0015,0.998,1.03,40,82.91
+2026-01-11,1009,Kiran,Innova,BE-09,RF Cable,Critical,2098,1,0.0005,0.999,0.07,39,92.51
+2026-01-11,1009,Kiran,Prado EU,BE-08,Battery,Semi-Critical,1591,0,0,1,1.11,73,84.98
+2026-01-15,1002,Kajal,Prado EU,BE-08,Battery,Semi-Critical,1693,0,0,1,0.58,79,90.78
+2026-01-10,1002,Kajal,Fortuner,BE-08,Cosmetic,Normal,2177,1,0.0005,0.999,1.14,87,85.81
+2026-01-14,1008,Saurabh,Prado EU,BE-08,Camera,Critical,1807,2,0.0011,0.998,0.67,80,89.88
+2026-01-12,1008,Saurabh,Innova,BE-07,Battery,Semi-Critical,2298,0,0,1,0.81,9,82.65
+2026-01-16,1004,Rishi,Innova,BE-09,PCB,Critical,2116,5,0.0024,0.996,0.66,23,85.12
+2026-01-16,1010,Maya,Prado EU,BE-07,RF Cable,Critical,1586,3,0.0019,0.997,1.15,83,85.26
+2026-01-11,1007,Neha,Innova,BE-09,Cosmetic,Normal,1999,0,0,1,0.04,27,91.85
+2026-01-10,1004,Rishi,Prado EU,BE-09,Battery,Semi-Critical,1612,1,0.0006,0.999,0.18,61,93.23
+2026-01-15,1003,Ritesh,Prado NA,BE-08,Battery,Semi-Critical,2074,0,0,1,0.5,16,86.33
+2026-01-14,1006,Shubham,Fortuner,BE-07,Cosmetic,Normal,2011,1,0.0005,0.999,1.06,67,84.94
+2026-01-14,1002,Kajal,Prado EU,BE-09,PCB,Critical,2176,2,0.0009,0.999,0.16,37,91.41
+2026-01-13,1010,Maya,Prado EU,BE-07,Camera,Critical,1881,2,0.0011,0.998,0.91,85,87.9
+2026-01-11,1006,Shubham,Innova,BE-07,Inner VI,Semi-Critical,2026,0,0,1,0.4,106,94.83
+2026-01-12,1005,Puja,Prado NA,BE-09,Battery,Semi-Critical,1927,1,0.0005,0.999,0.64,40,86.89
+2026-01-12,1003,Ritesh,Prado EU,BE-09,Inner VI,Semi-Critical,1706,1,0.0006,0.999,0.47,108,94.25
+2026-01-13,1007,Neha,Prado EU,BE-07,PCB,Critical,2215,0,0,1,0.56,55,88.98
+2026-01-15,1003,Ritesh,Innova,BE-09,Battery,Semi-Critical,2217,0,0,1,0.42,35,88.72
+2026-01-10,1003,Ritesh,Fortuner,BE-09,RF Cable,Critical,1886,0,0,1,0.62,14,84.97
+2026-01-13,1005,Puja,Innova,BE-07,Battery,Semi-Critical,1799,3,0.0017,0.998,0.9,115,90.45
+2026-01-12,1003,Ritesh,Prado EU,BE-08,Inner VI,Semi-Critical,1881,3,0.0016,0.998,1.04,79,86.06
+2026-01-11,1006,Shubham,Innova,BE-08,Cosmetic,Normal,1690,0,0,1,1.08,60,84.2
+2026-01-11,1006,Shubham,Prado NA,BE-09,Battery,Semi-Critical,2124,0,0,1,0.74,53,87.02
+2026-01-16,1006,Shubham,Prado NA,BE-09,PCB,Critical,1648,1,0.0006,0.999,0.29,100,95.39
+2026-01-11,1002,Kajal,Fortuner,BE-08,Inner VI,Semi-Critical,2207,1,0.0005,0.999,1,100,88.3
+2026-01-16,1006,Shubham,Innova,BE-08,Cosmetic,Normal,2224,0,0,1,0.5,69,90.75
+2026-01-12,1010,Maya,Innova,BE-07,Camera,Critical,1743,1,0.0006,0.999,0.21,82,94.69
+2026-01-15,1004,Rishi,Innova,BE-07,Inner VI,Semi-Critical,1745,1,0.0006,0.999,0.64,62,88.72
+2026-01-16,1010,Maya,Fortuner,BE-07,Camera,Critical,1945,1,0.0005,0.999,0.15,74,94.62
+2026-01-14,1005,Puja,Innova,BE-08,Camera,Critical,1523,2,0.0013,0.998,0.91,50,84.96
+2026-01-11,1008,Saurabh,Prado EU,BE-09,PCB,Critical,1848,0,0,1,0.17,24,90.3
+2026-01-14,1005,Puja,Prado EU,BE-08,Inner VI,Semi-Critical,1612,1,0.0006,0.999,0.53,21,86.4
+2026-01-16,1010,Maya,Innova,BE-08,Cosmetic,Normal,1655,1,0.0006,0.999,1.13,33,81.4
+2026-01-11,1001,Anuj,Fortuner,BE-09,PCB,Critical,2242,2,0.0009,0.999,0.56,90,91.83
+2026-01-14,1006,Shubham,Prado NA,BE-09,RF Cable,Critical,2073,2,0.001,0.999,0.93,47,84.54
+2026-01-12,1006,Shubham,Prado NA,BE-07,Cosmetic,Normal,1804,3,0.0017,0.997,0.68,93,90.81
+2026-01-16,1003,Ritesh,Innova,BE-07,PCB,Critical,1774,4,0.0023,0.997,1.12,34,81.46
+2026-01-16,1010,Maya,Fortuner,BE-09,Battery,Semi-Critical,1954,0,0,1,0.36,39,89.65
+2026-01-14,1007,Neha,Fortuner,BE-08,Cosmetic,Normal,1741,0,0,1,1.16,42,81.9
+2026-01-14,1010,Maya,Innova,BE-08,Battery,Semi-Critical,1549,1,0.0006,0.999,0.38,108,95.15
+2026-01-10,1007,Neha,Prado EU,BE-08,Inner VI,Semi-Critical,1819,0,0,1,0.37,58,91.13
+2026-01-14,1004,Rishi,Innova,BE-09,Camera,Critical,1997,2,0.001,0.998,1.19,50,82.18
+2026-01-16,1005,Puja,Prado NA,BE-07,Camera,Critical,1782,4,0.0022,0.996,0.72,118,92.44
+2026-01-10,1009,Kiran,Prado EU,BE-07,PCB,Critical,2109,2,0.0009,0.999,0.03,39,92.87
+2026-01-12,1004,Rishi,Fortuner,BE-08,Inner VI,Semi-Critical,1644,1,0.0006,0.999,0.71,63,88.1
+2026-01-10,1010,Maya,Prado NA,BE-07,Battery,Semi-Critical,2027,1,0.0005,0.999,1.14,34,81.39
+2026-01-13,1006,Shubham,Fortuner,BE-09,Inner VI,Semi-Critical,2204,0,0,1,0.48,95,93.12
+2026-01-12,1007,Neha,Innova,BE-08,Cosmetic,Normal,1813,1,0.0006,0.999,0.45,83,92.37
+2026-01-11,1001,Anuj,Prado EU,BE-07,Cosmetic,Normal,1948,0,0,1,1.12,42,82.3
+2026-01-13,1010,Maya,Prado EU,BE-08,Battery,Semi-Critical,2151,0,0,1,1.06,16,80.73
+2026-01-13,1002,Kajal,Prado NA,BE-08,RF Cable,Critical,1772,1,0.0006,0.999,0.42,65,91.17
+2026-01-14,1002,Kajal,Prado NA,BE-07,RF Cable,Critical,1957,3,0.0015,0.998,0.83,24,83.57
+2026-01-11,1007,Neha,Prado EU,BE-08,Camera,Critical,1668,3,0.0018,0.997,0.61,88,91.09
+2026-01-11,1004,Rishi,Fortuner,BE-07,Cosmetic,Normal,2035,2,0.001,0.999,0.7,103,91.5
+2026-01-16,1003,Ritesh,Fortuner,BE-07,Inner VI,Semi-Critical,2021,0,0,1,0.83,33,84.45
+2026-01-10,1004,Rishi,Prado NA,BE-08,RF Cable,Critical,1823,2,0.0011,0.998,0.16,117,98.06
+2026-01-12,1002,Kajal,Prado NA,BE-08,Battery,Semi-Critical,1536,0,0,1,0.36,43,89.98
+2026-01-16,1008,Saurabh,Prado NA,BE-07,RF Cable,Critical,1864,2,0.0011,0.998,0.32,91,94.29
+2026-01-16,1004,Rishi,Prado NA,BE-09,Cosmetic,Normal,2079,0,0,1,0.56,81,91.15
+2026-01-15,1009,Kiran,Fortuner,BE-09,PCB,Critical,1655,1,0.0006,0.999,0.82,84,88.75
+2026-01-13,1010,Maya,Prado EU,BE-07,Battery,Semi-Critical,1719,2,0.0012,0.999,0.73,75,88.86
+2026-01-12,1001,Anuj,Prado EU,BE-09,Battery,Semi-Critical,1719,0,0,1,0.65,8,84.17
+2026-01-14,1010,Maya,Innova,BE-07,Cosmetic,Normal,1672,4,0.0024,0.997,0.42,34,88.45
+2026-01-16,1002,Kajal,Prado EU,BE-08,Cosmetic,Normal,1777,1,0.0006,0.999,0.81,40,85.19
+2026-01-16,1010,Maya,Prado EU,BE-08,Cosmetic,Normal,2065,0,0,1,0.4,47,89.92
+2026-01-10,1006,Shubham,Prado EU,BE-09,RF Cable,Critical,2255,1,0.0004,0.999,0.96,41,83.78
+2026-01-10,1002,Kajal,Prado NA,BE-08,Camera,Critical,2204,1,0.0005,0.999,0.69,52,87.4
+2026-01-11,1004,Rishi,Innova,BE-09,Cosmetic,Normal,2019,1,0.0005,0.999,0.42,112,95.1
+2026-01-11,1010,Maya,Prado NA,BE-09,PCB,Critical,1826,3,0.0016,0.998,1.13,10,79.4
+2026-01-16,1008,Saurabh,Prado NA,BE-07,PCB,Critical,2056,3,0.0015,0.998,0.59,100,92.32
+2026-01-16,1009,Kiran,Prado NA,BE-08,RF Cable,Critical,1720,3,0.0017,0.998,0.59,19,85.55
+2026-01-11,1010,Maya,Prado EU,BE-08,PCB,Critical,1747,1,0.0006,0.999,0.15,33,91.2
+2026-01-16,1003,Ritesh,Innova,BE-08,Battery,Semi-Critical,2041,0,0,1,0.89,118,90.93
+2026-01-11,1004,Rishi,Prado EU,BE-07,RF Cable,Critical,2163,3,0.0014,0.998,0.91,79,87.37
+2026-01-14,1006,Shubham,Fortuner,BE-09,Inner VI,Semi-Critical,1515,0,0,1,0.07,31,91.88
+2026-01-13,1009,Kiran,Fortuner,BE-08,Inner VI,Semi-Critical,1742,0,0,1,0.46,10,86.23
+2026-01-16,1005,Puja,Prado EU,BE-09,Cosmetic,Normal,1716,0,0,1,1.11,34,81.73
+2026-01-14,1007,Neha,Prado EU,BE-09,PCB,Critical,2202,0,0,1,0.72,50,86.97
+2026-01-10,1002,Kajal,Prado EU,BE-07,PCB,Critical,2175,2,0.0009,0.999,0.17,74,94.4
+2026-01-16,1009,Kiran,Innova,BE-08,Cosmetic,Normal,1975,1,0.0005,0.999,0.99,60,85.06
+2026-01-16,1008,Saurabh,Fortuner,BE-08,Camera,Critical,2122,3,0.0014,0.998,0.46,49,89.37
+2026-01-16,1004,Rishi,Fortuner,BE-09,Inner VI,Semi-Critical,2061,0,0,1,0.55,109,93.58
+2026-01-13,1005,Puja,Prado NA,BE-09,Battery,Semi-Critical,2262,1,0.0004,0.999,0.37,40,89.6
+2026-01-11,1003,Ritesh,Prado EU,BE-08,Inner VI,Semi-Critical,2281,0,0,1,0.28,21,88.95
+2026-01-13,1006,Shubham,Prado NA,BE-07,RF Cable,Critical,1836,2,0.0011,0.998,0.24,98,95.68
+2026-01-14,1009,Kiran,Fortuner,BE-08,Cosmetic,Normal,1877,1,0.0005,0.999,0.88,41,84.57
+2026-01-11,1004,Rishi,Innova,BE-09,PCB,Critical,1528,3,0.002,0.998,0.59,26,86.12
+2026-01-10,1002,Kajal,Fortuner,BE-08,Inner VI,Semi-Critical,2007,1,0.0005,0.999,0.24,103,96.14
+2026-01-11,1002,Kajal,Prado EU,BE-07,RF Cable,Critical,2196,2,0.0009,0.999,0.92,80,87.39
+2026-01-10,1003,Ritesh,Prado EU,BE-09,Battery,Semi-Critical,1679,1,0.0006,0.999,0.89,110,90.22
+2026-01-15,1002,Kajal,Innova,BE-09,Battery,Semi-Critical,1680,3,0.0018,0.997,1,81,86.6
+2026-01-16,1003,Ritesh,Fortuner,BE-07,PCB,Critical,1756,0,0,1,1.07,107,88.22
+2026-01-15,1004,Rishi,Innova,BE-09,Battery,Semi-Critical,2299,1,0.0004,0.999,0.61,22,85.7
+2026-01-16,1006,Shubham,Prado NA,BE-09,Camera,Critical,1892,1,0.0005,0.999,1.04,76,85.89
+2026-01-11,1001,Anuj,Prado EU,BE-08,Camera,Critical,1654,0,0,1,0.01,19,91.48
+2026-01-16,1003,Ritesh,Prado EU,BE-07,Camera,Critical,2265,0,0,1,1.03,112,89.03
+2026-01-15,1009,Kiran,Fortuner,BE-07,PCB,Critical,1775,2,0.0011,0.998,0.89,52,85.34
+2026-01-11,1001,Anuj,Prado EU,BE-07,PCB,Critical,1855,2,0.0011,0.998,0.27,110,96.38
+2026-01-12,1004,Rishi,Prado NA,BE-09,PCB,Critical,2231,2,0.0009,0.999,0.14,23,90.44
+2026-01-16,1004,Rishi,Prado EU,BE-07,Cosmetic,Normal,1878,0,0,1,0.52,56,89.47
+2026-01-16,1008,Saurabh,Innova,BE-07,PCB,Critical,1712,2,0.0012,0.998,0.7,116,92.57
+2026-01-15,1005,Puja,Prado EU,BE-09,Camera,Critical,1954,2,0.001,0.998,0.55,22,86.25
+2026-01-10,1010,Maya,Prado EU,BE-09,Inner VI,Semi-Critical,1545,0,0,1,0.01,36,92.9
+2026-01-16,1009,Kiran,Fortuner,BE-09,RF Cable,Critical,1583,0,0,1,1.11,12,79.9
+2026-01-10,1010,Maya,Prado NA,BE-07,Battery,Semi-Critical,1962,1,0.0005,0.999,0.95,66,85.96
+2026-01-14,1009,Kiran,Prado EU,BE-08,Camera,Critical,2043,2,0.001,0.999,0.03,102,98.13
+2026-01-13,1004,Rishi,Prado NA,BE-09,RF Cable,Critical,2069,5,0.0024,0.996,0.59,48,87.9
+2026-01-10,1009,Kiran,Prado NA,BE-07,PCB,Critical,1788,4,0.0022,0.997,0.08,13,90.11
+2026-01-11,1003,Ritesh,Innova,BE-09,Battery,Semi-Critical,2015,2,0.001,0.999,0.63,48,87.62
+2026-01-13,1003,Ritesh,Prado NA,BE-08,RF Cable,Critical,2087,2,0.001,0.999,1.03,79,86.21
+2026-01-11,1010,Maya,Prado EU,BE-07,Camera,Critical,1607,0,0,1,0.68,91,90.78
+2026-01-15,1006,Shubham,Fortuner,BE-09,Inner VI,Semi-Critical,1524,0,0,1,0.88,53,85.62
+2026-01-16,1008,Saurabh,Prado EU,BE-08,Camera,Critical,1534,4,0.0026,0.996,0.62,113,93
+2026-01-16,1010,Maya,Prado NA,BE-09,Cosmetic,Normal,1787,0,0,1,0.9,24,83
+2026-01-12,1008,Saurabh,Fortuner,BE-08,Inner VI,Semi-Critical,1969,1,0.0005,0.999,0.83,38,84.83
+2026-01-13,1005,Puja,Innova,BE-07,Camera,Critical,1807,2,0.0011,0.999,0.16,37,91.4
+2026-01-11,1008,Saurabh,Innova,BE-09,Battery,Semi-Critical,1850,1,0.0005,0.999,0.3,118,96.79
+2026-01-13,1009,Kiran,Prado NA,BE-07,Battery,Semi-Critical,1678,0,0,1,0.54,73,90.68
+2026-01-14,1009,Kiran,Fortuner,BE-09,Battery,Semi-Critical,1752,0,0,1,0.69,89,90.52
+2026-01-11,1006,Shubham,Prado NA,BE-08,RF Cable,Critical,1506,0,0,1,0.82,19,83.38
+2026-01-16,1007,Neha,Innova,BE-07,Cosmetic,Normal,1819,0,0,1,0.38,88,93.53
+2026-01-16,1001,Anuj,Innova,BE-07,Camera,Critical,1694,0,0,1,1.09,73,85.18
+2026-01-14,1001,Anuj,Prado EU,BE-08,Cosmetic,Normal,2073,2,0.001,0.999,0.09,111,98.27
+2026-01-15,1006,Shubham,Innova,BE-08,Camera,Critical,1515,3,0.002,0.997,0.68,79,89.62
+2026-01-12,1001,Anuj,Prado EU,BE-09,Cosmetic,Normal,2026,0,0,1,0.35,16,87.83
+2026-01-12,1002,Kajal,Prado NA,BE-08,Camera,Critical,2043,3,0.0015,0.998,0.48,116,94.76
+2026-01-15,1005,Puja,Prado NA,BE-09,Camera,Critical,2201,4,0.0018,0.998,0.68,30,85.56
+2026-01-16,1002,Kajal,Prado NA,BE-08,RF Cable,Critical,2084,1,0.0005,0.999,0.48,106,93.99
+2026-01-15,1002,Kajal,Prado EU,BE-07,Inner VI,Semi-Critical,2126,0,0,1,1.1,92,86.67
+2026-01-14,1008,Saurabh,Fortuner,BE-09,Cosmetic,Normal,1989,1,0.0005,0.999,0.24,103,96.14
+2026-01-16,1001,Anuj,Innova,BE-08,Inner VI,Semi-Critical,1616,1,0.0006,0.999,0.29,110,96.22
+2026-01-11,1005,Puja,Prado NA,BE-08,RF Cable,Critical,1696,2,0.0012,0.998,0.49,64,90.34
+2026-01-13,1008,Saurabh,Innova,BE-08,Camera,Critical,2090,3,0.0014,0.998,0.13,51,92.84
+2026-01-15,1007,Neha,Prado EU,BE-09,Cosmetic,Normal,2132,0,0,1,0.9,14,82.17
+2026-01-13,1004,Rishi,Prado EU,BE-09,Cosmetic,Normal,2086,1,0.0005,0.999,0.39,103,94.64
+2026-01-12,1005,Puja,Prado EU,BE-09,RF Cable,Critical,2192,2,0.0009,0.999,0.28,101,95.55
+2026-01-14,1010,Maya,Prado NA,BE-07,Inner VI,Semi-Critical,1566,0,0,1,0.54,62,89.77
+2026-01-15,1003,Ritesh,Prado NA,BE-07,Inner VI,Semi-Critical,1844,0,0,1,0.16,36,91.4
+2026-01-11,1007,Neha,Prado EU,BE-08,Cosmetic,Normal,1782,0,0,1,0.62,51,88.05
+2026-01-15,1010,Maya,Prado NA,BE-07,Cosmetic,Normal,1869,1,0.0005,0.999,0.41,17,87.28
+2026-01-10,1006,Shubham,Prado EU,BE-09,Cosmetic,Normal,1933,0,0,1,0.05,52,93.83
+2026-01-14,1003,Ritesh,Prado EU,BE-07,Camera,Critical,2066,1,0.0005,0.999,1.07,119,89.18
+2026-01-10,1001,Anuj,Prado EU,BE-07,RF Cable,Critical,2286,3,0.0013,0.998,0.23,10,88.42
+2026-01-10,1004,Rishi,Prado NA,BE-07,Cosmetic,Normal,1664,0,0,1,0.82,12,82.8
+2026-01-16,1005,Puja,Fortuner,BE-09,Battery,Semi-Critical,2256,0,0,1,1.08,6,79.7
+2026-01-11,1004,Rishi,Prado EU,BE-09,PCB,Critical,2042,2,0.001,0.998,0.59,114,93.52
+2026-01-12,1010,Maya,Prado NA,BE-09,PCB,Critical,1940,1,0.0005,0.999,0.12,60,93.76
+2026-01-10,1008,Saurabh,Innova,BE-07,Battery,Semi-Critical,1996,0,0,1,0.43,97,93.78
+2026-01-10,1006,Shubham,Prado EU,BE-08,PCB,Critical,1848,0,0,1,0.74,65,88.02
+2026-01-10,1007,Neha,Innova,BE-09,Battery,Semi-Critical,1515,2,0.0013,0.998,0.04,43,93.08
+2026-01-15,1009,Kiran,Prado EU,BE-08,RF Cable,Critical,1564,1,0.0006,0.999,0.83,26,83.82
+2026-01-10,1004,Rishi,Prado NA,BE-08,Battery,Semi-Critical,2228,2,0.0009,0.999,0.93,80,87.3
+2026-01-12,1002,Kajal,Prado EU,BE-08,Camera,Critical,1955,1,0.0005,0.999,1.15,67,84.04
+2026-01-16,1001,Anuj,Fortuner,BE-08,PCB,Critical,2086,2,0.001,0.999,0.77,96,90.22
+2026-01-11,1006,Shubham,Prado EU,BE-09,PCB,Critical,1657,0,0,1,0.51,100,93.23
+2026-01-15,1008,Saurabh,Innova,BE-09,Camera,Critical,2026,2,0.001,0.999,1.13,52,82.96
+2026-01-15,1006,Shubham,Prado EU,BE-09,Battery,Semi-Critical,1583,0,0,1,0.8,12,83
+2026-01-14,1006,Shubham,Innova,BE-09,Cosmetic,Normal,2041,1,0.0005,0.999,0.48,78,91.66
+2026-01-12,1002,Kajal,Fortuner,BE-09,PCB,Critical,2275,2,0.0009,0.999,0.95,98,88.6
+2026-01-11,1002,Kajal,Innova,BE-09,Cosmetic,Normal,2232,4,0.0018,0.998,0.23,107,96.48
+2026-01-10,1009,Kiran,Fortuner,BE-07,Inner VI,Semi-Critical,1710,2,0.0012,0.998,0.14,105,97.25
+2026-01-12,1002,Kajal,Prado EU,BE-08,RF Cable,Critical,1596,1,0.0006,0.999,0.6,6,84.45
+2026-01-11,1009,Kiran,Fortuner,BE-07,Camera,Critical,1721,1,0.0006,0.999,0.09,19,90.64
+2026-01-15,1009,Kiran,Prado NA,BE-07,PCB,Critical,1992,5,0.0025,0.996,1.04,39,82.64
+2026-01-13,1007,Neha,Fortuner,BE-07,Camera,Critical,1620,2,0.0012,0.998,0.91,32,83.47
+2026-01-14,1010,Maya,Fortuner,BE-09,RF Cable,Critical,1926,0,0,1,0.15,68,94.17
+2026-01-12,1008,Saurabh,Prado EU,BE-08,PCB,Critical,1952,1,0.0005,0.999,0.63,69,89.41
+2026-01-13,1004,Rishi,Prado EU,BE-09,Battery,Semi-Critical,2254,2,0.0009,0.999,0.68,80,89.8
+2026-01-14,1002,Kajal,Fortuner,BE-07,PCB,Critical,1798,6,0.0033,0.996,0.68,14,84.11
+2026-01-13,1007,Neha,Fortuner,BE-09,Camera,Critical,2137,2,0.0009,0.999,0.67,51,87.47
+2026-01-10,1008,Saurabh,Prado EU,BE-07,Camera,Critical,2201,2,0.0009,0.999,0.28,20,88.79
+2026-01-13,1005,Puja,Prado EU,BE-07,Camera,Critical,2031,2,0.001,0.998,0.36,24,88.32
+2026-01-12,1002,Kajal,Innova,BE-09,Cosmetic,Normal,1630,4,0.0025,0.997,0.71,5,83.12
+2026-01-10,1009,Kiran,Prado NA,BE-09,Cosmetic,Normal,2198,0,0,1,0.81,8,82.57
+2026-01-11,1006,Shubham,Innova,BE-08,Camera,Critical,1730,2,0.0012,0.998,0.25,59,92.32
+2026-01-15,1009,Kiran,Fortuner,BE-09,Inner VI,Semi-Critical,1696,0,0,1,0.84,102,90.1
+2026-01-16,1004,Rishi,Prado EU,BE-09,Camera,Critical,1908,5,0.0026,0.997,0.79,58,86.73
+2026-01-16,1006,Shubham,Innova,BE-08,Inner VI,Semi-Critical,1934,1,0.0005,0.999,0.36,67,91.94
+2026-01-12,1007,Neha,Prado NA,BE-09,Inner VI,Semi-Critical,1835,2,0.0011,0.999,1.01,87,87.07
+2026-01-10,1002,Kajal,Prado NA,BE-08,Battery,Semi-Critical,2298,1,0.0004,0.999,0.4,73,92.05
+2026-01-15,1004,Rishi,Prado EU,BE-08,Inner VI,Semi-Critical,2184,2,0.0009,0.999,0.09,9,89.78
+2026-01-14,1010,Maya,Innova,BE-09,Inner VI,Semi-Critical,1768,2,0.0011,0.998,0.58,77,90.52
+2026-01-14,1004,Rishi,Prado NA,BE-09,Camera,Critical,2065,3,0.0015,0.998,0.46,91,92.86
+2026-01-12,1003,Ritesh,Prado NA,BE-09,Battery,Semi-Critical,1897,2,0.0011,0.998,0.16,61,93.4
+2026-01-13,1009,Kiran,Prado EU,BE-09,RF Cable,Critical,2280,2,0.0009,0.999,1.1,96,86.93
+2026-01-10,1003,Ritesh,Innova,BE-08,Inner VI,Semi-Critical,2025,4,0.002,0.997,0.51,86,91.91
+2026-01-13,1007,Neha,Prado EU,BE-07,Battery,Semi-Critical,1532,0,0,1,0.56,104,93.07
+2026-01-10,1008,Saurabh,Fortuner,BE-08,RF Cable,Critical,2156,3,0.0014,0.998,0.12,90,96.19
+2026-01-12,1001,Anuj,Fortuner,BE-08,Inner VI,Semi-Critical,1745,3,0.0017,0.997,0.68,60,88.06
+2026-01-12,1004,Rishi,Fortuner,BE-07,Cosmetic,Normal,1572,1,0.0006,0.999,0.34,110,95.72
+2026-01-14,1004,Rishi,Prado NA,BE-07,Battery,Semi-Critical,1798,1,0.0006,0.999,0.97,107,89.17
+2026-01-11,1010,Maya,Prado EU,BE-07,Camera,Critical,2269,1,0.0004,0.999,0.29,25,89.15
+2026-01-16,1008,Saurabh,Prado EU,BE-09,Camera,Critical,1659,0,0,1,0.07,56,93.97
+2026-01-12,1003,Ritesh,Prado NA,BE-08,PCB,Critical,2234,2,0.0009,0.999,0.8,100,90.26
+2026-01-16,1004,Rishi,Prado EU,BE-07,Cosmetic,Normal,2200,1,0.0005,0.999,0.26,38,90.53
+2026-01-14,1005,Puja,Innova,BE-09,Battery,Semi-Critical,2265,2,0.0009,0.999,0.2,114,97.43
+2026-01-12,1007,Neha,Prado EU,BE-08,Inner VI,Semi-Critical,2145,2,0.0009,0.999,0.82,48,85.73
+2026-01-11,1006,Shubham,Fortuner,BE-09,Battery,Semi-Critical,1748,1,0.0006,0.999,0.17,76,94.59
+2026-01-12,1003,Ritesh,Innova,BE-08,PCB,Critical,2027,3,0.0015,0.998,0.22,108,96.68
+2026-01-10,1006,Shubham,Fortuner,BE-09,Cosmetic,Normal,1701,1,0.0006,0.999,0.93,33,83.4
+2026-01-12,1010,Maya,Prado NA,BE-09,Battery,Semi-Critical,1524,1,0.0007,0.999,0.04,35,92.47
+2026-01-10,1010,Maya,Innova,BE-08,Camera,Critical,2156,2,0.0009,0.999,0.75,102,90.93
+2026-01-15,1003,Ritesh,Fortuner,BE-08,Camera,Critical,2026,5,0.0025,0.997,1.07,46,82.94
+2026-01-14,1007,Neha,Fortuner,BE-07,Cosmetic,Normal,1834,0,0,1,0.21,73,93.98
+2026-01-14,1005,Puja,Prado NA,BE-07,Battery,Semi-Critical,2153,1,0.0005,0.999,0.18,55,92.75
+2026-01-16,1005,Puja,Prado NA,BE-09,Battery,Semi-Critical,1843,1,0.0005,0.999,0.19,47,91.97
+2026-01-15,1003,Ritesh,Innova,BE-09,Inner VI,Semi-Critical,1521,1,0.0007,0.999,0.21,73,93.93
+2026-01-10,1005,Puja,Innova,BE-09,Camera,Critical,1745,1,0.0006,0.999,0.65,19,85.04
+2026-01-12,1003,Ritesh,Prado EU,BE-07,Camera,Critical,2135,2,0.0009,0.999,0.59,81,90.77
+2026-01-15,1007,Neha,Innova,BE-09,Battery,Semi-Critical,1596,0,0,1,0.06,60,94.4
+2026-01-11,1008,Saurabh,Innova,BE-09,Inner VI,Semi-Critical,1601,0,0,1,0.9,49,85.08
+2026-01-13,1004,Rishi,Prado NA,BE-08,PCB,Critical,2200,0,0,1,0.95,83,87.42
+2026-01-15,1010,Maya,Prado EU,BE-08,Cosmetic,Normal,1723,1,0.0006,0.999,1.12,48,82.75
+2026-01-16,1002,Kajal,Fortuner,BE-09,Battery,Semi-Critical,2081,1,0.0005,0.999,0.09,113,98.48
+2026-01-16,1003,Ritesh,Innova,BE-07,Cosmetic,Normal,2285,2,0.0009,0.999,1.07,72,85.23
+2026-01-16,1005,Puja,Fortuner,BE-07,PCB,Critical,1658,0,0,1,0.27,115,96.88
+2026-01-15,1003,Ritesh,Prado NA,BE-07,RF Cable,Critical,2074,2,0.001,0.999,0.78,22,83.96
+2026-01-12,1005,Puja,Innova,BE-09,Camera,Critical,2126,1,0.0005,0.999,0.88,25,83.25
+2026-01-16,1009,Kiran,Prado EU,BE-08,PCB,Critical,1596,2,0.0013,0.998,1.09,21,80.75
+2026-01-11,1004,Rishi,Fortuner,BE-08,Camera,Critical,1865,2,0.0011,0.999,0.41,35,88.74
+2026-01-13,1003,Ritesh,Innova,BE-09,PCB,Critical,1606,3,0.0019,0.997,0.51,69,90.5
+2026-01-10,1004,Rishi,Fortuner,BE-08,Camera,Critical,1520,2,0.0013,0.998,1.04,9,80.24
+2026-01-15,1009,Kiran,Prado EU,BE-09,Camera,Critical,1819,2,0.0011,0.999,0.48,77,91.53
+2026-01-13,1003,Ritesh,Innova,BE-09,RF Cable,Critical,2049,5,0.0024,0.996,0.48,92,92.67
+2026-01-15,1004,Rishi,Fortuner,BE-08,PCB,Critical,1588,3,0.0019,0.998,0.44,9,86.2
+2026-01-13,1008,Saurabh,Innova,BE-07,Inner VI,Semi-Critical,1985,0,0,1,0.02,106,98.63
+2026-01-15,1003,Ritesh,Prado EU,BE-07,Inner VI,Semi-Critical,1533,0,0,1,0.1,104,97.67
+2026-01-13,1001,Anuj,Prado EU,BE-08,RF Cable,Critical,1634,5,0.0031,0.996,0.99,22,81.7
+2026-01-13,1007,Neha,Prado NA,BE-07,Cosmetic,Normal,1690,2,0.0012,0.998,1.11,18,80.31
+2026-01-13,1006,Shubham,Innova,BE-08,Cosmetic,Normal,2076,1,0.0005,0.999,1.11,87,86.11
+2026-01-16,1008,Saurabh,Fortuner,BE-09,Cosmetic,Normal,1908,0,0,1,1.08,61,84.28
+2026-01-12,1010,Maya,Fortuner,BE-08,Cosmetic,Normal,1745,0,0,1,0.46,38,88.57
+2026-01-11,1004,Rishi,Fortuner,BE-08,Battery,Semi-Critical,2088,1,0.0005,0.999,0.95,24,82.46
+2026-01-14,1010,Maya,Prado NA,BE-07,Cosmetic,Normal,1611,4,0.0025,0.996,0.5,112,94.13
+2026-01-12,1003,Ritesh,Innova,BE-08,Cosmetic,Normal,1562,0,0,1,0.97,22,82.13
+2026-01-16,1004,Rishi,Prado NA,BE-09,Camera,Critical,2150,0,0,1,0.24,38,90.77
+2026-01-14,1010,Maya,Fortuner,BE-08,Inner VI,Semi-Critical,1628,1,0.0006,0.999,0.31,103,95.44
+2026-01-16,1001,Anuj,Prado NA,BE-08,Battery,Semi-Critical,1586,2,0.0013,0.998,1.09,5,79.42
+2026-01-13,1006,Shubham,Innova,BE-09,Camera,Critical,1627,4,0.0025,0.997,0.7,115,92.4
+2026-01-14,1004,Rishi,Prado EU,BE-09,Inner VI,Semi-Critical,2293,0,0,1,1.17,94,86.13
+2026-01-16,1006,Shubham,Prado EU,BE-08,RF Cable,Critical,1914,4,0.0021,0.997,1.14,35,81.35
+2026-01-15,1010,Maya,Fortuner,BE-07,RF Cable,Critical,2105,1,0.0005,0.999,1.03,19,81.25
+2026-01-13,1003,Ritesh,Innova,BE-07,Camera,Critical,2104,2,0.001,0.999,1.17,95,86.14
+2026-01-15,1008,Saurabh,Prado NA,BE-09,Camera,Critical,1667,1,0.0006,0.999,0.51,88,92.19
+2026-01-10,1001,Anuj,Prado EU,BE-07,Inner VI,Semi-Critical,2181,1,0.0005,0.999,1.14,117,88.31
+2026-01-16,1010,Maya,Innova,BE-09,RF Cable,Critical,1737,2,0.0012,0.998,0.65,44,87.08
+2026-01-13,1007,Neha,Prado EU,BE-09,Camera,Critical,1854,0,0,1,0.13,107,97.62
+2026-01-16,1002,Kajal,Prado NA,BE-08,Battery,Semi-Critical,2162,1,0.0005,0.999,0.03,73,95.75
+2026-01-16,1004,Rishi,Fortuner,BE-08,Cosmetic,Normal,1883,0,0,1,0.57,10,85.13
+2026-01-10,1004,Rishi,Innova,BE-08,Cosmetic,Normal,1981,3,0.0015,0.998,0.05,105,98.13
+2026-01-15,1010,Maya,Fortuner,BE-09,Cosmetic,Normal,1997,1,0.0005,0.999,0.77,61,87.34
+2026-01-11,1003,Ritesh,Prado NA,BE-08,Camera,Critical,2252,1,0.0004,0.999,0.23,96,95.66
+2026-01-16,1007,Neha,Prado NA,BE-07,RF Cable,Critical,2152,2,0.0009,0.999,0.91,23,82.74
+2026-01-15,1006,Shubham,Prado EU,BE-09,Cosmetic,Normal,2033,3,0.0015,0.998,0.51,96,92.79
+2026-01-11,1009,Kiran,Prado NA,BE-09,Cosmetic,Normal,1947,1,0.0005,0.999,0.38,19,87.74
+2026-01-16,1003,Ritesh,Prado EU,BE-09,Inner VI,Semi-Critical,2220,0,0,1,0.67,5,83.72
+2026-01-10,1007,Neha,Fortuner,BE-08,RF Cable,Critical,1551,2,0.0013,0.998,0.26,13,88.39
+2026-01-13,1006,Shubham,Prado NA,BE-08,Camera,Critical,1661,1,0.0006,0.999,0.91,20,82.52
+2026-01-11,1010,Maya,Innova,BE-08,Camera,Critical,2212,1,0.0005,0.999,0.86,16,82.7
+2026-01-10,1005,Puja,Prado NA,BE-08,Camera,Critical,2041,0,0,1,1.12,117,88.55
+2026-01-14,1001,Anuj,Innova,BE-09,PCB,Critical,2200,0,0,1,0.84,108,90.6
+2026-01-16,1006,Shubham,Fortuner,BE-09,Inner VI,Semi-Critical,1611,0,0,1,0.61,12,84.9
+2026-01-15,1002,Kajal,Innova,BE-09,Cosmetic,Normal,1575,1,0.0006,0.999,0.15,13,89.53
+2026-01-13,1008,Saurabh,Prado EU,BE-08,Camera,Critical,1684,1,0.0006,0.999,0.22,14,88.92
+2026-01-10,1002,Kajal,Prado EU,BE-07,PCB,Critical,1587,4,0.0025,0.996,0.21,81,94.44
+2026-01-12,1004,Rishi,Fortuner,BE-09,Cosmetic,Normal,1864,2,0.0011,0.999,0.28,118,96.95
+2026-01-11,1007,Neha,Prado NA,BE-08,Camera,Critical,1705,1,0.0006,0.999,0.87,84,88.25
+2026-01-12,1009,Kiran,Prado EU,BE-07,PCB,Critical,1811,3,0.0017,0.998,0.21,97,95.85
+2026-01-16,1005,Puja,Prado NA,BE-07,Inner VI,Semi-Critical,2015,0,0,1,0.52,13,85.88
+2026-01-12,1002,Kajal,Prado NA,BE-09,PCB,Critical,2053,2,0.001,0.999,0.06,71,95.24
+2026-01-10,1002,Kajal,Prado NA,BE-07,Cosmetic,Normal,1955,0,0,1,0.61,21,85.65
+2026-01-10,1010,Maya,Prado NA,BE-08,Inner VI,Semi-Critical,1811,2,0.0011,0.999,0.46,44,88.98
+2026-01-11,1008,Saurabh,Prado NA,BE-09,RF Cable,Critical,1768,1,0.0006,0.999,0.6,34,86.79
+2026-01-11,1005,Puja,Fortuner,BE-09,Battery,Semi-Critical,1836,0,0,1,0.04,11,90.52
+2026-01-15,1002,Kajal,Prado EU,BE-07,RF Cable,Critical,1928,1,0.0005,0.999,0.75,116,92.13
+2026-01-11,1007,Neha,Innova,BE-07,Inner VI,Semi-Critical,1941,0,0,1,0.74,12,83.6
+2026-01-12,1001,Anuj,Fortuner,BE-07,Camera,Critical,1697,2,0.0012,0.999,0.88,106,89.94
+2026-01-10,1004,Rishi,Fortuner,BE-07,Battery,Semi-Critical,1995,2,0.001,0.999,0.49,68,90.69
+2026-01-13,1003,Ritesh,Fortuner,BE-09,PCB,Critical,1900,1,0.0005,0.999,1.19,19,79.64
+2026-01-15,1001,Anuj,Prado NA,BE-08,Camera,Critical,2004,5,0.0025,0.996,0.84,57,86.14
+2026-01-11,1009,Kiran,Prado NA,BE-08,Inner VI,Semi-Critical,1750,4,0.0023,0.996,0.83,95,89.43
+2026-01-15,1002,Kajal,Prado EU,BE-07,Camera,Critical,2026,2,0.001,0.998,0.33,89,94.03
+2026-01-16,1008,Saurabh,Prado NA,BE-08,Camera,Critical,1913,3,0.0016,0.998,0.01,12,90.78
+2026-01-13,1010,Maya,Prado NA,BE-09,Camera,Critical,1543,3,0.0019,0.997,1,15,81.1
+2026-01-11,1003,Ritesh,Fortuner,BE-08,Inner VI,Semi-Critical,1738,2,0.0012,0.998,1.01,93,87.56
+2026-01-12,1009,Kiran,Prado EU,BE-09,Camera,Critical,2291,1,0.0004,0.999,0.69,70,88.9
+2026-01-15,1003,Ritesh,Innova,BE-08,Camera,Critical,1825,0,0,1,1.19,67,83.68
+2026-01-14,1003,Ritesh,Innova,BE-09,PCB,Critical,1570,4,0.0025,0.997,0.94,108,89.4
+2026-01-14,1002,Kajal,Fortuner,BE-07,PCB,Critical,1823,5,0.0027,0.996,1.03,95,87.41
+2026-01-13,1007,Neha,Innova,BE-09,Cosmetic,Normal,1716,1,0.0006,0.999,0.31,68,92.52
+2026-01-15,1010,Maya,Prado NA,BE-07,Cosmetic,Normal,1675,3,0.0018,0.998,0.66,80,89.93
+2026-01-11,1004,Rishi,Fortuner,BE-08,PCB,Critical,2103,4,0.0019,0.997,0.32,10,87.48
+2026-01-11,1003,Ritesh,Fortuner,BE-07,PCB,Critical,2196,2,0.0009,0.999,1.03,71,85.54
+2026-01-13,1001,Anuj,Fortuner,BE-08,Battery,Semi-Critical,1581,2,0.0013,0.998,0.72,87,89.95
+2026-01-13,1004,Rishi,Prado EU,BE-09,PCB,Critical,1961,2,0.001,0.999,0.27,60,92.22
+2026-01-13,1010,Maya,Fortuner,BE-07,RF Cable,Critical,2002,4,0.002,0.997,1.16,52,82.57
+2026-01-12,1002,Kajal,Innova,BE-09,Battery,Semi-Critical,1577,0,0,1,1.13,45,82.45
+2026-01-12,1006,Shubham,Innova,BE-07,Battery,Semi-Critical,1817,1,0.0006,0.999,0.13,10,89.49
+2026-01-16,1010,Maya,Prado NA,BE-09,RF Cable,Critical,1793,1,0.0006,0.999,0.24,37,90.64
+2026-01-11,1005,Puja,Prado NA,BE-07,RF Cable,Critical,1881,1,0.0005,0.999,1.07,63,84.51
+2026-01-13,1001,Anuj,Prado EU,BE-08,Battery,Semi-Critical,2188,1,0.0005,0.999,0.17,110,97.43
+2026-01-12,1007,Neha,Prado EU,BE-07,Cosmetic,Normal,2229,1,0.0004,0.999,0.5,13,86.05
+2026-01-16,1008,Saurabh,Prado EU,BE-09,Battery,Semi-Critical,2223,2,0.0009,0.999,0.81,113,91.25
+2026-01-10,1004,Rishi,Prado NA,BE-07,Camera,Critical,1559,4,0.0026,0.996,0.29,78,93.4
+2026-01-10,1008,Saurabh,Prado EU,BE-07,Battery,Semi-Critical,1528,1,0.0007,0.999,1.02,11,80.67
+2026-01-14,1004,Rishi,Prado EU,BE-09,Cosmetic,Normal,1733,2,0.0012,0.998,1.08,12,80.11
+2026-01-11,1007,Neha,Prado EU,BE-09,PCB,Critical,2270,3,0.0013,0.998,0.07,119,99.11
+2026-01-16,1001,Anuj,Fortuner,BE-08,Camera,Critical,2158,2,0.0009,0.999,0,116,99.59
+2026-01-16,1009,Kiran,Prado NA,BE-09,PCB,Critical,1655,3,0.0018,0.997,0.97,9,80.91
+2026-01-15,1004,Rishi,Fortuner,BE-09,RF Cable,Critical,2208,4,0.0018,0.997,1.18,51,82.3
+2026-01-11,1004,Rishi,Innova,BE-08,Cosmetic,Normal,2120,0,0,1,0.38,56,90.87
+2026-01-15,1010,Maya,Prado EU,BE-08,PCB,Critical,2299,2,0.0009,0.999,0.5,41,88.35
+2026-01-16,1009,Kiran,Innova,BE-08,PCB,Critical,2072,2,0.001,0.999,0.51,79,91.41
+2026-01-16,1008,Saurabh,Prado EU,BE-08,Camera,Critical,1926,1,0.0005,0.999,0.78,100,90.49
+2026-01-12,1004,Rishi,Prado EU,BE-07,Battery,Semi-Critical,2203,1,0.0005,0.999,0.69,102,91.56
+2026-01-14,1002,Kajal,Prado NA,BE-09,Camera,Critical,1594,1,0.0006,0.999,0.59,19,85.64
+2026-01-14,1005,Puja,Prado NA,BE-07,PCB,Critical,1725,3,0.0017,0.998,0.91,11,81.68
+2026-01-13,1004,Rishi,Innova,BE-07,Camera,Critical,2245,1,0.0004,0.999,0.41,76,92.2
+2026-01-10,1002,Kajal,Prado NA,BE-09,RF Cable,Critical,1982,1,0.0005,0.999,0.92,107,89.68
+2026-01-16,1009,Kiran,Fortuner,BE-09,Inner VI,Semi-Critical,1910,2,0.001,0.999,0.75,70,88.25
+2026-01-11,1002,Kajal,Innova,BE-08,Battery,Semi-Critical,1873,3,0.0016,0.997,0.57,13,85.25
+2026-01-12,1005,Puja,Prado EU,BE-07,RF Cable,Critical,2177,0,0,1,0.01,20,91.57
+2026-01-15,1006,Shubham,Fortuner,BE-07,Camera,Critical,1783,0,0,1,1.14,36,81.6
+2026-01-12,1004,Rishi,Prado EU,BE-09,Inner VI,Semi-Critical,2155,1,0.0005,0.999,0.59,114,93.56
+2026-01-10,1004,Rishi,Prado EU,BE-09,Cosmetic,Normal,2042,0,0,1,1.19,53,82.52
+2026-01-16,1009,Kiran,Innova,BE-09,RF Cable,Critical,2099,1,0.0005,0.999,0.33,36,89.66
+2026-01-10,1005,Puja,Prado NA,BE-09,Camera,Critical,1923,2,0.001,0.999,0.7,78,89.42
+2026-01-14,1009,Kiran,Prado NA,BE-07,PCB,Critical,1667,3,0.0018,0.998,0.37,108,95.16
+2026-01-10,1010,Maya,Prado EU,BE-08,Camera,Critical,1959,0,0,1,0.68,81,89.95
+2026-01-13,1005,Puja,Prado EU,BE-09,Battery,Semi-Critical,1500,1,0.0007,0.999,0.5,119,94.86
+2026-01-14,1007,Neha,Prado NA,BE-08,Inner VI,Semi-Critical,1861,2,0.0011,0.999,0.82,30,84.22
+2026-01-16,1009,Kiran,Prado NA,BE-07,Battery,Semi-Critical,1853,1,0.0005,0.999,0.33,22,88.49
+2026-01-11,1002,Kajal,Innova,BE-07,Inner VI,Semi-Critical,1715,2,0.0012,0.998,0.04,44,93.17
+2026-01-13,1006,Shubham,Prado NA,BE-08,Inner VI,Semi-Critical,2258,0,0,1,0.63,42,87.2
+2026-01-14,1005,Puja,Prado EU,BE-08,Inner VI,Semi-Critical,1552,1,0.0006,0.999,0.3,118,96.78
+2026-01-10,1005,Puja,Innova,BE-08,Inner VI,Semi-Critical,2119,2,0.0009,0.999,0.08,42,92.62
+2026-01-14,1003,Ritesh,Prado EU,BE-08,RF Cable,Critical,1588,3,0.0019,0.997,0.43,34,88.37
+2026-01-16,1007,Neha,Innova,BE-07,Camera,Critical,1871,7,0.0037,0.995,0.78,46,85.74
+2026-01-16,1004,Rishi,Innova,BE-08,PCB,Critical,1589,0,0,1,0.87,72,87.3
+2026-01-11,1005,Puja,Prado NA,BE-09,Inner VI,Semi-Critical,1965,0,0,1,0.92,72,86.8
+2026-01-14,1010,Maya,Fortuner,BE-09,Camera,Critical,2225,1,0.0004,0.999,0.12,119,98.68
+2026-01-12,1002,Kajal,Prado NA,BE-08,PCB,Critical,1634,0,0,1,0.14,81,95.35
+2026-01-13,1003,Ritesh,Fortuner,BE-08,Battery,Semi-Critical,2000,1,0.0005,0.999,0.6,14,85.12
+2026-01-11,1010,Maya,Prado NA,BE-07,RF Cable,Critical,1694,4,0.0024,0.997,0.6,103,92.39
+2026-01-11,1010,Maya,Prado EU,BE-08,PCB,Critical,2264,2,0.0009,0.999,0.02,92,97.39
+2026-01-11,1006,Shubham,Innova,BE-08,Inner VI,Semi-Critical,1632,0,0,1,0.7,65,88.42
+2026-01-10,1001,Anuj,Prado EU,BE-07,Cosmetic,Normal,1660,1,0.0006,0.999,0.23,61,92.74
+2026-01-15,1005,Puja,Innova,BE-07,RF Cable,Critical,1801,1,0.0006,0.999,0.18,29,90.57
+2026-01-10,1003,Ritesh,Prado NA,BE-07,Battery,Semi-Critical,2248,0,0,1,0.81,115,91.48
+2026-01-16,1001,Anuj,Prado EU,BE-08,PCB,Critical,2146,2,0.0009,0.999,0.49,54,89.52
+2026-01-10,1002,Kajal,Innova,BE-07,Battery,Semi-Critical,2136,1,0.0005,0.999,0.36,79,92.94
+2026-01-12,1006,Shubham,Fortuner,BE-09,Inner VI,Semi-Critical,1629,1,0.0006,0.999,0.4,13,87.03
+2026-01-11,1002,Kajal,Prado EU,BE-08,Battery,Semi-Critical,1529,0,0,1,1.17,98,86.47
+2026-01-11,1004,Rishi,Innova,BE-08,Inner VI,Semi-Critical,1900,0,0,1,0.97,85,87.38
+2026-01-11,1003,Ritesh,Innova,BE-08,RF Cable,Critical,1767,3,0.0017,0.998,0.99,80,86.63
+2026-01-13,1007,Neha,Prado NA,BE-08,Inner VI,Semi-Critical,2253,0,0,1,0.13,47,92.62
+2026-01-10,1006,Shubham,Innova,BE-09,PCB,Critical,1649,1,0.0006,0.999,1.18,70,83.99
+2026-01-10,1003,Ritesh,Prado NA,BE-09,Inner VI,Semi-Critical,1930,0,0,1,0.88,94,89.03
+2026-01-11,1005,Puja,Prado EU,BE-07,Inner VI,Semi-Critical,1905,0,0,1,0.52,76,91.13
+2026-01-11,1006,Shubham,Prado EU,BE-08,Cosmetic,Normal,2091,0,0,1,1.06,72,85.4
+2026-01-12,1005,Puja,Prado NA,BE-09,RF Cable,Critical,1924,3,0.0016,0.998,0.19,35,90.9
+2026-01-14,1008,Saurabh,Prado EU,BE-09,Camera,Critical,1572,4,0.0025,0.996,0.84,60,86.39
+2026-01-16,1001,Anuj,Fortuner,BE-09,Camera,Critical,1580,2,0.0013,0.998,0.16,60,93.3
+2026-01-16,1007,Neha,Prado NA,BE-09,Cosmetic,Normal,1742,1,0.0006,0.999,0.62,57,88.51
+2026-01-12,1004,Rishi,Fortuner,BE-09,Battery,Semi-Critical,1798,1,0.0006,0.999,0.9,40,84.29
+2026-01-15,1004,Rishi,Innova,BE-09,Inner VI,Semi-Critical,1775,1,0.0006,0.999,0.59,47,87.97
+2026-01-10,1003,Ritesh,Fortuner,BE-08,Battery,Semi-Critical,1788,1,0.0006,0.999,0.27,99,95.51
+2026-01-11,1006,Shubham,Innova,BE-08,Camera,Critical,1639,1,0.0006,0.999,0.84,59,86.47
+2026-01-12,1009,Kiran,Prado NA,BE-07,Battery,Semi-Critical,2158,1,0.0005,0.999,0.19,29,90.48
+2026-01-11,1001,Anuj,Prado EU,BE-09,RF Cable,Critical,2198,5,0.0023,0.997,0.71,41,86.13
+2026-01-16,1009,Kiran,Fortuner,BE-08,RF Cable,Critical,2011,1,0.0005,0.999,0.56,8,85.02
+2026-01-11,1009,Kiran,Prado NA,BE-08,RF Cable,Critical,1699,0,0,1,0.9,75,87.25
+2026-01-12,1003,Ritesh,Prado EU,BE-07,Camera,Critical,1976,5,0.0025,0.997,0.52,91,92.19
+2026-01-14,1003,Ritesh,Prado NA,BE-09,RF Cable,Critical,1506,0,0,1,0.37,26,88.47
+2026-01-10,1001,Anuj,Fortuner,BE-09,PCB,Critical,1743,1,0.0006,0.999,0.96,45,84.1
+2026-01-16,1007,Neha,Innova,BE-09,PCB,Critical,2052,3,0.0015,0.998,0.93,112,89.91
+2026-01-12,1006,Shubham,Prado EU,BE-07,Camera,Critical,2268,3,0.0013,0.998,0.85,95,89.31
+2026-01-14,1006,Shubham,Prado NA,BE-08,Camera,Critical,2283,4,0.0018,0.997,0.81,13,82.84
+2026-01-14,1008,Saurabh,Prado NA,BE-08,RF Cable,Critical,1945,0,0,1,1.05,28,81.83
+2026-01-11,1005,Puja,Prado NA,BE-09,Camera,Critical,2168,4,0.0018,0.998,0.18,95,95.97
+2026-01-13,1009,Kiran,Innova,BE-09,PCB,Critical,1962,3,0.0015,0.998,1.08,116,88.74
+2026-01-14,1003,Ritesh,Fortuner,BE-09,PCB,Critical,2239,0,0,1,0.51,115,94.48
+2026-01-11,1002,Kajal,Fortuner,BE-07,Cosmetic,Normal,2299,0,0,1,0.51,73,90.98
+2026-01-13,1010,Maya,Prado NA,BE-09,RF Cable,Critical,1946,4,0.0021,0.997,0.91,99,88.99
+2026-01-13,1005,Puja,Prado NA,BE-07,RF Cable,Critical,2131,2,0.0009,0.999,0.94,63,85.78
+2026-01-10,1006,Shubham,Prado NA,BE-08,PCB,Critical,2286,2,0.0009,0.999,1,15,81.18
+2026-01-14,1009,Kiran,Fortuner,BE-09,RF Cable,Critical,1713,3,0.0018,0.997,0.13,112,97.89
+2026-01-11,1004,Rishi,Fortuner,BE-07,Inner VI,Semi-Critical,2220,1,0.0005,0.999,0.64,47,87.48
+2026-01-14,1007,Neha,Fortuner,BE-07,Battery,Semi-Critical,1737,1,0.0006,0.999,0.73,27,84.9
+2026-01-11,1003,Ritesh,Prado EU,BE-08,PCB,Critical,1800,2,0.0011,0.998,0.65,81,90.16
+2026-01-11,1005,Puja,Prado EU,BE-09,Inner VI,Semi-Critical,2231,0,0,1,0.22,108,96.8
+2026-01-12,1007,Neha,Prado NA,BE-09,RF Cable,Critical,1705,3,0.0018,0.997,0.41,118,95.59
+2026-01-10,1010,Maya,Prado EU,BE-09,Inner VI,Semi-Critical,1822,2,0.0011,0.998,1.06,25,81.39
+2026-01-15,1007,Neha,Fortuner,BE-08,Battery,Semi-Critical,2096,1,0.0005,0.999,0.05,67,95.04
+2026-01-11,1009,Kiran,Fortuner,BE-08,Cosmetic,Normal,1624,5,0.0031,0.995,0.8,92,89.41
+2026-01-14,1010,Maya,Fortuner,BE-07,RF Cable,Critical,1661,0,0,1,0.17,64,93.63
+2026-01-15,1002,Kajal,Fortuner,BE-08,Camera,Critical,2191,4,0.0018,0.998,0.22,64,92.99
+2026-01-14,1003,Ritesh,Innova,BE-07,RF Cable,Critical,1892,3,0.0016,0.998,0.9,22,82.7
+2026-01-15,1003,Ritesh,Prado EU,BE-08,PCB,Critical,2256,4,0.0018,0.997,0.91,45,84.5
+2026-01-13,1004,Rishi,Prado EU,BE-07,Camera,Critical,2236,2,0.0009,0.999,0.87,15,82.48
+2026-01-13,1005,Puja,Prado NA,BE-09,Inner VI,Semi-Critical,1873,1,0.0005,0.999,0.84,89,88.97
+2026-01-10,1001,Anuj,Prado NA,BE-07,Cosmetic,Normal,2202,2,0.0009,0.999,0.77,34,85.06
+2026-01-13,1007,Neha,Prado EU,BE-09,Cosmetic,Normal,1753,0,0,1,0.42,105,94.55
+2026-01-14,1006,Shubham,Fortuner,BE-08,RF Cable,Critical,1503,6,0.004,0.995,0.48,28,87.23
+2026-01-10,1010,Maya,Prado EU,BE-07,PCB,Critical,1819,1,0.0005,0.999,1.07,108,88.25
+2026-01-10,1004,Rishi,Prado NA,BE-09,Inner VI,Semi-Critical,2250,0,0,1,1.18,100,86.53
+2026-01-11,1002,Kajal,Prado NA,BE-09,Camera,Critical,1638,3,0.0018,0.997,1.03,10,80.39
+2026-01-10,1008,Saurabh,Fortuner,BE-07,Camera,Critical,1874,5,0.0027,0.996,0.19,88,95.21
+2026-01-13,1001,Anuj,Fortuner,BE-07,RF Cable,Critical,2298,5,0.0022,0.997,0.81,64,87.05
+2026-01-13,1010,Maya,Innova,BE-07,Battery,Semi-Critical,1827,1,0.0005,0.999,0.82,81,88.51
+2026-01-13,1002,Kajal,Innova,BE-09,PCB,Critical,1689,1,0.0006,0.999,0.38,42,89.65
+2026-01-13,1008,Saurabh,Prado EU,BE-07,Inner VI,Semi-Critical,2096,1,0.0005,0.999,0.49,111,94.31
+2026-01-14,1008,Saurabh,Prado NA,BE-09,Inner VI,Semi-Critical,1941,0,0,1,1.06,76,85.73
+2026-01-16,1010,Maya,Fortuner,BE-07,Inner VI,Semi-Critical,2091,1,0.0005,0.999,0.14,68,94.23
+2026-01-11,1005,Puja,Prado NA,BE-07,Cosmetic,Normal,1771,0,0,1,0.58,48,88.2
+2026-01-13,1003,Ritesh,Prado EU,BE-09,Battery,Semi-Critical,2031,1,0.0005,0.999,0.18,84,95.16
+2026-01-14,1002,Kajal,Prado EU,BE-09,Camera,Critical,1733,1,0.0006,0.999,0.2,84,94.95
+2026-01-15,1002,Kajal,Innova,BE-09,Battery,Semi-Critical,1884,2,0.0011,0.998,0.13,18,90.11
+2026-01-13,1006,Shubham,Innova,BE-09,Battery,Semi-Critical,1727,1,0.0006,0.999,0.23,75,93.9
+2026-01-11,1005,Puja,Fortuner,BE-08,Cosmetic,Normal,1688,0,0,1,1.11,76,85.23
+2026-01-15,1009,Kiran,Prado EU,BE-09,Cosmetic,Normal,2105,2,0.001,0.999,0.32,71,92.64
+2026-01-16,1008,Saurabh,Prado NA,BE-09,Inner VI,Semi-Critical,1701,1,0.0006,0.999,1.07,102,87.75
+2026-01-15,1010,Maya,Prado EU,BE-07,Camera,Critical,1771,2,0.0011,0.999,0.13,71,94.53
+2026-01-16,1002,Kajal,Prado EU,BE-08,Inner VI,Semi-Critical,1784,1,0.0006,0.999,0.96,100,88.69
+2026-01-13,1006,Shubham,Innova,BE-09,Cosmetic,Normal,1676,0,0,1,1.11,8,79.57
+2026-01-16,1005,Puja,Fortuner,BE-08,Cosmetic,Normal,1938,3,0.0015,0.998,1.05,63,84.63
+2026-01-12,1010,Maya,Prado NA,BE-08,PCB,Critical,1832,2,0.0011,0.999,1.11,43,82.4
+2026-01-10,1002,Kajal,Fortuner,BE-08,Cosmetic,Normal,1551,2,0.0013,0.998,1,50,84.06
+2026-01-12,1001,Anuj,Prado NA,BE-07,RF Cable,Critical,1935,6,0.0031,0.995,0.65,66,88.74
+2026-01-16,1009,Kiran,Prado EU,BE-09,Inner VI,Semi-Critical,1687,2,0.0012,0.998,0.35,11,87.32
+2026-01-14,1009,Kiran,Fortuner,BE-07,Inner VI,Semi-Critical,2145,2,0.0009,0.999,0.05,11,90.34
+2026-01-13,1006,Shubham,Fortuner,BE-08,Battery,Semi-Critical,1617,1,0.0006,0.999,0.71,43,86.44
+2026-01-10,1003,Ritesh,Fortuner,BE-08,Battery,Semi-Critical,1823,0,0,1,0.37,58,91.13
+2026-01-16,1004,Rishi,Innova,BE-09,Camera,Critical,1811,2,0.0011,0.998,0.54,57,89.26
+2026-01-10,1004,Rishi,Fortuner,BE-09,Inner VI,Semi-Critical,1977,2,0.001,0.999,1.06,83,86.24
+2026-01-14,1005,Puja,Prado NA,BE-08,Camera,Critical,1724,4,0.0023,0.996,0.88,54,85.51
+2026-01-15,1003,Ritesh,Prado NA,BE-07,Cosmetic,Normal,2016,1,0.0005,0.999,1.01,39,83.11
+2026-01-16,1010,Maya,Fortuner,BE-09,Camera,Critical,2238,0,0,1,0.5,23,86.92
+2026-01-13,1008,Saurabh,Fortuner,BE-09,PCB,Critical,1520,1,0.0007,0.999,0.24,33,90.29
+2026-01-13,1010,Maya,Prado NA,BE-09,Cosmetic,Normal,1895,0,0,1,0.24,8,88.27
+2026-01-13,1008,Saurabh,Fortuner,BE-07,Camera,Critical,1719,2,0.0012,0.998,0.68,60,88.11
+2026-01-15,1003,Ritesh,Fortuner,BE-07,Cosmetic,Normal,1899,0,0,1,0.7,28,85.33
+2026-01-10,1006,Shubham,Fortuner,BE-08,Battery,Semi-Critical,1500,0,0,1,0.97,52,84.63
+2026-01-16,1005,Puja,Prado EU,BE-09,Battery,Semi-Critical,1865,0,0,1,0.89,33,83.85
+2026-01-15,1001,Anuj,Innova,BE-07,Inner VI,Semi-Critical,1900,0,0,1,0.62,92,91.47
+2026-01-12,1007,Neha,Prado EU,BE-07,Cosmetic,Normal,1776,0,0,1,0.28,84,94.2
+2026-01-16,1009,Kiran,Fortuner,BE-07,Camera,Critical,1641,5,0.003,0.996,0.29,59,91.78
+2026-01-10,1006,Shubham,Fortuner,BE-09,Battery,Semi-Critical,2075,2,0.001,0.999,0.5,98,93.09
+2026-01-16,1005,Puja,Innova,BE-07,Inner VI,Semi-Critical,1889,3,0.0016,0.998,0.6,60,88.87
+2026-01-16,1005,Puja,Innova,BE-07,Inner VI,Semi-Critical,1761,1,0.0006,0.999,0.72,69,88.51
+2026-01-14,1008,Saurabh,Prado EU,BE-09,Cosmetic,Normal,2229,3,0.0013,0.998,0.4,90,93.4
+2026-01-10,1004,Rishi,Innova,BE-09,PCB,Critical,1575,1,0.0006,0.999,0.67,93,91
+2026-01-16,1001,Anuj,Fortuner,BE-08,Cosmetic,Normal,1500,2,0.0013,0.998,0.82,28,84.03
+2026-01-10,1004,Rishi,Prado NA,BE-07,Battery,Semi-Critical,2098,0,0,1,0.68,61,88.28
+2026-01-12,1001,Anuj,Prado NA,BE-09,RF Cable,Critical,2286,2,0.0009,0.999,0.85,53,85.85
+2026-01-10,1001,Anuj,Innova,BE-08,PCB,Critical,2249,2,0.0009,0.999,0.12,44,92.39
+2026-01-16,1004,Rishi,Prado NA,BE-07,Camera,Critical,2246,4,0.0018,0.997,0.28,53,91.47
+2026-01-12,1003,Ritesh,Prado NA,BE-07,Camera,Critical,1810,0,0,1,0.77,90,89.8
+2026-01-11,1007,Neha,Fortuner,BE-09,Camera,Critical,2268,4,0.0018,0.998,0.89,12,81.97
+2026-01-14,1003,Ritesh,Fortuner,BE-08,Camera,Critical,2268,0,0,1,0.44,73,91.68
+2026-01-16,1008,Saurabh,Fortuner,BE-09,Camera,Critical,1659,0,0,1,0.17,101,96.72
+2026-01-10,1005,Puja,Innova,BE-07,Battery,Semi-Critical,1993,2,0.001,0.999,0.09,41,92.44
+2026-01-16,1008,Saurabh,Fortuner,BE-08,Battery,Semi-Critical,2009,0,0,1,0.16,22,90.23
+2026-01-16,1008,Saurabh,Fortuner,BE-08,RF Cable,Critical,2129,2,0.0009,0.999,1.15,9,79.17
+2026-01-12,1007,Neha,Prado EU,BE-08,Inner VI,Semi-Critical,2046,3,0.0015,0.998,0.7,10,83.72
+2026-01-15,1002,Kajal,Innova,BE-08,PCB,Critical,2097,3,0.0014,0.998,0.21,14,88.95
+2026-01-15,1001,Anuj,Prado EU,BE-08,Battery,Semi-Critical,1917,1,0.0005,0.999,0.89,101,89.47
+2026-01-13,1008,Saurabh,Innova,BE-07,RF Cable,Critical,1605,3,0.0019,0.997,0.95,65,85.76
+2026-01-14,1009,Kiran,Prado EU,BE-09,RF Cable,Critical,1891,4,0.0021,0.997,1.02,117,89.38
+2026-01-15,1009,Kiran,Prado NA,BE-08,Cosmetic,Normal,2284,1,0.0004,0.999,0.53,12,85.67
+2026-01-12,1002,Kajal,Prado NA,BE-09,RF Cable,Critical,1902,0,0,1,0.7,42,86.5
+2026-01-13,1004,Rishi,Fortuner,BE-07,Battery,Semi-Critical,2067,3,0.0015,0.998,0.92,91,88.27
+2026-01-16,1003,Ritesh,Prado NA,BE-09,Battery,Semi-Critical,2244,0,0,1,0.19,22,89.93
+2026-01-15,1003,Ritesh,Fortuner,BE-07,Inner VI,Semi-Critical,1881,1,0.0005,0.999,0.94,7,81.14
+2026-01-13,1004,Rishi,Prado NA,BE-07,Cosmetic,Normal,1827,1,0.0005,0.999,0.23,63,92.91
+2026-01-14,1009,Kiran,Prado EU,BE-07,Inner VI,Semi-Critical,1694,1,0.0006,0.999,0.35,117,96.2
+2026-01-16,1008,Saurabh,Prado NA,BE-09,Camera,Critical,1530,1,0.0007,0.999,0.77,77,88.66
+2026-01-12,1010,Maya,Innova,BE-09,Battery,Semi-Critical,1815,0,0,1,0.02,36,92.8
+2026-01-15,1007,Neha,Innova,BE-07,Inner VI,Semi-Critical,2287,1,0.0004,0.999,0.45,109,94.55
+2026-01-10,1005,Puja,Innova,BE-09,Inner VI,Semi-Critical,2273,2,0.0009,0.999,0.97,94,88.07
+2026-01-11,1004,Rishi,Prado NA,BE-08,RF Cable,Critical,1808,2,0.0011,0.998,0.94,63,85.76
+2026-01-13,1003,Ritesh,Prado NA,BE-08,Battery,Semi-Critical,2058,1,0.0005,0.999,1.12,29,81.18
+2026-01-10,1006,Shubham,Fortuner,BE-08,RF Cable,Critical,1655,2,0.0012,0.998,1.1,102,87.4
+2026-01-14,1001,Anuj,Innova,BE-09,Battery,Semi-Critical,1549,1,0.0006,0.999,1.12,99,87
+2026-01-11,1001,Anuj,Innova,BE-09,Camera,Critical,2057,5,0.0024,0.996,0.84,55,85.98
+2026-01-10,1004,Rishi,Fortuner,BE-07,Battery,Semi-Critical,2296,0,0,1,0.42,95,93.72
+2026-01-11,1009,Kiran,Prado EU,BE-07,PCB,Critical,1952,1,0.0005,0.999,1.12,52,83.09
+2026-01-12,1001,Anuj,Prado NA,BE-09,RF Cable,Critical,1610,2,0.0012,0.998,0.04,82,96.33
+2026-01-13,1001,Anuj,Innova,BE-08,Battery,Semi-Critical,2277,0,0,1,0.27,10,88.13
+2026-01-10,1009,Kiran,Innova,BE-07,Battery,Semi-Critical,2180,0,0,1,0.77,57,87.05
+2026-01-16,1006,Shubham,Fortuner,BE-08,Cosmetic,Normal,1693,1,0.0006,0.999,0.56,112,93.69
+2026-01-11,1006,Shubham,Innova,BE-09,RF Cable,Critical,1970,1,0.0005,0.999,0.03,75,95.91
+2026-01-11,1002,Kajal,Prado NA,BE-08,PCB,Critical,1797,3,0.0017,0.997,0.72,27,84.91
+2026-01-16,1007,Neha,Prado EU,BE-07,Battery,Semi-Critical,2266,0,0,1,0.01,38,93.07
+2026-01-10,1003,Ritesh,Prado NA,BE-08,PCB,Critical,2115,1,0.0005,0.999,0.59,83,90.98
+2026-01-10,1003,Ritesh,Innova,BE-08,Inner VI,Semi-Critical,2175,0,0,1,0.39,84,93.1
+2026-01-14,1001,Anuj,Prado NA,BE-08,RF Cable,Critical,1880,1,0.0005,0.999,0.18,60,93.16
+2026-01-15,1002,Kajal,Innova,BE-09,Battery,Semi-Critical,1768,0,0,1,0.94,7,81.18
+2026-01-12,1003,Ritesh,Prado EU,BE-09,PCB,Critical,1757,3,0.0017,0.997,0.34,42,89.96
+2026-01-11,1007,Neha,Prado EU,BE-09,PCB,Critical,1701,4,0.0024,0.997,0.58,54,88.51
+2026-01-10,1001,Anuj,Innova,BE-08,Camera,Critical,2041,4,0.002,0.997,0.34,85,93.52
+2026-01-10,1007,Neha,Prado EU,BE-08,Inner VI,Semi-Critical,1776,1,0.0006,0.999,0.04,60,94.55
+2026-01-13,1006,Shubham,Prado EU,BE-09,Battery,Semi-Critical,1992,1,0.0005,0.999,0.37,78,92.76
+2026-01-16,1008,Saurabh,Prado EU,BE-07,Camera,Critical,1667,2,0.0012,0.998,1.04,93,87.25
+2026-01-11,1004,Rishi,Innova,BE-09,Battery,Semi-Critical,2295,1,0.0004,0.999,0.95,17,81.88
+2026-01-11,1002,Kajal,Innova,BE-08,PCB,Critical,1964,3,0.0015,0.998,0.63,117,93.33
+2026-01-11,1009,Kiran,Fortuner,BE-08,Battery,Semi-Critical,2061,0,0,1,0.11,58,93.73
+2026-01-13,1009,Kiran,Prado EU,BE-09,Battery,Semi-Critical,1619,2,0.0012,0.998,0.43,56,90.27
+2026-01-12,1008,Saurabh,Innova,BE-08,Inner VI,Semi-Critical,1754,1,0.0006,0.999,0.28,58,91.99
+2026-01-10,1010,Maya,Innova,BE-07,PCB,Critical,2104,2,0.001,0.999,1.04,92,87.19
+2026-01-14,1009,Kiran,Prado EU,BE-09,Battery,Semi-Critical,1612,0,0,1,0.45,40,88.83
+2026-01-13,1009,Kiran,Prado EU,BE-09,PCB,Critical,2199,1,0.0005,0.999,0.95,57,85.21
+2026-01-13,1003,Ritesh,Prado NA,BE-09,Battery,Semi-Critical,1585,3,0.0019,0.998,0.25,116,97.02
+2026-01-10,1006,Shubham,Prado NA,BE-07,Cosmetic,Normal,2213,1,0.0005,0.999,0.89,39,84.32
+2026-01-12,1009,Kiran,Innova,BE-07,Cosmetic,Normal,2267,1,0.0004,0.999,0.47,101,93.68
+2026-01-13,1010,Maya,Prado EU,BE-08,PCB,Critical,2054,5,0.0024,0.996,0.26,58,92.03
+2026-01-11,1004,Rishi,Fortuner,BE-07,RF Cable,Critical,1908,3,0.0016,0.998,0.53,17,85.98
+2026-01-15,1008,Saurabh,Prado NA,BE-07,RF Cable,Critical,2276,0,0,1,0.3,45,90.75
+2026-01-13,1010,Maya,Prado NA,BE-08,PCB,Critical,1832,0,0,1,0.25,60,92.5
+2026-01-11,1007,Neha,Innova,BE-09,Battery,Semi-Critical,2262,0,0,1,0,45,93.75
+2026-01-11,1009,Kiran,Fortuner,BE-08,PCB,Critical,1629,2,0.0012,0.998,0.71,17,84.21
+2026-01-11,1009,Kiran,Fortuner,BE-08,RF Cable,Critical,1922,7,0.0036,0.995,0.51,61,89.69
+2026-01-13,1002,Kajal,Fortuner,BE-07,RF Cable,Critical,2000,3,0.0015,0.998,0.6,49,87.96
+2026-01-12,1006,Shubham,Prado EU,BE-07,Inner VI,Semi-Critical,2222,1,0.0005,0.999,0.68,106,92
+2026-01-16,1007,Neha,Prado NA,BE-08,Battery,Semi-Critical,1995,1,0.0005,0.999,0.65,119,93.38
+2026-01-12,1006,Shubham,Prado EU,BE-08,RF Cable,Critical,2064,1,0.0005,0.999,0.93,115,90.25
+2026-01-15,1009,Kiran,Fortuner,BE-08,Inner VI,Semi-Critical,2258,1,0.0004,0.999,0.36,7,86.95
+2026-01-12,1009,Kiran,Fortuner,BE-09,Battery,Semi-Critical,1583,1,0.0006,0.999,0.55,110,93.62
+2026-01-12,1009,Kiran,Innova,BE-09,Cosmetic,Normal,1945,3,0.0015,0.998,1.1,28,81.21
+2026-01-12,1006,Shubham,Prado EU,BE-07,Cosmetic,Normal,2171,1,0.0005,0.999,0.35,60,91.46
+2026-01-16,1001,Anuj,Fortuner,BE-07,RF Cable,Critical,1575,2,0.0013,0.998,0.15,58,93.23
+2026-01-12,1005,Puja,Fortuner,BE-07,RF Cable,Critical,1917,0,0,1,0.55,22,86.33
+2026-01-13,1006,Shubham,Prado NA,BE-07,RF Cable,Critical,1870,2,0.0011,0.999,0.95,8,81.09
+2026-01-10,1002,Kajal,Innova,BE-09,Battery,Semi-Critical,1707,3,0.0018,0.997,0.65,111,92.6
+2026-01-16,1004,Rishi,Innova,BE-08,PCB,Critical,1758,1,0.0006,0.999,0.94,12,81.55
+2026-01-15,1009,Kiran,Prado EU,BE-08,Camera,Critical,1578,1,0.0006,0.999,1.14,99,86.8
+2026-01-13,1004,Rishi,Innova,BE-07,Cosmetic,Normal,2170,2,0.0009,0.999,0.05,61,94.51
+2026-01-10,1008,Saurabh,Prado EU,BE-08,RF Cable,Critical,1774,3,0.0017,0.998,0.02,58,94.5
+2026-01-13,1008,Saurabh,Prado EU,BE-09,PCB,Critical,1839,1,0.0005,0.999,0.74,9,83.31
+2026-01-14,1010,Maya,Prado EU,BE-08,Camera,Critical,2108,3,0.0014,0.998,0.67,18,84.69
+2026-01-16,1010,Maya,Fortuner,BE-08,PCB,Critical,1782,2,0.0011,0.999,0.41,85,92.9
+2026-01-15,1009,Kiran,Innova,BE-07,Battery,Semi-Critical,2197,1,0.0005,0.999,0.44,99,93.81
+2026-01-13,1005,Puja,Innova,BE-07,Battery,Semi-Critical,1784,2,0.0011,0.998,0.03,16,90.94
+2026-01-13,1006,Shubham,Prado NA,BE-07,RF Cable,Critical,2099,0,0,1,0.73,72,88.7
+2026-01-15,1006,Shubham,Fortuner,BE-08,Camera,Critical,1553,1,0.0006,0.999,0.08,38,92.32
+2026-01-15,1007,Neha,Prado NA,BE-07,Inner VI,Semi-Critical,2247,0,0,1,0.67,43,86.88
+2026-01-10,1004,Rishi,Prado NA,BE-09,Camera,Critical,1968,0,0,1,0.68,95,91.12
+2026-01-15,1003,Ritesh,Innova,BE-08,Battery,Semi-Critical,2024,0,0,1,0.05,7,90.08
+2026-01-12,1001,Anuj,Prado EU,BE-07,PCB,Critical,1685,2,0.0012,0.998,0.48,102,93.61
+2026-01-15,1009,Kiran,Fortuner,BE-07,Inner VI,Semi-Critical,1799,0,0,1,0.47,112,94.63
+2026-01-15,1004,Rishi,Innova,BE-08,Battery,Semi-Critical,1607,3,0.0019,0.998,0.04,16,90.79
+2026-01-10,1010,Maya,Innova,BE-07,Battery,Semi-Critical,1635,1,0.0006,0.999,0.75,88,89.79
+2026-01-11,1007,Neha,Innova,BE-09,Battery,Semi-Critical,1948,0,0,1,0.25,97,95.58
+2026-01-14,1001,Anuj,Prado NA,BE-07,Inner VI,Semi-Critical,1536,0,0,1,1.03,105,88.45
+2026-01-11,1008,Saurabh,Fortuner,BE-08,Camera,Critical,2106,1,0.0005,0.999,0.39,30,88.56
+2026-01-13,1004,Rishi,Prado NA,BE-08,Camera,Critical,1752,0,0,1,0.17,69,94.05
+2026-01-14,1004,Rishi,Innova,BE-09,Battery,Semi-Critical,1999,0,0,1,0.39,10,86.93
+2026-01-14,1008,Saurabh,Fortuner,BE-07,Inner VI,Semi-Critical,1855,3,0.0016,0.998,0.02,105,98.42
+2026-01-12,1010,Maya,Prado NA,BE-07,RF Cable,Critical,2066,1,0.0005,0.999,0.59,94,91.9
+2026-01-11,1001,Anuj,Prado EU,BE-08,Camera,Critical,2116,3,0.0014,0.998,0.4,103,94.47
+2026-01-13,1006,Shubham,Prado NA,BE-09,Cosmetic,Normal,2241,1,0.0004,0.999,1.14,51,82.81
+2026-01-13,1001,Anuj,Prado NA,BE-08,Battery,Semi-Critical,1620,1,0.0006,0.999,0.1,96,96.95
+2026-01-12,1002,Kajal,Fortuner,BE-09,Camera,Critical,2105,1,0.0005,0.999,0.32,6,87.26
+2026-01-11,1006,Shubham,Prado NA,BE-08,Camera,Critical,2027,0,0,1,0.61,27,86.15
+2026-01-16,1005,Puja,Prado NA,BE-07,Battery,Semi-Critical,1649,0,0,1,0.79,41,85.52
+2026-01-15,1001,Anuj,Fortuner,BE-09,Inner VI,Semi-Critical,2088,1,0.0005,0.999,0.86,65,86.78
+2026-01-16,1009,Kiran,Innova,BE-07,Inner VI,Semi-Critical,1997,2,0.001,0.999,0.68,105,91.87
+2026-01-15,1003,Ritesh,Prado EU,BE-08,Battery,Semi-Critical,2042,2,0.001,0.999,0.1,111,98.17
+2026-01-10,1001,Anuj,Prado EU,BE-07,RF Cable,Critical,1545,2,0.0013,0.998,0.28,109,96.18
+2026-01-12,1006,Shubham,Innova,BE-07,Camera,Critical,1531,2,0.0013,0.998,0.79,42,85.49
+2026-01-10,1008,Saurabh,Prado EU,BE-09,Cosmetic,Normal,1738,0,0,1,1.05,52,83.83
+2026-01-14,1002,Kajal,Prado NA,BE-09,Cosmetic,Normal,1869,1,0.0005,0.999,0.04,18,91.06
+2026-01-12,1008,Saurabh,Prado NA,BE-07,RF Cable,Critical,2198,4,0.0018,0.997,0.06,5,89.66
+2026-01-14,1009,Kiran,Prado NA,BE-07,RF Cable,Critical,1893,2,0.0011,0.998,1.16,54,82.81
+2026-01-13,1002,Kajal,Prado EU,BE-08,RF Cable,Critical,1853,1,0.0005,0.999,0.32,23,88.68
+2026-01-10,1005,Puja,Prado NA,BE-09,RF Cable,Critical,1814,3,0.0017,0.998,0.17,9,88.92
+2026-01-16,1005,Puja,Prado EU,BE-08,Inner VI,Semi-Critical,1784,1,0.0006,0.999,1.14,51,82.8
+2026-01-14,1010,Maya,Innova,BE-08,Battery,Semi-Critical,1654,2,0.0012,0.998,1.02,48,83.7
+2026-01-13,1008,Saurabh,Prado NA,BE-07,PCB,Critical,1528,5,0.0033,0.995,0.07,116,98.7
+2026-01-10,1004,Rishi,Innova,BE-08,Inner VI,Semi-Critical,2256,0,0,1,1.16,61,83.48
+2026-01-16,1003,Ritesh,Innova,BE-07,Battery,Semi-Critical,1683,2,0.0012,0.998,0.25,14,88.57
+2026-01-10,1008,Saurabh,Prado EU,BE-09,Inner VI,Semi-Critical,2168,1,0.0005,0.999,0.37,78,92.76
+2026-01-12,1002,Kajal,Prado EU,BE-08,PCB,Critical,1904,3,0.0016,0.998,0.84,36,84.47
+2026-01-15,1009,Kiran,Prado NA,BE-09,Camera,Critical,2158,2,0.0009,0.999,0.47,9,85.98
+2026-01-15,1010,Maya,Prado EU,BE-08,PCB,Critical,1567,3,0.0019,0.997,0.57,31,86.72
+2026-01-10,1008,Saurabh,Prado NA,BE-08,Inner VI,Semi-Critical,2288,4,0.0017,0.997,0.54,62,89.63
+2026-01-11,1003,Ritesh,Fortuner,BE-08,Battery,Semi-Critical,2133,1,0.0005,0.999,0.82,7,82.35
+2026-01-13,1009,Kiran,Prado EU,BE-09,Camera,Critical,2054,0,0,1,1.19,100,86.43
+2026-01-11,1001,Anuj,Innova,BE-08,Inner VI,Semi-Critical,1500,0,0,1,0.92,11,81.72
+2026-01-15,1004,Rishi,Fortuner,BE-09,PCB,Critical,1589,2,0.0013,0.998,0.71,61,87.88
+2026-01-14,1008,Saurabh,Prado NA,BE-08,Battery,Semi-Critical,1842,0,0,1,1.18,91,85.78
+2026-01-11,1001,Anuj,Fortuner,BE-09,PCB,Critical,1716,1,0.0006,0.999,0.17,87,95.5
+2026-01-15,1002,Kajal,Prado EU,BE-08,Battery,Semi-Critical,1501,2,0.0013,0.998,0.35,35,89.31
+2026-01-15,1005,Puja,Prado EU,BE-09,RF Cable,Critical,2085,1,0.0005,0.999,0.94,90,88.06
+2026-01-10,1001,Anuj,Fortuner,BE-08,RF Cable,Critical,2264,2,0.0009,0.999,0.88,86,88.3
+2026-01-10,1007,Neha,Fortuner,BE-09,PCB,Critical,2051,2,0.001,0.999,0.83,35,84.54
+2026-01-12,1010,Maya,Prado NA,BE-09,Cosmetic,Normal,2046,3,0.0015,0.998,0.88,29,83.5
+2026-01-14,1006,Shubham,Prado EU,BE-09,Cosmetic,Normal,1949,0,0,1,1.06,82,86.23
+2026-01-10,1003,Ritesh,Prado EU,BE-08,Inner VI,Semi-Critical,2080,2,0.001,0.998,0.95,79,87
+2026-01-11,1010,Maya,Innova,BE-09,Inner VI,Semi-Critical,2248,1,0.0004,0.999,0.8,13,83.05
+2026-01-15,1002,Kajal,Prado EU,BE-09,Inner VI,Semi-Critical,2287,0,0,1,1.06,27,81.65
+2026-01-12,1007,Neha,Prado NA,BE-08,Camera,Critical,1600,4,0.0025,0.996,0.39,30,88.4
+2026-01-16,1003,Ritesh,Prado EU,BE-09,Battery,Semi-Critical,1535,1,0.0007,0.999,1.18,97,86.23
+2026-01-13,1004,Rishi,Prado NA,BE-07,Cosmetic,Normal,1609,1,0.0006,0.999,0.67,104,91.92
+2026-01-12,1006,Shubham,Prado NA,BE-09,Battery,Semi-Critical,1565,0,0,1,0.46,90,92.9
+2026-01-13,1008,Saurabh,Prado NA,BE-08,Battery,Semi-Critical,1946,0,0,1,0.43,56,90.37
+2026-01-15,1001,Anuj,Fortuner,BE-08,Camera,Critical,2188,1,0.0005,0.999,0.62,112,93.09
+2026-01-12,1007,Neha,Prado EU,BE-07,Camera,Critical,1754,2,0.0011,0.998,0.45,50,89.57
+2026-01-11,1001,Anuj,Prado NA,BE-08,RF Cable,Critical,1725,1,0.0006,0.999,0.4,55,90.54
+2026-01-14,1010,Maya,Innova,BE-08,Inner VI,Semi-Critical,1913,0,0,1,1.1,70,84.83
+2026-01-11,1010,Maya,Innova,BE-08,PCB,Critical,2183,3,0.0014,0.998,0.81,77,88.21
+2026-01-14,1010,Maya,Fortuner,BE-09,Cosmetic,Normal,2192,1,0.0005,0.999,1.16,98,86.53
+2026-01-12,1010,Maya,Fortuner,BE-07,Cosmetic,Normal,1673,1,0.0006,0.999,1.06,35,82.27
+2026-01-12,1002,Kajal,Prado NA,BE-07,Cosmetic,Normal,1683,1,0.0006,0.999,0.35,54,90.95
+2026-01-10,1002,Kajal,Fortuner,BE-08,Inner VI,Semi-Critical,1500,2,0.0013,0.998,1.14,93,86.24
+2026-01-10,1006,Shubham,Prado NA,BE-07,Battery,Semi-Critical,1801,0,0,1,0.53,48,88.7
+2026-01-13,1002,Kajal,Prado EU,BE-09,PCB,Critical,2184,1,0.0005,0.999,0.83,107,90.58
+2026-01-14,1005,Puja,Innova,BE-08,Battery,Semi-Critical,2178,0,0,1,0.83,32,84.37
+2026-01-14,1004,Rishi,Innova,BE-09,Battery,Semi-Critical,2030,1,0.0005,0.999,0.03,104,98.33
+2026-01-14,1010,Maya,Fortuner,BE-08,PCB,Critical,1853,2,0.0011,0.999,0.94,108,89.52
+2026-01-16,1007,Neha,Prado EU,BE-08,RF Cable,Critical,2211,1,0.0005,0.999,0.41,108,94.87
+2026-01-12,1008,Saurabh,Innova,BE-08,Cosmetic,Normal,2197,0,0,1,0.69,55,87.68
+2026-01-12,1006,Shubham,Prado EU,BE-08,Camera,Critical,1607,1,0.0006,0.999,0.46,52,89.68
+2026-01-16,1004,Rishi,Prado NA,BE-07,RF Cable,Critical,2023,1,0.0005,0.999,1.14,92,86.23
+2026-01-12,1010,Maya,Prado EU,BE-07,Inner VI,Semi-Critical,1822,1,0.0005,0.999,0.44,99,93.81
+2026-01-13,1005,Puja,Prado NA,BE-08,Inner VI,Semi-Critical,1503,1,0.0007,0.999,0.26,43,90.93
+2026-01-16,1004,Rishi,Fortuner,BE-07,Camera,Critical,1674,3,0.0018,0.997,0.86,17,82.67
+2026-01-16,1004,Rishi,Fortuner,BE-07,Battery,Semi-Critical,2279,2,0.0009,0.999,1.11,62,83.99
+2026-01-16,1009,Kiran,Fortuner,BE-08,RF Cable,Critical,1745,2,0.0011,0.998,0.57,83,91.12
+2026-01-14,1007,Neha,Prado EU,BE-07,Camera,Critical,1748,2,0.0011,0.998,1.02,91,87.29
+2026-01-11,1007,Neha,Innova,BE-07,PCB,Critical,2230,3,0.0013,0.998,0.64,26,85.66
+2026-01-11,1010,Maya,Prado EU,BE-07,RF Cable,Critical,2154,5,0.0023,0.997,0.22,50,91.79
+2026-01-16,1007,Neha,Innova,BE-08,PCB,Critical,2237,2,0.0009,0.999,0.32,52,91.06
+2026-01-16,1005,Puja,Prado NA,BE-07,Cosmetic,Normal,2252,1,0.0004,0.999,0.33,74,92.83
+2026-01-14,1004,Rishi,Prado NA,BE-07,Inner VI,Semi-Critical,1654,1,0.0006,0.999,0.22,23,89.67
+2026-01-11,1010,Maya,Innova,BE-07,PCB,Critical,2034,0,0,1,0.28,103,95.78
+2026-01-10,1001,Anuj,Prado NA,BE-09,Inner VI,Semi-Critical,1847,0,0,1,0.42,101,94.22
+2026-01-16,1006,Shubham,Prado NA,BE-07,Camera,Critical,1623,1,0.0006,0.999,0.81,29,84.27
+2026-01-13,1007,Neha,Prado NA,BE-08,RF Cable,Critical,1822,3,0.0016,0.998,0.68,87,90.31
+2026-01-10,1001,Anuj,Prado NA,BE-08,Cosmetic,Normal,1994,0,0,1,0.5,58,89.83
+2026-01-12,1004,Rishi,Prado NA,BE-08,Cosmetic,Normal,2102,1,0.0005,0.999,0.59,85,91.14
+2026-01-16,1004,Rishi,Prado NA,BE-09,Battery,Semi-Critical,2155,0,0,1,0.04,99,97.85
+2026-01-12,1005,Puja,Prado EU,BE-08,Camera,Critical,2147,2,0.0009,0.999,0.03,47,93.54
+2026-01-12,1010,Maya,Prado NA,BE-08,RF Cable,Critical,2249,3,0.0013,0.998,0.56,80,90.96
+2026-01-12,1001,Anuj,Fortuner,BE-09,Battery,Semi-Critical,1878,3,0.0016,0.998,1,72,85.88
+2026-01-15,1002,Kajal,Fortuner,BE-07,Battery,Semi-Critical,1624,0,0,1,0.69,83,90.02
+2026-01-15,1002,Kajal,Prado EU,BE-07,Camera,Critical,1995,0,0,1,0.41,95,93.82
+2026-01-12,1008,Saurabh,Prado NA,BE-07,Camera,Critical,2106,1,0.0005,0.999,0.07,109,98.34
+2026-01-13,1006,Shubham,Prado EU,BE-08,RF Cable,Critical,1724,3,0.0017,0.998,0.88,15,82.32
+2026-01-15,1003,Ritesh,Fortuner,BE-08,PCB,Critical,2221,1,0.0005,0.999,0.83,79,88.25
+2026-01-13,1007,Neha,Fortuner,BE-07,Camera,Critical,2008,3,0.0015,0.998,0.61,13,84.86
+2026-01-12,1006,Shubham,Prado NA,BE-09,PCB,Critical,1632,2,0.0012,0.998,0.52,91,92.28
+2026-01-14,1004,Rishi,Prado NA,BE-08,Cosmetic,Normal,2002,1,0.0005,0.999,1.05,63,84.71
+2026-01-11,1006,Shubham,Fortuner,BE-09,RF Cable,Critical,1742,1,0.0006,0.999,0.76,105,91.1
+2026-01-15,1003,Ritesh,Innova,BE-07,PCB,Critical,1610,0,0,1,0.21,21,89.65
+2026-01-12,1002,Kajal,Fortuner,BE-09,Battery,Semi-Critical,1576,0,0,1,0.68,102,91.7
+2026-01-13,1003,Ritesh,Prado NA,BE-09,PCB,Critical,1893,2,0.0011,0.999,0.5,114,94.42
+2026-01-10,1003,Ritesh,Prado EU,BE-09,PCB,Critical,1826,1,0.0005,0.999,0.72,97,90.84
+2026-01-15,1001,Anuj,Prado NA,BE-09,Battery,Semi-Critical,2087,1,0.0005,0.999,0.85,68,87.13
+2026-01-13,1010,Maya,Fortuner,BE-07,Battery,Semi-Critical,1617,2,0.0012,0.998,1.06,49,83.38
+2026-01-14,1003,Ritesh,Prado NA,BE-07,RF Cable,Critical,2147,0,0,1,0.82,74,87.97
+2026-01-14,1009,Kiran,Fortuner,BE-08,PCB,Critical,1838,1,0.0005,0.999,0.98,58,84.99
+2026-01-13,1002,Kajal,Prado EU,BE-09,Battery,Semi-Critical,1904,0,0,1,0.93,19,82.28
+2026-01-13,1004,Rishi,Prado NA,BE-08,Cosmetic,Normal,2010,1,0.0005,0.999,0.11,51,93.11
+2026-01-10,1003,Ritesh,Prado NA,BE-08,Camera,Critical,2128,6,0.0028,0.996,0.45,103,93.86
+2026-01-10,1008,Saurabh,Prado EU,BE-07,PCB,Critical,1844,3,0.0016,0.998,0.34,107,95.38
+2026-01-13,1002,Kajal,Innova,BE-09,Camera,Critical,2227,3,0.0013,0.998,0.08,107,98.01
+2026-01-16,1002,Kajal,Innova,BE-07,RF Cable,Critical,2139,1,0.0005,0.999,1.13,107,87.58
+2026-01-11,1001,Anuj,Innova,BE-08,RF Cable,Critical,2123,3,0.0014,0.998,0.73,80,89.26
+2026-01-14,1001,Anuj,Prado NA,BE-07,Battery,Semi-Critical,2159,1,0.0005,0.999,1.12,32,81.43
+2026-01-14,1008,Saurabh,Fortuner,BE-09,RF Cable,Critical,1930,2,0.001,0.999,1.05,97,87.5
+2026-01-14,1004,Rishi,Fortuner,BE-09,RF Cable,Critical,1979,1,0.0005,0.999,0.54,107,93.48
+2026-01-12,1006,Shubham,Prado EU,BE-08,RF Cable,Critical,1611,5,0.0031,0.995,0.28,92,94.6
+2026-01-11,1003,Ritesh,Innova,BE-08,PCB,Critical,1700,1,0.0006,0.999,0.54,114,94.05
+2026-01-12,1005,Puja,Innova,BE-09,Camera,Critical,1526,2,0.0013,0.998,0.16,69,94.04
+2026-01-13,1009,Kiran,Innova,BE-09,Inner VI,Semi-Critical,2096,3,0.0014,0.998,0.33,38,89.75
+2026-01-13,1006,Shubham,Fortuner,BE-08,Cosmetic,Normal,1682,3,0.0018,0.997,0.99,112,89.29
+2026-01-12,1003,Ritesh,Innova,BE-08,RF Cable,Critical,2014,3,0.0015,0.998,0.29,18,88.48
+2026-01-13,1010,Maya,Prado EU,BE-08,Battery,Semi-Critical,1835,0,0,1,0.75,57,87.25
+2026-01-14,1006,Shubham,Prado NA,BE-08,Inner VI,Semi-Critical,1597,1,0.0006,0.999,0.12,107,97.66
+2026-01-15,1007,Neha,Innova,BE-09,Battery,Semi-Critical,2253,0,0,1,0.81,37,84.98
+2026-01-10,1004,Rishi,Innova,BE-09,Battery,Semi-Critical,1530,2,0.0013,0.998,0.51,61,89.87
+2026-01-13,1010,Maya,Prado EU,BE-08,Cosmetic,Normal,1759,2,0.0011,0.998,0.91,100,89.14
+2026-01-14,1001,Anuj,Innova,BE-07,Camera,Critical,1680,3,0.0018,0.998,0.41,47,89.67
+2026-01-12,1006,Shubham,Innova,BE-07,Cosmetic,Normal,1773,2,0.0011,0.998,0.46,26,87.47
+2026-01-11,1006,Shubham,Prado NA,BE-08,Battery,Semi-Critical,1531,1,0.0007,0.999,0.63,112,92.98
+2026-01-15,1009,Kiran,Prado NA,BE-07,Battery,Semi-Critical,1851,1,0.0005,0.999,1.19,107,86.98
+2026-01-15,1009,Kiran,Fortuner,BE-07,Battery,Semi-Critical,2059,1,0.0005,0.999,1.15,50,82.63
+2026-01-13,1002,Kajal,Fortuner,BE-07,RF Cable,Critical,1839,0,0,1,1,97,88.08
+2026-01-15,1003,Ritesh,Fortuner,BE-07,Battery,Semi-Critical,1943,1,0.0005,0.999,0.74,52,86.89
+2026-01-10,1009,Kiran,Prado EU,BE-08,Battery,Semi-Critical,1801,2,0.0011,0.998,0.51,87,92.06
+2026-01-16,1009,Kiran,Fortuner,BE-09,Camera,Critical,1828,1,0.0005,0.999,1,113,89.38
+2026-01-13,1004,Rishi,Prado EU,BE-09,Battery,Semi-Critical,2238,0,0,1,0.11,94,96.73
+2026-01-12,1008,Saurabh,Fortuner,BE-07,RF Cable,Critical,1709,3,0.0018,0.998,0.65,39,86.61
+2026-01-12,1006,Shubham,Innova,BE-09,Battery,Semi-Critical,1628,0,0,1,0.85,11,82.42
+2026-01-10,1005,Puja,Prado EU,BE-07,Cosmetic,Normal,1913,1,0.0005,0.999,0.84,26,83.72
+2026-01-10,1005,Puja,Prado NA,BE-08,Inner VI,Semi-Critical,1745,3,0.0017,0.997,0.8,7,82.44
+2026-01-14,1006,Shubham,Prado EU,BE-09,Cosmetic,Normal,1521,1,0.0007,0.999,0.86,95,89.26
+2026-01-11,1007,Neha,Innova,BE-08,PCB,Critical,1717,1,0.0006,0.999,0.75,92,90.12
+2026-01-15,1006,Shubham,Prado NA,BE-07,RF Cable,Critical,1600,1,0.0006,0.999,0.01,10,90.68
+2026-01-13,1002,Kajal,Innova,BE-09,RF Cable,Critical,1550,4,0.0026,0.996,0.37,10,86.93
+2026-01-12,1008,Saurabh,Fortuner,BE-09,PCB,Critical,2001,1,0.0005,0.999,0.08,117,98.91
+2026-01-11,1005,Puja,Prado EU,BE-07,Camera,Critical,1562,1,0.0006,0.999,0.12,99,97
+2026-01-10,1002,Kajal,Fortuner,BE-08,PCB,Critical,1736,1,0.0006,0.999,0.62,25,85.84
+2026-01-16,1001,Anuj,Innova,BE-08,Inner VI,Semi-Critical,2185,0,0,1,0.1,55,93.58
+2026-01-15,1010,Maya,Prado EU,BE-08,Battery,Semi-Critical,1817,1,0.0006,0.999,0.64,115,93.14
+2026-01-10,1005,Puja,Innova,BE-07,RF Cable,Critical,2117,3,0.0014,0.998,0.73,111,91.84
+2026-01-15,1003,Ritesh,Prado NA,BE-08,RF Cable,Critical,2024,1,0.0005,0.999,1.14,85,85.64
+2026-01-10,1009,Kiran,Prado EU,BE-09,Cosmetic,Normal,2041,1,0.0005,0.999,0.84,7,82.15
+2026-01-10,1010,Maya,Fortuner,BE-08,Cosmetic,Normal,1921,1,0.0005,0.999,0.94,7,81.14
+2026-01-12,1002,Kajal,Fortuner,BE-09,PCB,Critical,1567,3,0.0019,0.997,0.66,95,91.17
+2026-01-10,1001,Anuj,Prado EU,BE-07,Camera,Critical,2141,1,0.0005,0.999,0.9,113,90.38
+2026-01-15,1009,Kiran,Prado EU,BE-09,Cosmetic,Normal,2003,0,0,1,0.31,88,94.23
+2026-01-14,1004,Rishi,Fortuner,BE-09,RF Cable,Critical,1762,4,0.0023,0.996,0.67,35,86.03
+2026-01-15,1010,Maya,Innova,BE-09,PCB,Critical,1704,2,0.0012,0.998,0.72,49,86.79
+2026-01-13,1006,Shubham,Innova,BE-09,Camera,Critical,1958,5,0.0026,0.996,0.65,22,85.13
+2026-01-15,1006,Shubham,Fortuner,BE-09,RF Cable,Critical,2104,1,0.0005,0.999,0.04,12,90.56
+2026-01-13,1006,Shubham,Innova,BE-08,PCB,Critical,1555,2,0.0013,0.998,0.42,105,94.45
+2026-01-16,1005,Puja,Prado NA,BE-08,PCB,Critical,1806,1,0.0006,0.999,0.83,73,87.74
+2026-01-16,1005,Puja,Fortuner,BE-08,Cosmetic,Normal,1572,1,0.0006,0.999,0.14,50,92.71
+2026-01-12,1005,Puja,Prado NA,BE-07,Battery,Semi-Critical,2251,1,0.0004,0.999,0.98,52,84.5
+2026-01-10,1006,Shubham,Fortuner,BE-08,Camera,Critical,1872,2,0.0011,0.999,0.05,97,97.5
+2026-01-11,1005,Puja,Prado EU,BE-07,Camera,Critical,1692,1,0.0006,0.999,0.82,114,91.26
+2026-01-15,1005,Puja,Prado NA,BE-08,Cosmetic,Normal,1963,0,0,1,0.17,90,95.8
+2026-01-12,1002,Kajal,Fortuner,BE-07,Inner VI,Semi-Critical,1964,0,0,1,0.23,53,92.12
+2026-01-13,1002,Kajal,Prado EU,BE-07,Inner VI,Semi-Critical,2207,1,0.0005,0.999,0.46,87,92.61
+2026-01-11,1007,Neha,Fortuner,BE-07,Camera,Critical,2006,3,0.0015,0.998,1.06,80,85.95
+2026-01-14,1010,Maya,Fortuner,BE-08,RF Cable,Critical,1618,0,0,1,0.64,59,88.52
+2026-01-16,1004,Rishi,Prado EU,BE-08,Camera,Critical,2085,0,0,1,0.88,50,85.37
+2026-01-12,1002,Kajal,Fortuner,BE-08,PCB,Critical,1752,5,0.0029,0.996,0.58,12,84.98
+2026-01-13,1003,Ritesh,Innova,BE-08,PCB,Critical,1619,1,0.0006,0.999,0.13,20,90.32
+2026-01-10,1007,Neha,Prado NA,BE-07,PCB,Critical,1523,2,0.0013,0.998,0.38,78,92.6
+2026-01-13,1005,Puja,Innova,BE-09,Inner VI,Semi-Critical,2185,1,0.0005,0.999,0.74,88,89.9
+2026-01-14,1005,Puja,Innova,BE-07,Cosmetic,Normal,2250,1,0.0004,0.999,0.39,50,90.23
+2026-01-16,1003,Ritesh,Innova,BE-07,Battery,Semi-Critical,1758,0,0,1,0.4,58,90.83
+2026-01-15,1004,Rishi,Prado NA,BE-07,Cosmetic,Normal,2045,0,0,1,0.43,20,87.37
+2026-01-16,1009,Kiran,Prado EU,BE-09,Cosmetic,Normal,1709,0,0,1,0.07,7,89.88
+2026-01-10,1001,Anuj,Innova,BE-09,Camera,Critical,2034,2,0.001,0.999,1.1,114,88.42
+2026-01-14,1010,Maya,Prado NA,BE-08,Battery,Semi-Critical,1511,0,0,1,0.17,33,91.05
+2026-01-11,1005,Puja,Prado EU,BE-08,Camera,Critical,2272,1,0.0004,0.999,0.47,50,89.43
+2026-01-16,1004,Rishi,Prado EU,BE-07,Camera,Critical,1570,1,0.0006,0.999,1.08,89,86.56
+2026-01-14,1004,Rishi,Fortuner,BE-07,PCB,Critical,2071,4,0.0019,0.997,1.14,45,82.19
+2026-01-11,1006,Shubham,Innova,BE-08,RF Cable,Critical,1659,3,0.0018,0.997,0.66,75,89.5
+2026-01-15,1002,Kajal,Innova,BE-07,Inner VI,Semi-Critical,1797,0,0,1,0.05,44,93.17
+2026-01-16,1009,Kiran,Prado NA,BE-08,Camera,Critical,1504,2,0.0013,0.998,0.05,7,89.97
+2026-01-11,1004,Rishi,Prado EU,BE-08,RF Cable,Critical,1779,2,0.0011,0.998,0.95,82,87.24
+2026-01-15,1008,Saurabh,Prado NA,BE-07,PCB,Critical,1721,1,0.0006,0.999,1.02,19,81.33
+2026-01-16,1006,Shubham,Prado NA,BE-08,Battery,Semi-Critical,2123,3,0.0014,0.998,0.6,9,84.63
+2026-01-11,1004,Rishi,Prado NA,BE-07,Inner VI,Semi-Critical,2161,2,0.0009,0.999,0.18,118,97.96
+2026-01-10,1009,Kiran,Innova,BE-09,PCB,Critical,2226,3,0.0013,0.998,0.59,78,90.49
+2026-01-14,1006,Shubham,Prado NA,BE-08,Cosmetic,Normal,2102,1,0.0005,0.999,0.73,78,89.16
+2026-01-14,1007,Neha,Prado NA,BE-09,RF Cable,Critical,2123,4,0.0019,0.997,0.73,77,88.97
+2026-01-16,1002,Kajal,Fortuner,BE-08,RF Cable,Critical,1885,1,0.0005,0.999,0.33,95,94.57
+2026-01-12,1005,Puja,Prado NA,BE-09,Camera,Critical,2141,1,0.0005,0.999,0.42,11,86.68
+2026-01-15,1009,Kiran,Fortuner,BE-08,Cosmetic,Normal,1517,0,0,1,1.19,42,81.6
+2026-01-10,1002,Kajal,Fortuner,BE-07,Camera,Critical,1854,4,0.0022,0.997,0.63,81,90.28
+2026-01-12,1010,Maya,Innova,BE-08,Inner VI,Semi-Critical,2252,1,0.0004,0.999,0.68,34,86
+2026-01-13,1006,Shubham,Fortuner,BE-09,RF Cable,Critical,1528,2,0.0013,0.998,1.06,115,88.88
+2026-01-16,1001,Anuj,Prado EU,BE-08,Inner VI,Semi-Critical,1719,0,0,1,0.02,114,99.3
+2026-01-12,1010,Maya,Fortuner,BE-09,Cosmetic,Normal,1676,3,0.0018,0.998,0.93,35,83.48
+2026-01-12,1008,Saurabh,Prado EU,BE-08,Cosmetic,Normal,1968,1,0.0005,0.999,0.88,93,88.91
+2026-01-11,1004,Rishi,Fortuner,BE-07,Battery,Semi-Critical,1535,0,0,1,0.29,94,94.93
+2026-01-10,1010,Maya,Prado NA,BE-09,Camera,Critical,2178,0,0,1,0.62,42,87.3
+2026-01-13,1001,Anuj,Prado EU,BE-08,Inner VI,Semi-Critical,1674,0,0,1,0.48,27,87.45
+2026-01-16,1004,Rishi,Prado EU,BE-07,Battery,Semi-Critical,1633,2,0.0012,0.999,1.08,58,83.94
+2026-01-10,1008,Saurabh,Innova,BE-08,Battery,Semi-Critical,1931,3,0.0016,0.998,0.58,63,89.33
+2026-01-13,1009,Kiran,Prado EU,BE-09,RF Cable,Critical,1983,3,0.0015,0.998,0.37,10,87.02
+2026-01-16,1005,Puja,Prado EU,BE-07,Inner VI,Semi-Critical,1892,1,0.0005,0.999,0.67,92,90.93
+2026-01-14,1003,Ritesh,Fortuner,BE-08,Camera,Critical,1664,1,0.0006,0.999,0.51,87,92.1
+2026-01-15,1008,Saurabh,Fortuner,BE-08,RF Cable,Critical,1903,1,0.0005,0.999,0.24,40,90.89
+2026-01-11,1003,Ritesh,Prado EU,BE-09,PCB,Critical,1822,2,0.0011,0.998,1.17,46,82.04
+2026-01-15,1002,Kajal,Fortuner,BE-08,Camera,Critical,2220,1,0.0005,0.999,0.34,66,92.06
+2026-01-13,1001,Anuj,Prado NA,BE-08,Cosmetic,Normal,2272,1,0.0004,0.999,0.54,50,88.73
+2026-01-10,1009,Kiran,Innova,BE-08,PCB,Critical,1768,2,0.0011,0.998,0.21,40,91.14
+2026-01-16,1005,Puja,Prado NA,BE-08,RF Cable,Critical,1623,0,0,1,0.51,42,88.4
+2026-01-12,1009,Kiran,Fortuner,BE-07,Inner VI,Semi-Critical,1575,1,0.0006,0.999,0.41,97,93.93
+2026-01-15,1008,Saurabh,Prado EU,BE-08,PCB,Critical,1683,2,0.0012,0.998,1.11,28,81.13
+2026-01-12,1009,Kiran,Fortuner,BE-08,Cosmetic,Normal,1521,2,0.0013,0.998,0.18,87,95.35
+2026-01-13,1005,Puja,Prado EU,BE-09,RF Cable,Critical,1989,1,0.0005,0.999,1.14,106,87.39
+2026-01-15,1003,Ritesh,Innova,BE-09,Cosmetic,Normal,1957,1,0.0005,0.999,0.94,114,90.06
+2026-01-12,1001,Anuj,Fortuner,BE-09,RF Cable,Critical,1749,2,0.0011,0.998,0.92,96,88.71
+2026-01-15,1007,Neha,Fortuner,BE-09,Camera,Critical,1660,3,0.0018,0.997,0.71,49,86.83
+2026-01-14,1006,Shubham,Prado NA,BE-09,Camera,Critical,2160,3,0.0014,0.998,0.2,75,94.14
+2026-01-12,1005,Puja,Fortuner,BE-09,Cosmetic,Normal,1647,0,0,1,0.97,100,88.63
+2026-01-16,1009,Kiran,Prado NA,BE-07,RF Cable,Critical,2220,2,0.0009,0.999,0.78,67,87.71
+2026-01-16,1010,Maya,Fortuner,BE-08,Camera,Critical,2147,2,0.0009,0.999,0.94,29,82.94
+2026-01-16,1005,Puja,Prado EU,BE-07,RF Cable,Critical,1915,1,0.0005,0.999,0.91,23,82.78
+2026-01-13,1007,Neha,Fortuner,BE-07,PCB,Critical,1512,1,0.0007,0.999,0.64,70,89.38
+2026-01-13,1009,Kiran,Fortuner,BE-07,PCB,Critical,1712,2,0.0012,0.998,0.29,11,87.92
+2026-01-12,1001,Anuj,Innova,BE-09,Battery,Semi-Critical,1503,2,0.0013,0.998,0.18,31,90.68
+2026-01-11,1006,Shubham,Fortuner,BE-08,PCB,Critical,2114,2,0.0009,0.999,0.9,108,89.92
+2026-01-12,1008,Saurabh,Prado NA,BE-07,RF Cable,Critical,2050,1,0.0005,0.999,0.2,36,90.96
+2026-01-14,1003,Ritesh,Innova,BE-08,RF Cable,Critical,1610,3,0.0019,0.997,1.12,97,86.73
+2026-01-14,1008,Saurabh,Prado EU,BE-07,Inner VI,Semi-Critical,2138,1,0.0005,0.999,0.33,81,93.41
+2026-01-13,1010,Maya,Prado EU,BE-09,Cosmetic,Normal,1715,4,0.0023,0.996,0.63,85,90.59
+2026-01-10,1009,Kiran,Prado EU,BE-07,RF Cable,Critical,2166,6,0.0028,0.996,0.61,108,92.67
+2026-01-11,1004,Rishi,Prado EU,BE-09,Cosmetic,Normal,1883,1,0.0005,0.999,0.79,69,87.81
+2026-01-14,1005,Puja,Prado EU,BE-08,Cosmetic,Normal,2261,2,0.0009,0.999,1.12,65,84.15
+2026-01-14,1008,Saurabh,Innova,BE-07,Battery,Semi-Critical,2243,0,0,1,0.67,14,84.47
+2026-01-12,1010,Maya,Prado EU,BE-07,RF Cable,Critical,1539,5,0.0032,0.995,0.84,88,88.66
+2026-01-16,1003,Ritesh,Prado NA,BE-08,Camera,Critical,2015,2,0.001,0.999,0.39,99,94.27
+2026-01-14,1004,Rishi,Fortuner,BE-07,RF Cable,Critical,1987,1,0.0005,0.999,0.13,84,95.66
+2026-01-12,1004,Rishi,Prado EU,BE-09,PCB,Critical,1867,2,0.0011,0.999,0.59,44,87.68
+2026-01-10,1004,Rishi,Prado NA,BE-09,Inner VI,Semi-Critical,1645,1,0.0006,0.999,0.5,30,87.45
+2026-01-15,1002,Kajal,Fortuner,BE-08,RF Cable,Critical,2059,3,0.0015,0.998,0.99,108,88.98
+2026-01-14,1005,Puja,Prado EU,BE-08,PCB,Critical,2247,2,0.0009,0.999,1.19,24,80.03
+2026-01-15,1008,Saurabh,Prado EU,BE-09,PCB,Critical,1578,2,0.0013,0.998,0.05,112,98.74
+2026-01-14,1002,Kajal,Prado NA,BE-08,Cosmetic,Normal,1891,0,0,1,0.6,49,88.08
+2026-01-10,1003,Ritesh,Innova,BE-08,Cosmetic,Normal,1971,2,0.001,0.999,0.52,53,89.14
+2026-01-14,1006,Shubham,Fortuner,BE-09,Cosmetic,Normal,1840,3,0.0016,0.998,1.18,104,86.74
+2026-01-11,1008,Saurabh,Fortuner,BE-07,Battery,Semi-Critical,1866,0,0,1,1.06,74,85.57
+2026-01-10,1007,Neha,Innova,BE-09,Cosmetic,Normal,2198,0,0,1,0.13,51,92.95
+2026-01-11,1005,Puja,Prado NA,BE-07,PCB,Critical,1592,1,0.0006,0.999,0.44,35,88.46
+2026-01-10,1008,Saurabh,Innova,BE-07,RF Cable,Critical,1528,5,0.0033,0.995,0.98,93,87.67
+2026-01-13,1009,Kiran,Prado EU,BE-08,Inner VI,Semi-Critical,2087,0,0,1,0.26,54,91.9
+2026-01-15,1008,Saurabh,Innova,BE-07,PCB,Critical,1576,0,0,1,0.03,89,97.12
+2026-01-10,1003,Ritesh,Innova,BE-07,Battery,Semi-Critical,2203,2,0.0009,0.999,0.88,43,84.71
+2026-01-13,1006,Shubham,Prado NA,BE-07,Battery,Semi-Critical,1657,0,0,1,0.32,65,92.22
+2026-01-11,1002,Kajal,Innova,BE-08,Battery,Semi-Critical,1942,1,0.0005,0.999,0.12,37,91.84
+2026-01-12,1003,Ritesh,Innova,BE-08,Battery,Semi-Critical,2198,0,0,1,0.08,85,96.28
+2026-01-14,1007,Neha,Prado NA,BE-07,Camera,Critical,2289,1,0.0004,0.999,0.37,75,92.51
+2026-01-16,1005,Puja,Prado NA,BE-08,Cosmetic,Normal,1736,2,0.0012,0.999,0.77,25,84.3
+2026-01-12,1005,Puja,Innova,BE-08,Cosmetic,Normal,1745,0,0,1,0.65,39,86.75
+2026-01-12,1002,Kajal,Fortuner,BE-07,Camera,Critical,1701,1,0.0006,0.999,0.25,37,90.54
+2026-01-16,1003,Ritesh,Fortuner,BE-07,Inner VI,Semi-Critical,2161,0,0,1,0.66,61,88.48
+2026-01-15,1008,Saurabh,Fortuner,BE-09,Cosmetic,Normal,1506,1,0.0007,0.999,0.66,38,86.51
+2026-01-15,1006,Shubham,Fortuner,BE-09,Camera,Critical,1608,0,0,1,1.07,9,80.05
+2026-01-13,1002,Kajal,Prado EU,BE-07,Camera,Critical,1516,1,0.0007,0.999,0.92,101,89.16
+2026-01-14,1005,Puja,Prado NA,BE-09,Battery,Semi-Critical,2040,0,0,1,0.94,49,84.68
+2026-01-12,1006,Shubham,Prado NA,BE-08,Battery,Semi-Critical,2237,0,0,1,0.93,80,87.37
+2026-01-16,1008,Saurabh,Prado NA,BE-09,PCB,Critical,2038,3,0.0015,0.998,0.9,92,88.55
+2026-01-16,1009,Kiran,Prado NA,BE-08,RF Cable,Critical,1939,4,0.0021,0.997,1.07,49,83.22
+2026-01-14,1006,Shubham,Innova,BE-07,RF Cable,Critical,1505,2,0.0013,0.998,0.58,44,87.76
+2026-01-10,1009,Kiran,Fortuner,BE-08,Inner VI,Semi-Critical,2176,1,0.0005,0.999,1.01,92,87.53
+2026-01-10,1010,Maya,Innova,BE-09,Battery,Semi-Critical,1927,0,0,1,1,94,87.83
+2026-01-11,1005,Puja,Prado EU,BE-08,Battery,Semi-Critical,1743,0,0,1,0.64,57,88.35
+2026-01-13,1004,Rishi,Prado EU,BE-09,Inner VI,Semi-Critical,1678,2,0.0012,0.998,0.27,20,88.87
+2026-01-10,1001,Anuj,Fortuner,BE-09,Battery,Semi-Critical,1743,1,0.0006,0.999,0.69,84,90.05
+2026-01-13,1003,Ritesh,Innova,BE-07,Battery,Semi-Critical,1598,0,0,1,0.1,6,89.5
+2026-01-15,1004,Rishi,Prado NA,BE-07,Battery,Semi-Critical,2107,1,0.0005,0.999,0.2,36,90.96
+2026-01-11,1010,Maya,Fortuner,BE-07,Cosmetic,Normal,2051,1,0.0005,0.999,1.09,89,86.48
+2026-01-16,1009,Kiran,Fortuner,BE-09,Inner VI,Semi-Critical,2253,1,0.0004,0.999,0.61,115,93.45
+2026-01-11,1009,Kiran,Fortuner,BE-07,Inner VI,Semi-Critical,1628,1,0.0006,0.999,0.18,98,96.32
+2026-01-13,1004,Rishi,Prado NA,BE-09,RF Cable,Critical,1642,2,0.0012,0.998,0.19,112,97.34
+2026-01-11,1008,Saurabh,Prado EU,BE-08,Cosmetic,Normal,1776,0,0,1,0.79,79,88.68
+2026-01-10,1004,Rishi,Fortuner,BE-07,Battery,Semi-Critical,2127,1,0.0005,0.999,0.97,86,87.43
+2026-01-15,1009,Kiran,Fortuner,BE-07,Camera,Critical,1572,5,0.0032,0.995,0.44,95,93.25
+2026-01-13,1004,Rishi,Prado NA,BE-07,RF Cable,Critical,2018,5,0.0025,0.997,0.93,50,84.67
+2026-01-15,1002,Kajal,Fortuner,BE-08,Inner VI,Semi-Critical,2290,0,0,1,0.08,44,92.87
+2026-01-13,1008,Saurabh,Prado NA,BE-07,RF Cable,Critical,1912,4,0.0021,0.997,0.11,17,90.15
+2026-01-14,1001,Anuj,Prado NA,BE-08,Cosmetic,Normal,1933,2,0.001,0.998,0.47,32,87.88
+2026-01-15,1001,Anuj,Innova,BE-07,PCB,Critical,2250,4,0.0018,0.997,0.69,71,88.87
+2026-01-12,1010,Maya,Fortuner,BE-09,Cosmetic,Normal,2204,1,0.0005,0.999,0.61,80,90.53
+2026-01-15,1008,Saurabh,Prado EU,BE-08,Cosmetic,Normal,1901,3,0.0016,0.998,0.81,75,88.03
+2026-01-15,1008,Saurabh,Prado EU,BE-09,Inner VI,Semi-Critical,1898,0,0,1,0.88,98,89.37
+2026-01-13,1001,Anuj,Prado NA,BE-09,PCB,Critical,2030,0,0,1,0.82,92,89.47
+2026-01-14,1007,Neha,Fortuner,BE-08,Battery,Semi-Critical,2223,0,0,1,0.9,100,89.33
+2026-01-10,1007,Neha,Prado NA,BE-09,RF Cable,Critical,1708,3,0.0018,0.998,0.6,7,84.45
+2026-01-13,1009,Kiran,Fortuner,BE-09,Camera,Critical,2182,1,0.0005,0.999,0.91,118,90.7
+2026-01-16,1005,Puja,Fortuner,BE-07,Battery,Semi-Critical,2110,0,0,1,0.95,71,86.42
+2026-01-10,1002,Kajal,Innova,BE-07,RF Cable,Critical,1959,1,0.0005,0.999,0.12,8,89.43
+2026-01-14,1008,Saurabh,Prado NA,BE-09,PCB,Critical,2162,3,0.0014,0.998,0.48,66,90.59
+2026-01-10,1007,Neha,Prado NA,BE-09,Camera,Critical,1841,1,0.0005,0.999,0.53,75,90.91
+2026-01-12,1001,Anuj,Prado NA,BE-08,PCB,Critical,1787,4,0.0022,0.997,0.86,30,83.72
+2026-01-12,1003,Ritesh,Prado EU,BE-08,Battery,Semi-Critical,1589,1,0.0006,0.999,0.03,50,93.82
+2026-01-16,1004,Rishi,Fortuner,BE-08,Battery,Semi-Critical,2189,0,0,1,0.17,69,94.05
+2026-01-16,1003,Ritesh,Fortuner,BE-09,Inner VI,Semi-Critical,2282,1,0.0004,0.999,0.49,55,89.65
+2026-01-15,1010,Maya,Innova,BE-08,Battery,Semi-Critical,1629,1,0.0006,0.999,0.73,85,89.73
+2026-01-12,1003,Ritesh,Prado NA,BE-09,Cosmetic,Normal,1936,1,0.0005,0.999,0.33,10,87.49
+2026-01-12,1006,Shubham,Innova,BE-07,RF Cable,Critical,2146,2,0.0009,0.999,0.11,33,91.57
+2026-01-16,1004,Rishi,Innova,BE-09,Battery,Semi-Critical,2200,0,0,1,1.11,55,83.48
+2026-01-10,1006,Shubham,Prado NA,BE-08,Cosmetic,Normal,1826,1,0.0005,0.999,0.31,6,87.36
+2026-01-14,1006,Shubham,Prado NA,BE-09,Battery,Semi-Critical,1980,0,0,1,0.41,29,88.32
+2026-01-10,1006,Shubham,Innova,BE-07,RF Cable,Critical,1596,0,0,1,0.44,41,89.02
+2026-01-16,1007,Neha,Prado NA,BE-08,Inner VI,Semi-Critical,2089,0,0,1,1.11,66,84.4
+2026-01-10,1003,Ritesh,Innova,BE-08,RF Cable,Critical,1629,1,0.0006,0.999,0.26,34,90.19
+2026-01-11,1004,Rishi,Fortuner,BE-09,RF Cable,Critical,1551,3,0.0019,0.997,0.93,38,83.71
+2026-01-11,1004,Rishi,Prado EU,BE-09,Battery,Semi-Critical,2092,1,0.0005,0.999,0,73,96.04
+2026-01-16,1001,Anuj,Prado NA,BE-08,Camera,Critical,1779,0,0,1,0.74,40,85.93
+2026-01-14,1002,Kajal,Prado NA,BE-07,Inner VI,Semi-Critical,1678,3,0.0018,0.998,0.32,90,94.16
+2026-01-12,1006,Shubham,Prado EU,BE-07,Inner VI,Semi-Critical,1836,2,0.0011,0.998,0.9,72,86.91
+2026-01-10,1008,Saurabh,Innova,BE-09,RF Cable,Critical,1571,1,0.0006,0.999,0.19,61,93.13
+2026-01-13,1010,Maya,Prado EU,BE-09,Cosmetic,Normal,2294,0,0,1,1.19,20,79.77
+2026-01-14,1008,Saurabh,Prado EU,BE-08,PCB,Critical,1903,1,0.0005,0.999,0.83,22,83.49
+2026-01-13,1008,Saurabh,Innova,BE-09,RF Cable,Critical,2149,0,0,1,0.23,46,91.53
+2026-01-13,1008,Saurabh,Innova,BE-08,Cosmetic,Normal,2005,2,0.001,0.999,0.59,109,93.11
+2026-01-13,1006,Shubham,Prado EU,BE-09,Inner VI,Semi-Critical,2007,1,0.0005,0.999,0.61,119,93.77
+2026-01-12,1009,Kiran,Prado NA,BE-07,PCB,Critical,2037,1,0.0005,0.999,0.38,114,95.66
+2026-01-12,1005,Puja,Fortuner,BE-08,Battery,Semi-Critical,2065,1,0.0005,0.999,1.14,19,80.15
+2026-01-12,1007,Neha,Innova,BE-07,Inner VI,Semi-Critical,2038,3,0.0015,0.998,0.82,12,82.68
+2026-01-13,1010,Maya,Prado NA,BE-07,Battery,Semi-Critical,1948,1,0.0005,0.999,0.3,75,93.21
+2026-01-12,1002,Kajal,Fortuner,BE-08,Cosmetic,Normal,1860,1,0.0005,0.999,0.95,21,82.21
+2026-01-11,1007,Neha,Fortuner,BE-08,Camera,Critical,1866,1,0.0005,0.999,1.09,39,82.31
+2026-01-16,1002,Kajal,Prado EU,BE-08,Cosmetic,Normal,1670,0,0,1,0.76,22,84.23
+2026-01-11,1002,Kajal,Innova,BE-07,Inner VI,Semi-Critical,1681,1,0.0006,0.999,0.56,109,93.44
+2026-01-16,1001,Anuj,Prado NA,BE-07,Cosmetic,Normal,2106,2,0.0009,0.999,0.43,86,92.79
+2026-01-12,1001,Anuj,Prado EU,BE-08,PCB,Critical,1781,4,0.0022,0.997,0.68,26,85.19
+2026-01-16,1005,Puja,Prado EU,BE-09,RF Cable,Critical,1589,1,0.0006,0.999,0.1,119,98.87
+2026-01-10,1009,Kiran,Prado NA,BE-07,Cosmetic,Normal,1512,0,0,1,0.59,71,90.02
+2026-01-11,1007,Neha,Innova,BE-09,Inner VI,Semi-Critical,1707,1,0.0006,0.999,1.08,10,79.98
+2026-01-13,1002,Kajal,Fortuner,BE-09,RF Cable,Critical,1737,0,0,1,0,42,93.5
+2026-01-14,1009,Kiran,Innova,BE-08,Battery,Semi-Critical,2114,2,0.0009,0.998,0.16,113,97.74
+2026-01-12,1002,Kajal,Fortuner,BE-09,Battery,Semi-Critical,1898,1,0.0005,0.999,0.41,92,93.52
+2026-01-13,1005,Puja,Fortuner,BE-07,Cosmetic,Normal,2241,0,0,1,0.03,89,97.12
+2026-01-13,1003,Ritesh,Prado EU,BE-08,Battery,Semi-Critical,1866,1,0.0005,0.999,0.31,119,96.78
+2026-01-10,1002,Kajal,Prado NA,BE-07,Battery,Semi-Critical,1911,1,0.0005,0.999,0.3,8,87.63
+2026-01-14,1002,Kajal,Prado EU,BE-07,Inner VI,Semi-Critical,1762,0,0,1,0.02,51,94.05
+2026-01-10,1005,Puja,Innova,BE-09,Cosmetic,Normal,1976,3,0.0015,0.998,0.93,49,84.66
+2026-01-14,1010,Maya,Fortuner,BE-07,Battery,Semi-Critical,1915,0,0,1,0.09,95,97.02
+2026-01-14,1010,Maya,Innova,BE-08,Battery,Semi-Critical,2034,0,0,1,0.08,31,91.78
+2026-01-14,1005,Puja,Fortuner,BE-07,Battery,Semi-Critical,1788,0,0,1,1.18,55,82.78
+2026-01-14,1003,Ritesh,Fortuner,BE-07,PCB,Critical,2201,4,0.0018,0.998,0.85,46,85.19
+2026-01-10,1008,Saurabh,Prado EU,BE-07,Camera,Critical,2296,1,0.0004,0.999,0.61,9,84.62
+2026-01-15,1005,Puja,Prado EU,BE-08,Cosmetic,Normal,2240,0,0,1,0.01,63,95.15
+2026-01-16,1002,Kajal,Innova,BE-09,Inner VI,Semi-Critical,2063,2,0.001,0.999,0.07,58,94.06
+2026-01-13,1005,Puja,Innova,BE-09,Cosmetic,Normal,1719,0,0,1,0.23,10,88.53
+2026-01-10,1007,Neha,Prado NA,BE-09,Camera,Critical,1635,2,0.0012,0.998,1.12,80,85.37
+2026-01-10,1003,Ritesh,Prado NA,BE-09,RF Cable,Critical,1961,3,0.0015,0.998,0.95,59,85.29
+2026-01-13,1003,Ritesh,Innova,BE-09,PCB,Critical,1997,1,0.0005,0.999,0.37,76,92.59
+2026-01-15,1004,Rishi,Fortuner,BE-09,Camera,Critical,2279,2,0.0009,0.999,0.42,114,95.23
+2026-01-11,1004,Rishi,Prado NA,BE-08,Battery,Semi-Critical,1974,1,0.0005,0.999,0.66,86,90.52
+2026-01-11,1006,Shubham,Prado EU,BE-09,Cosmetic,Normal,2239,0,0,1,0.3,85,94.08
+2026-01-14,1005,Puja,Prado EU,BE-07,PCB,Critical,1948,1,0.0005,0.999,0.36,7,86.94
+2026-01-13,1004,Rishi,Innova,BE-07,RF Cable,Critical,1518,2,0.0013,0.998,0.66,85,90.38
+2026-01-14,1007,Neha,Innova,BE-09,Cosmetic,Normal,1911,0,0,1,0.35,19,88.08
+2026-01-16,1005,Puja,Prado NA,BE-09,Cosmetic,Normal,2105,2,0.001,0.999,0.22,63,92.97
+2026-01-13,1002,Kajal,Fortuner,BE-09,PCB,Critical,2225,1,0.0004,0.999,0.16,61,93.45
+2026-01-14,1008,Saurabh,Innova,BE-07,PCB,Critical,1804,3,0.0017,0.998,0.22,52,92
+2026-01-16,1008,Saurabh,Innova,BE-08,RF Cable,Critical,1670,6,0.0036,0.995,0.81,9,82.37
+2026-01-13,1010,Maya,Innova,BE-09,Inner VI,Semi-Critical,1905,1,0.0005,0.999,1.15,102,86.96
+2026-01-16,1004,Rishi,Innova,BE-08,Inner VI,Semi-Critical,1695,3,0.0018,0.998,0.07,48,93.16
+2026-01-15,1006,Shubham,Fortuner,BE-07,Inner VI,Semi-Critical,1946,0,0,1,0.16,45,92.15
+2026-01-13,1002,Kajal,Fortuner,BE-07,Inner VI,Semi-Critical,1542,0,0,1,1.02,93,87.55
+2026-01-14,1002,Kajal,Prado EU,BE-09,RF Cable,Critical,1631,6,0.0037,0.994,1.04,112,88.62
+2026-01-16,1003,Ritesh,Fortuner,BE-07,PCB,Critical,2009,1,0.0005,0.999,1.14,112,87.89
+2026-01-16,1005,Puja,Innova,BE-07,Inner VI,Semi-Critical,2034,2,0.001,0.999,0.86,62,86.49
+2026-01-15,1007,Neha,Fortuner,BE-08,PCB,Critical,1892,4,0.0021,0.997,0.05,85,96.41
+2026-01-15,1003,Ritesh,Prado NA,BE-09,Battery,Semi-Critical,2176,3,0.0014,0.998,0.48,60,90.09
+2026-01-13,1005,Puja,Prado NA,BE-07,PCB,Critical,1739,1,0.0006,0.999,0.19,53,92.47
+2026-01-16,1004,Rishi,Innova,BE-09,Battery,Semi-Critical,1706,2,0.0012,0.998,0.44,19,87.08
+2026-01-10,1005,Puja,Innova,BE-08,Inner VI,Semi-Critical,1644,1,0.0006,0.999,0.91,12,81.85
+2026-01-15,1007,Neha,Prado NA,BE-07,PCB,Critical,2129,2,0.0009,0.999,0.71,57,87.57
+2026-01-15,1009,Kiran,Prado EU,BE-08,RF Cable,Critical,1801,2,0.0011,0.998,1.18,36,81.11
+2026-01-10,1004,Rishi,Fortuner,BE-07,RF Cable,Critical,2296,2,0.0009,0.999,0.09,81,95.78
+2026-01-11,1009,Kiran,Prado NA,BE-07,Battery,Semi-Critical,2297,0,0,1,0.98,85,87.28
+2026-01-12,1003,Ritesh,Prado EU,BE-08,Inner VI,Semi-Critical,1571,2,0.0013,0.998,0.24,64,92.83
+2026-01-13,1005,Puja,Prado NA,BE-08,RF Cable,Critical,1823,2,0.0011,0.999,0.35,77,92.83
+2026-01-10,1007,Neha,Fortuner,BE-07,Camera,Critical,2002,3,0.0015,0.998,0.33,36,89.58
+2026-01-14,1005,Puja,Prado NA,BE-07,RF Cable,Critical,2078,3,0.0014,0.998,0.93,105,89.33
+2026-01-11,1006,Shubham,Prado NA,BE-08,Cosmetic,Normal,1577,1,0.0006,0.999,0.06,45,93.1
+2026-01-12,1001,Anuj,Prado EU,BE-09,RF Cable,Critical,1803,5,0.0028,0.997,0.78,16,83.32
+2026-01-12,1010,Maya,Innova,BE-08,Camera,Critical,1512,1,0.0007,0.999,0.21,76,94.18
+2026-01-13,1002,Kajal,Prado EU,BE-08,Cosmetic,Normal,2015,1,0.0005,0.999,0.44,65,90.98
+2026-01-12,1006,Shubham,Prado NA,BE-07,Inner VI,Semi-Critical,1508,0,0,1,1.11,86,86.07
+2026-01-14,1004,Rishi,Prado NA,BE-09,Cosmetic,Normal,2244,1,0.0004,0.999,0.55,45,88.21
+2026-01-15,1010,Maya,Prado EU,BE-08,PCB,Critical,1698,2,0.0012,0.998,1.11,76,85.14
+2026-01-12,1004,Rishi,Prado EU,BE-08,Battery,Semi-Critical,1814,0,0,1,0.46,69,91.15
+2026-01-11,1005,Puja,Fortuner,BE-08,Battery,Semi-Critical,2098,0,0,1,0.3,75,93.25
+2026-01-14,1010,Maya,Innova,BE-07,RF Cable,Critical,2050,3,0.0015,0.998,0.48,13,86.17
+2026-01-10,1002,Kajal,Fortuner,BE-08,RF Cable,Critical,1911,1,0.0005,0.999,0.18,107,97.08
+2026-01-13,1009,Kiran,Fortuner,BE-09,RF Cable,Critical,1869,2,0.0011,0.999,0.71,96,90.82
+2026-01-11,1002,Kajal,Prado NA,BE-08,PCB,Critical,2197,2,0.0009,0.999,1.07,82,86.06
+2026-01-11,1003,Ritesh,Prado EU,BE-07,Battery,Semi-Critical,1510,1,0.0007,0.999,0.43,69,91.4
+2026-01-14,1008,Saurabh,Innova,BE-07,Camera,Critical,1949,3,0.0015,0.998,0.82,104,90.34
+2026-01-14,1004,Rishi,Fortuner,BE-07,Inner VI,Semi-Critical,1854,0,0,1,0.83,19,83.28
+2026-01-12,1001,Anuj,Prado EU,BE-09,Inner VI,Semi-Critical,1747,1,0.0006,0.999,1.18,67,83.74
