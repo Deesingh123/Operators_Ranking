@@ -1,5 +1,4 @@
 # rank.py
-
 import streamlit as st
 import pandas as pd
 from catboost import CatBoostRegressor
@@ -8,11 +7,11 @@ from catboost import CatBoostRegressor
 # Page Config
 # --------------------------------------------------
 st.set_page_config(
-    page_title="Stage-wise Operator Ranking",
+    page_title="Stage-wise Operator Suitability",
     layout="wide"
 )
 
-st.title("🏭 Stage-wise Operator Suitability Dashboard")
+st.title("🏭 Stage-wise Operator Suitability")
 
 # --------------------------------------------------
 # Load Data
@@ -24,7 +23,7 @@ def load_data():
 df = load_data()
 
 # --------------------------------------------------
-# Features
+# Feature Columns
 # --------------------------------------------------
 features = [
     'Model','Line','Stage','Stage_Criticality',
@@ -75,7 +74,7 @@ filtered_df = df[
 ]
 
 # --------------------------------------------------
-# Stage-wise Ranking
+# Employee Ranking
 # --------------------------------------------------
 ranking = (
     filtered_df
@@ -110,7 +109,7 @@ def recommend(row):
 ranking["Recommendation"] = ranking.apply(recommend, axis=1)
 
 # --------------------------------------------------
-# TOP 5 Operators Table
+# Top Operators
 # --------------------------------------------------
 st.subheader(f"📊 Top 5 Operators – {selected_stage} ({selected_model})")
 
@@ -124,70 +123,47 @@ top5["Avg Suitability"] = top5["Avg Suitability"].round(2)
 st.dataframe(top5, use_container_width=True)
 
 # --------------------------------------------------
-# Key Insights
+# Key Metrics
 # --------------------------------------------------
-best = ranking.iloc[0]
-worst = ranking.iloc[-1]
+st.subheader("📌 Key Management Insights")
 
-st.subheader("📌 Key Insights")
+c1, c2, c3, c4 = st.columns(4)
 
-c1, c2, c3 = st.columns(3)
+c1.metric("👥 Operators", len(ranking))
+c2.metric("⭐ Best Avg Score", f"{ranking.Avg_Suitability.max():.2f}")
+c3.metric("⚠ Avg Defect Rate", f"{ranking.Avg_Defect_Rate.mean():.4f}")
+c4.metric("🏗 Stage Criticality", selected_stage)
 
-c1.metric(
-    "✅ Best Operator",
-    best.Emp_Name,
-    f"{best.Avg_Suitability:.2f}"
+# --------------------------------------------------
+# Risky Operators
+# --------------------------------------------------
+st.subheader("⚠️ Operators Needing Attention")
+
+risk_ops = ranking[
+    (ranking.Avg_Defect_Rate > ranking.Avg_Defect_Rate.mean()) &
+    (ranking.Avg_Suitability < ranking.Avg_Suitability.mean())
+].head(5)
+
+st.dataframe(
+    risk_ops[["Emp_Name","Avg_Defect_Rate","Avg_Suitability","Recommendation"]],
+    use_container_width=True
 )
 
-c2.metric(
-    "⚠️ Risky Operator",
-    worst.Emp_Name,
-    f"{worst.Avg_Suitability:.2f}"
-)
-
-c3.metric(
-    "👥 Total Operators",
-    len(ranking)
-)
-
 # --------------------------------------------------
-# Risky Operators (High Defect + Exposure)
+# Best Employee per Stage (Global Insight)
 # --------------------------------------------------
-st.subheader("⚠️ High Risk Operators")
+st.subheader("🎯 Best Employee–Stage Fit")
 
-risk_table = ranking.sort_values(
-    ["Avg_Defect_Rate","Avg_Suitability"],
-    ascending=[False, True]
-).head(5)
-
-risk_table = risk_table[
-    ["Emp_Name","Avg_Defect_Rate","Avg_Suitability"]
-]
-
-risk_table.columns = ["Employee","Defect Rate","Avg Suitability"]
-risk_table["Defect Rate"] = risk_table["Defect Rate"].round(4)
-risk_table["Avg Suitability"] = risk_table["Avg Suitability"].round(2)
-
-st.dataframe(risk_table, use_container_width=True)
-
-# --------------------------------------------------
-# Stage Health Insight
-# --------------------------------------------------
-st.subheader("🏗 Stage Health Overview")
-
-stage_health = (
-    df.groupby("Stage")
-    .agg(
-        Avg_Suitability=("Predicted_Suitability","mean"),
-        Avg_Defect_Rate=("Defect_Rate","mean")
-    )
+best_fit = (
+    df.groupby(["Stage","Emp_Name"])
+    .agg(Avg_Suitability=("Predicted_Suitability","mean"))
     .reset_index()
 )
 
-stage_health["Avg_Suitability"] = stage_health["Avg_Suitability"].round(2)
-stage_health["Avg_Defect_Rate"] = stage_health["Avg_Defect_Rate"].round(4)
+best_fit = best_fit.sort_values("Avg_Suitability", ascending=False)\
+                   .groupby("Stage").head(1)
 
-st.dataframe(stage_health, use_container_width=True)
+st.dataframe(best_fit, use_container_width=True)
 
 # --------------------------------------------------
 # Feature Importance
